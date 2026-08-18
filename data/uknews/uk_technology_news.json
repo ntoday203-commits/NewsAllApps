@@ -1,5 +1,28 @@
 [
   {
+    "id": "7ac1f31b57b8bc050d3f4501",
+    "title": "Apple's new macOS update reportedly contains a video of AirPods with a camera | TechCrunch",
+    "source": "techcrunch.com",
+    "author": "Ivan Mehta",
+    "published_at": "2026-08-18T00:00:00",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/PXL_20240909_184838058.PORTRAIT.jpg?resize=1200,900",
+    "url": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHcxX0hLZm5EZGtNeHVtanhFWWNfWXRpU3B1MFdrckxURy1KY3RCVVFvX2k0Ry11OGh3QTJGWEJ6UFFvM0hvUC0yZDdlSjlGRDNJQWRBYzFUc2NTcHRZd09BcHlCcjNFMWp4eTZ6MmkzcUxVbGloZkxWaUExYlNHX1VEUl9adGRiZEJoVTBvc2lnOENQYkNxc1JzWVRiRV94clpRcV9FV3htVTN3cWxuWA?oc=5",
+    "content": "Apple seems to be already preparing launch materials for its upcoming AirPods with a camera, a leaked video in the latest macOS update spotted by MacRumors suggests.\nThe video, found in macOS 26.7 RC, shows a man holding up a book and talking with Siri about it using visual information.\n“With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later,” the voiceover in the video says.\nMacRumous reports that these new AirPods have a camera that can be used to examine objects in front of the user and answer questions about it. The publication apparently found a line in the software code that suggests the AirPods will notify you if your hair or something else is covering the camera.\nIn May, Bloomberg reported that Apple was in the late stages of testing such a device. The report said the camera-equipped AirPods would look like the AirPods Pro 3, but will have a longer stem and an LED light to indicate that data is being sent to the cloud.\nOther devices, like the Ray-Ban Meta Glasses, Looki pendant, and smart glasses from Rokid, already do something similar. This might be Apple’s move to embed real-world intelligence into devices before it launches smart glasses of its own.\nBloomberg noted that Apple wanted to release the new AirPods in the first half of 2026, but now that it will ship the new Siri in September, it will look to launch them along with the operating system updates.",
+    "summary": "A leaked video found in a recent macOS update suggests that Apple is preparing launch materials for camera-equipped AirPods. The footage demonstrates a user utilizing Visual Intelligence to ask Siri about an object. According to reports, these upcoming AirPods may launch around the time of operating system updates.",
+    "key_points": [
+      "A leaked video in a macOS update shows a user interacting with Siri and visual information using upcoming AirPods.",
+      "The camera-equipped AirPods are designed to examine objects in front of the user and answer questions about them.",
+      "Software code indicates the device will notify users if something is blocking the camera.",
+      "Apple previously planned a release in the first half of 2026, but the launch may align with upcoming operating system updates."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-18T15:19:12+00:00"
+  },
+  {
     "id": "5e40f58739d531e8628fbff3",
     "title": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
     "source": "Forbes",
