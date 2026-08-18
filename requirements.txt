@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+trafilatura
+lxml_html_clean
+feedparser
+googlenewsdecoder
+google-genai
+python-dateutil
+python-dotenv

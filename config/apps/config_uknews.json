@@ -1,0 +1,78 @@
+{
+  "app_name": "uknews",
+  "repository": "faroukdubai2/fetch_news",
+  "news_sources": [
+    {
+      "function": "get_news_by_topic",
+      "topic": "NATION",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_national_news.json"
+    },
+    {
+      "function": "get_news_by_topic",
+      "topic": "WORLD",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_world_news.json"
+    },
+    {
+      "function": "get_local_news",
+      "location": "London",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_local_news.json"
+    },
+    {
+      "function": "get_news_by_topic",
+      "topic": "BUSINESS",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_business_news.json"
+    },
+    {
+      "function": "get_news_by_topic",
+      "topic": "TECHNOLOGY",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_technology_news.json"
+    },
+    {
+      "function": "get_news_by_topic",
+      "topic": "ENTERTAINMENT",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_entertainment_news.json"
+    },
+    {
+      "function": "get_news_by_topic",
+      "topic": "SPORTS",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_sports_news.json"
+    },
+    {
+      "function": "get_news_by_topic",
+      "topic": "SCIENCE",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_science_news.json"
+    },
+    {
+      "function": "get_news_by_topic",
+      "topic": "HEALTH",
+      "language": "en",
+      "country": "GB",
+      "max_results": 99,
+      "filename": "uk_health_news.json"
+    }
+  ]
+}
