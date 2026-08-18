@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "id": "71486a5d16e9b1c842f11f97",
     "title": "‘The truth about Diana’: Charles Spencer to publish book about late sister",
     "source": "The Guardian",
@@ -15,12 +16,33 @@
       "Charles Spencer says the book provides the truth about Diana from her brother's perspective.",
       "The project was prompted by ongoing interview requests as the 30th anniversary of Diana's death approaches.",
       "Publisher Daniel Bunyard noted the book contains many revelations and serves as a fitting tribute."
+=======
+    "id": "a5785489147c01728ee034bf",
+    "title": "Tupac murder trial: Witness tells Las Vegas court 'all hell broke loose'",
+    "source": "BBC",
+    "author": "Live Reporting Edited by Brandon Livesay; With Shaimaa Khalil; Regan Morris",
+    "published_at": "2026-08-17T00:00:00",
+    "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+    "url": "https://www.bbc.com/news/live/c9gk4e30jp40t",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNTM1VElJaDFkWm9PdXJHMkNNY2JFRjVnVEdzdm5sblJRQ0dvMWFuZDlTZEZKX0drZnlONHFkN1pTYjRPM1hkR0JwUTk4ZUlVbmJTeERn?oc=5",
+    "content": "![](https://ichef.bbci.co.uk/ace/standard/128/cpsprodpb//vivo/live/images/2022/10/6/0ec4afc9-c8d1-4651-86ed-1eaf4ad5d5bd.jpg.webp) Shaimaa Khalil\nReporting from court\nWatch: What we learned from opening statements in Tupac Shakurâs murder trial\nA day in court has been a long time coming in the 30-year-old cold case of Tupac Shakur's murder in Las Vegas.\nI was inside the courthouse as opening statements began in the trial of Duane \"Keffe D\" Davis, charged with murder in Tupac's death.\nDavis walked in wearing a blue suit, scanned the public gallery and then sat quietly beside his lawyer as prosecutors laid out their case against him.\nThey say Davis orchestrated Tupac Shakur's killing as revenge for an attack on his nephew earlier that night.\nThe prosecutor told the jury what they can expect to hear in this trial: \"You will learn from Keffe D himself.\"\nThat's because much of the case against Davis comes from his own words in his memoir Compton Street Legend. He describes being inside a white Cadillac at the scene of the shooting and supplying the gun that was passed into the back seat and used to shoot Tupac.\nDavis's defence says that account was a fictional embellishment to sell books, calling the decades-long investigation \"biased, sloppy and incomplete\".\nThe jury on Monday also heard about the crucial minutes before and after the shooting from those who were there.\nA former police officer said he saw the BMW carrying Tupac and record-label boss Suge Knight riddled with bullets.\nAnother witness recalled hearing the gunfire: \"All hell broke loose.\"\nBut she did not see the shooter.\nAnd the detective who investigated the case at the time said witnesses had \"skedaddled\" - leaving police with little more info than a white car and a glimpse of what he described as \"a black arm\".\nAs the jury hears from more witnesses in the coming days, they must decide how reliable their testimony is - and whether Davis's own words were indeed fact or fiction.\nWe are closing our live coverage. You can read a wrap of today's evidence here.",
+    "summary": "Opening statements began in the trial of Duane \"Keffe D\" Davis, who is charged with orchestrating the 1996 murder of Tupac Shakur as revenge for an earlier attack on his nephew. Prosecutors rely heavily on Davis's own memoir describing his involvement, while the defense argues his account was a fictional fabrication to boost book sales. Witnesses, including a former police officer and a bystander, testified about the shooting and the chaotic aftermath.",
+    "key_points": [
+      "Duane \"Keffe D\" Davis is on trial for the murder of Tupac Shakur in Las Vegas.",
+      "Prosecutors argue Davis orchestrated the killing for revenge and supplied the weapon, citing his own memoir.",
+      "The defense claims Davis's written account was a fictional embellishment created to sell books and called the police investigation flawed.",
+      "Witnesses at the trial described hearing gunfire and seeing the bullet-ridden BMW carrying Tupac and Suge Knight."
+>>>>>>> c6199f2443edc21346866b4960b8774c3a0f1315
     ],
     "language": "en",
     "country": "GB",
     "topic": "ENTERTAINMENT",
     "app": "uknews",
+<<<<<<< HEAD
     "collected_at": "2026-08-18T13:37:35+00:00"
+=======
+    "collected_at": "2026-08-18T13:32:28+00:00"
+>>>>>>> c6199f2443edc21346866b4960b8774c3a0f1315
   },
   {
     "id": "62db9565abe86ba3245444e3",

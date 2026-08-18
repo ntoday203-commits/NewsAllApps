@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "id": "618a6ce4010b1849f60e618c",
     "title": "UK weather: Thunderstorms could bring risk of flash flooding",
     "source": "BBC",
@@ -16,6 +17,37 @@
       "Low pressure will introduce cooler air from the Arctic, bringing temperatures down to 13-18C in Scotland and Northern Ireland, and 18-22C in England and Wales by Thursday.",
       "Long-range forecast models indicate that while intense heat is not expected for the rest of August, temperatures could potentially rise again in September."
     ],
+=======
+    "id": "e768d05ff19c23002290f1d2",
+    "title": "Man charged with manslaughter after man bitten by German shepherd dies - Sky News",
+    "source": "Sky News",
+    "author": null,
+    "published_at": "2026-08-18T09:43:01+00:00",
+    "image": null,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnljanBDYmNicEtSNEVJaUgwS0Z0QnlPV09RaFVPV1h1NnAyajdzb1VtM3AtZ19xXzBaWVRuVFlmdjl2V3R5bTUzYkZtdHE4NVZWY2Rpam9nNjRhdVgwa3Rta3NiMkVFNVVLOG1LOUpxOHp4TUFBRnpkWmFGalhsZ0dZUE5IQ1RoUVAxdWJJNjhqdnhpQ25GYmJn?oc=5",
+    "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnljanBDYmNicEtSNEVJaUgwS0Z0QnlPV09RaFVPV1h1NnAyajdzb1VtM3AtZ19xXzBaWVRuVFlmdjl2V3R5bTUzYkZtdHE4NVZWY2Rpam9nNjRhdVgwa3Rta3NiMkVFNVVLOG1LOUpxOHp4TUFBRnpkWmFGalhsZ0dZUE5IQ1RoUVAxdWJJNjhqdnhpQ25GYmJn?oc=5",
+    "content": null,
+    "summary": "",
+    "key_points": [],
+    "language": "en",
+    "country": "GB",
+    "topic": "NATION",
+    "app": "uknews",
+    "collected_at": "2026-08-18T13:32:10+00:00"
+  },
+  {
+    "id": "55f95e305d1771fdecfb25b8",
+    "title": "UK will support Ukraine \"100%\" despite Russian warning, PM Burnham says - Reuters",
+    "source": "Reuters",
+    "author": null,
+    "published_at": "2026-08-18T11:39:43+00:00",
+    "image": null,
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
+    "content": null,
+    "summary": "",
+    "key_points": [],
+>>>>>>> c6199f2443edc21346866b4960b8774c3a0f1315
     "language": "en",
     "country": "GB",
     "topic": "NATION",
