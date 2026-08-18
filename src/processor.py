@@ -17,6 +17,23 @@ APPS_INDEX_PATH = os.path.join("config", "apps.json")
 APPS_DIR = os.path.join("config", "apps")
 CACHE_PATH = os.path.join(DATA_DIR, "processed_cache.json")
 
+# A record is only saved to a feed's live JSON if every one of these fields
+# is actually populated (no nulls, empty strings, or empty lists).
+REQUIRED_FIELDS = (
+    "title", "source", "author", "published_at",
+    "image", "url", "content", "summary", "key_points",
+)
+
+
+def _is_complete(record: dict) -> bool:
+    for field in REQUIRED_FIELDS:
+        value = record.get(field)
+        if value is None:
+            return False
+        if isinstance(value, (str, list)) and len(value) == 0:
+            return False
+    return True
+
 
 def _load_cache() -> dict:
     return load_json(CACHE_PATH, default={})
@@ -124,6 +141,12 @@ def _process_source(app_name: str, source: dict, cache: dict) -> None:
 
         cache[generate_article_id(item.google_news_url)] = record
         cache[record["id"]] = record
+
+        if not _is_complete(record):
+            missing = [f for f in REQUIRED_FIELDS if not record.get(f)]
+            logger.info("Skipping incomplete article (missing %s): %s", ", ".join(missing), record["title"])
+            continue
+
         existing.insert(0, record)
         existing_ids.add(record["id"])
         logger.info("Article saved: %s", record["title"])
