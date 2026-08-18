@@ -1,5 +1,29 @@
 [
   {
+    "id": "565e062c56dc330d4641ed4e",
+    "title": "Microsoft finally fixing File Explorer and the Context Menu",
+    "source": "The Register",
+    "author": "Richard Speed",
+    "published_at": "2026-08-18T00:00:00",
+    "image": "https://image.theregister.com/257334.jpg?imageId=257334&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "url": "https://www.theregister.com/os-platforms/2026/08/18/microsoft-finally-fixing-file-explorer-and-the-context-menu/5289121",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFdUUUZQOFBhdUpUUzU5NFVWclNjUXU5MGYyYVNNc0RvV1RoSXZEY0hpTzVUWmYtVFJIZVM2bjNEVjFuMHctbjJUVV9DbVlLdmJkU0h6TEpCeE9KQmpEbVlyNzVVV3ZIWVFQTnEzSXdla2FuNWZuZnQxWXV5Zy1FOUFaLXVkVjJ5eHJpVk81T1l4UnZiSThvTWgtZ0lWQ0Z1UmtDb1VlZ3lQV29sNmRCSk9xWDlBWHRkMmVN?oc=5",
+    "content": "MOST POPULAR\n- \n                        \n                            Security Copilot tricked into telling reseachers how to hack itselfHow to social engineer an AI's reasoning engine\n- \n                        \n                            AI and ml Payments giant Stripe is about to drop over $7 billion to become a gateway to AI token salesAI gateways look promising as companies struggle with model orchestration\n- \n                        \n                            ai and ml Anthropic says text watermarking scheme relies on inconsequential words'Shall I compare thee to a summer's afternoon' is the sort of thing this will make, and others look likely to adopt it\n- \n                        \n                            AI and ML DeepSeek's innovative harness treats everything as a plug-inChinese AI labs keep moving forward while US labs play defense\n- \n                        \n                            SECURITY Autonomous AI attacks pose 'clear and present danger' to critical infrastructureWeaponized agents could turn digital intrusions into kinetic disasters, experts warn\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash anotherWord up\n- \n                        \n                            GNOME can look like Windows – and Flashback can do it without extensionsNew 'Simple-taskbar' is an option, but there's a simpler, stabler way\n- \n                        \n                            A moment of silence, please, for the final release of Debian on x86-32New Debian versions hit FOSSland in the form of 13.6 and 12.15\n- \n                        \n                            Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websitesFlaws in iCagenda, Balbooa Forms extensions can impact open source CMS that powers a million sites worldwide\n- \n                        \n                            Frame: A new X11 server – implemented directly in assemblyJoins yserver, Phoenix, and of course XLibre – and outlier Arcan\n- \n                        \n                            Cinnamon 6.8 will support Wayland – if you want itNext version of Linux Mint’s desktop has both kinds of display server",
+    "summary": "The provided text contains a list of popular tech news headlines and article blurbs covering topics such as AI security, software updates, and cybersecurity incidents. Notably, it includes a title mentioning Microsoft fixing File Explorer and the Context Menu, though the provided article body does not contain the actual text of that story.",
+    "key_points": [
+      "Security Copilot and autonomous AI attacks are drawing attention for potential vulnerabilities and risks.",
+      "Stripe is reportedly preparing a multi-billion dollar move to enter AI token sales.",
+      "Microsoft patches failed to fix on-prem SharePoint, leading to active zero-day attacks.",
+      "Debian has reached its final release on x86-32 architecture.",
+      "Cinnamon 6.8 is announced to support Wayland for the Linux Mint desktop."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-18T17:16:32+00:00"
+  },
+  {
     "id": "9b6395800c6ac4b598c6c978",
     "title": "Streetwear Brand Supreme’s Fall/Winter Catalog Has Collabs With Analogue Pocket, Dyson Vacuums, and Retro Kodak Cameras",
     "source": "IGN",
