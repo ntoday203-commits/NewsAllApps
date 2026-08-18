@@ -55,9 +55,7 @@ NewsAllApps/
 ```json
 {
   "apps": [
-    "config_usanews.json",
-    "config_canadanews.json",
-    "config_hailal.json"
+    "config_uknews.json"
   ]
 }
 ```
@@ -66,32 +64,32 @@ Each file under `config/apps/` defines one app's feeds — no code changes neede
 
 ```json
 {
-  "app_name": "usanews",
-  "repository": "faroukdubai2/fetch_news",
-  "news_sources": [
+  "app_name": "uknews",
+  "repository": "ntoday203-commits/NewsAllApps",
+  "topics": [
     {
-      "function": "get_top_news",
-      "language": "en",
-      "country": "US",
-      "max_results": 99,
-      "filename": "usa_top_news.json"
-    },
+      "topic": "NATION",
+      "filename": "uk_national_news.json"
+    }
+  ],
+  "locations": [
     {
-      "function": "get_news_by_topic",
-      "topic": "WORLD",
-      "language": "en",
-      "country": "US",
-      "max_results": 99,
-      "filename": "usa_world_news.json"
+      "topic": "London",
+      "filename": "uk_london_news.json"
     }
   ]
 }
 ```
 
-* `function` — `get_top_news` (front-page headlines) or `get_news_by_topic` (a named Google News section:
-  world, nation, business, technology, entertainment, sports, science, health)
-* `max_results` — the cap for this feed's live JSON file
-* `filename` — where this feed's output is written, under `data/<app_name>/`
+* `topics` — named Google News sections (`NATION`, `WORLD`, `BUSINESS`, `TECHNOLOGY`, `ENTERTAINMENT`,
+  `SPORTS`, `SCIENCE`, `HEALTH`); each becomes a `get_news_by_topic` feed
+* `locations` — a specific place (city, region, country name); each becomes a `get_local_news` feed via
+  Google News' geo section
+* `filename` — where that feed's output is written, under `data/<app_name>/`
+* `country`, `language`, and `max_results` are **not** set per app or per entry — every feed uses the fixed
+  defaults in `src/apps_config.py` (`DEFAULT_COUNTRY`, `DEFAULT_LANGUAGE`, `DEFAULT_MAX_RESULTS`, currently
+  `GB` / `en` / `99`). Change those constants (or reintroduce per-app fields) if you need another
+  country/language.
 * `repository` is currently informational only; the pipeline doesn't act on it
 
 ## How a run behaves
@@ -100,9 +98,12 @@ Each run is deliberately conservative so it fits comfortably within Gemini's rat
 runs every hour:
 
 1. For every feed, scan up to 50 recent Google News entries for the **first one not already saved** (live
-   file or archive).
-2. Process only that **one** new article (resolve → extract → summarize), save it to the top of the feed's
-   live JSON file, then move on to the next feed. If nothing new is found, the feed is left untouched.
+   file or archive) **and fully populated** — title, source, author, published date, image, url, content,
+   summary, and key_points must all be non-empty. Candidates missing any of those are skipped (and cached as
+   skipped, so they aren't re-fetched or re-summarized on the next run) and scanning continues.
+2. Process only that **one** new, complete article (resolve → extract → summarize), save it to the top of the
+   feed's live JSON file, then move on to the next feed. If nothing new and complete is found within the scan
+   window, the feed is left untouched.
 3. If a feed's live file grows past `max_results`, the oldest entries are moved into
    `data/<app_name>/archive/<filename>.json` — so nothing is lost, but each iOS-facing file stays capped and
    fast to load.

@@ -18,6 +18,25 @@ SUPPORTED_FUNCTIONS = {"get_top_news", "get_news_by_topic", "get_local_news"}
 # doesn't stop the pipeline from ever seeing fresh items further down the feed.
 MIN_SCAN_WINDOW = 50
 
+# Applied to every topic/location entry — not configurable per app config.
+DEFAULT_COUNTRY = "GB"
+DEFAULT_LANGUAGE = "en"
+DEFAULT_MAX_RESULTS = 99
+
+
+def _entries_to_sources(entries: list[dict], function: str, field: str) -> list[dict]:
+    sources = []
+    for entry in entries:
+        sources.append({
+            "function": function,
+            field: entry.get("topic"),
+            "filename": entry.get("filename"),
+            "country": DEFAULT_COUNTRY,
+            "language": DEFAULT_LANGUAGE,
+            "max_results": DEFAULT_MAX_RESULTS,
+        })
+    return sources
+
 
 def load_apps(index_path: str, apps_dir: str) -> list[dict]:
     """Read the apps index (list of config filenames) and load each app's
@@ -35,9 +54,17 @@ def load_apps(index_path: str, apps_dir: str) -> list[dict]:
         if app_cfg is None:
             logger.error("Could not load app config %s", path)
             continue
-        if not app_cfg.get("app_name") or not app_cfg.get("news_sources"):
-            logger.error("App config %s is missing app_name or news_sources", path)
+        if not app_cfg.get("app_name"):
+            logger.error("App config %s is missing app_name", path)
             continue
+
+        news_sources = _entries_to_sources(app_cfg.get("topics", []), "get_news_by_topic", "topic")
+        news_sources += _entries_to_sources(app_cfg.get("locations", []), "get_local_news", "location")
+        if not news_sources:
+            logger.error("App config %s has no topics or locations", path)
+            continue
+
+        app_cfg["news_sources"] = news_sources
         apps.append(app_cfg)
     return apps
 

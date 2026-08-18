@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4874fc31-fd27-48b1-8bf0-51abf2239f79" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/processed_cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed_cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_business_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_business_news.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_entertainment_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_entertainment_news.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_health_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_health_news.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_local_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_local_news.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_national_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_national_news.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_science_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_science_news.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_sports_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_sports_news.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_technology_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_technology_news.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/uknews/uk_world_news.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/uknews/uk_world_news.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +28,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging master"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RunManager">
