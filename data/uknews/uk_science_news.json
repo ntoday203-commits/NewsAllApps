@@ -1,5 +1,28 @@
 [
   {
+    "id": "ac0f42b42e564d5c2c6dbe6c",
+    "title": "NASA Tests Featherweight Radar Antenna For SkyFall Mars Helicopters",
+    "source": "Hackaday",
+    "author": "Maya Posch",
+    "published_at": "2026-08-19T00:00:00",
+    "image": "https://hackaday.com/wp-content/uploads/2026/08/SkyFall_showing_GPR_stowed_and_deployed.jpg",
+    "url": "https://hackaday.com/2026/08/19/nasa-tests-featherweight-radar-antenna-for-skyfall-mars-helicopters/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaF8zNTk1MHZwdzRSQ0ZPOUJVb0Vtd1RaVUJKdnlvOUd6Y2VJVHlYMjF5REdnbVk3dFFNSk9EVXBRSENTcnphZFFUaUdZZEo2VlQwQS1MZ1FGa1JSUnd5c3d5VFgxemxXc0c4UzU1TWMwX3ZQRFlad0hZZW0yaXVKMDYzU3pDa21HZDN4NjNHQXdjUjdGTkFZdkVBNFJJZXVabFE?oc=5",
+    "content": "After the little Mars helicopter Ingenuity blew everyone away with its performance, it was clear that a future Mars mission should involve more helicopters like it, with even more capabilities. The main proposal here is NASA’s SkyFall mission which would involve three autonomous helicopters, capable of searching for resources like water. To this end they would need a ground-penetrating radar system, with the antenna somehow folding away for landings, an idea that JPL is currently testing.\nThe SkyFall mission is currently penciled in to commence in 2028, following which it will be deployed from the Space Reactor-1 fission reactor-powered spacecraft based around elements of the now discarded Lunar Gateway space station. This obviously poses some uncertainties around when and if this mission will actually take place, but that doesn’t prevent JPL engineers from solving issues with these SkyFall helicopters.\nAs the antenna for the ground-penetrating radar extends beyond the landing legs, it was crucial that said antenna was flexible enough to simply fold in on itself like fabric. For this they used an existing flexible antenna design called Vivaldi, which was downscaled for the helicopters and subsequently tested to see how many simulated Mars landings it would be able to resist, as well as the effect of the cold nights and warm days.\nWe’re looking forward to seeing these SkyFall helicopters zip over the Martian surface. Maybe they can even swing by Ingenuity while they’re in the neighborhood.",
+    "summary": "NASA's proposed SkyFall mission aims to deploy three autonomous helicopters to Mars in 2028 to search for resources like water. To achieve this, JPL engineers are testing a featherweight, flexible Vivaldi radar antenna that can fold during landings. The mission deployment relies on a spacecraft powered by the Space Reactor-1 fission reactor.",
+    "key_points": [
+      "The SkyFall mission is proposed to feature three autonomous Mars helicopters searching for resources.",
+      "JPL engineers are testing a downscaled, flexible Vivaldi radar antenna that folds during landings.",
+      "The mission is currently scheduled for 2028 and depends on a fission reactor-powered spacecraft.",
+      "Testing evaluates the antenna's durability against simulated Mars landings and extreme temperature changes."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-08-20T10:18:36+00:00"
+  },
+  {
     "id": "ae7f947206c8f9b01601a35f",
     "title": "Climate doom may discourage climate action, but there’s a way to counter it",
     "source": "The Conversation",
