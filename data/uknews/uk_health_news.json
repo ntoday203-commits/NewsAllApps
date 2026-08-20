@@ -1,5 +1,28 @@
 [
   {
+    "id": "c3b28b82517dd439d740b4e9",
+    "title": "Symptoms May Signal Prostate Cancer in Primary Care",
+    "source": "Medscape",
+    "author": "Manasi Talwadekar",
+    "published_at": "2026-08-19T00:00:00",
+    "image": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty-251008-doctor-patient-prostate-800x450.jpg",
+    "url": "https://www.medscape.com/viewarticle/symptoms-may-signal-clinically-significant-prostate-cancer-2026a1000s00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR0MHp0TmJSLXFMU19LWVdjeGlaaUNCX0x0Sm4xZzVHU3VDNHZkQVJZQmMtMTFxbTBtUERFTVI0ZTRjOWJhUVBJX29kdG1uSTJiUnNBeG1GWGZfMF9uYmU1b2stZFpQb2g5V2JrX2Yxc0s0ems3VkVuV0pnZDRYU0xxSGo5ZkY3MlRMYjdVVnlsRXNvcDFDR1ZlbTNvN3B3ZGlPUHh4NWFRRTla?oc=5",
+    "content": "TOPLINE\nMen who presented to primary care with prostate symptoms had higher odds of a clinically significant prostate cancer diagnosis than those who underwent prostate-specific antigen (PSA) testing, with no difference in stage.\nMETHODOLOGY\n- Researchers conducted a retrospective cohort study using Clinical Practice Research Datalink (CPRD) Aurum data to compare diagnostic and prognostic outcomes in men with prostate cancer on the basis of how they were diagnosed: through opportunistic PSA testing, asymptomatic PSA testing, or symptomatic presentation.\n- They included 722,597 men aged 50 years or older (mean age, 64.4 years) with first presentation to primary care between 2011 and 2016, of whom 262,714 presented with lower urinary tract symptoms, haematuria, or erectile dysfunction.\n- Each patient was matched with up to two men without recorded symptoms; those in this asymptomatic group later diagnosed with prostate cancer were presumed to have been detected via opportunistic PSA testing.\n- The primary outcome was a new diagnosis of clinically significant prostate cancer, defined as a Gleason grade group of 3 or higher, within 24 months of index consultation; early-stage prostate cancer and mortality were secondary outcomes.\nTAKEAWAY\n- Any prostate cancer was diagnosed in 3.15% of symptomatic men vs 2.03% of asymptomatic men within 24 months (adjusted odds ratio [aOR], 1.59; 95% CI, 1.54-1.64).\n- Clinically significant prostate cancer was more common among men with coded symptomatic presentation (aOR, 1.14; 95% CI, 1.07-1.23).\n- Early-stage diagnosis did not differ significantly between the two groups.\n- No significant difference in the risk for prostate cancer mortality was observed between symptomatic and asymptomatic patients.\nIN PRACTICE\n\"[The] study shows the risk profile and outcomes for prostate cancer differs between symptomatic and asymptomatic detection, suggesting different approaches to primary care diagnostic strategies amongst these two patient groups may be required,\" the authors wrote.\nSOURCE\nThe study was led by Samuel W.D. Merriel, University of Manchester, Manchester, England. It was published online on August 11, 2026, in the British Journal of General Practice.\nLIMITATIONS\nSymptom status relied on coded primary care data, so some asymptomatic men may have been misclassified if symptoms were only recorded in free text records. Men who did not present to primary care for assessment or those who were diagnosed via emergency presentation may not have been captured in CPRD. Patients who changed general practice during follow-up were excluded, which may have introduced selection bias.\nDISCLOSURES\nThe study was funded by the National Institute for Health and Care Research School for Primary Care Research. One author reported being an associate editor of the British Journal of General Practice but was not involved in editorial decisions on this manuscript.\nThis article was created using several editorial tools, including AI, as part of the process. Human editors reviewed this content before publication.",
+    "summary": "A retrospective cohort study found that men presenting to primary care with prostate symptoms had higher odds of receiving a clinically significant prostate cancer diagnosis compared to those diagnosed via opportunistic PSA testing. However, there were no significant differences in cancer stage or prostate cancer mortality risk between the symptomatic and asymptomatic groups. The authors suggest that these findings indicate a need for different primary care diagnostic strategies depending on patient symptom status.",
+    "key_points": [
+      "Symptomatic men had higher odds of any prostate cancer diagnosis (3.15%) compared to asymptomatic men (2.03%) within 24 months.",
+      "Clinically significant prostate cancer was more common among men with a coded symptomatic presentation.",
+      "There was no significant difference in early-stage prostate cancer diagnosis between the symptomatic and asymptomatic groups.",
+      "No significant difference in the risk of prostate cancer mortality was observed between the two patient groups."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "HEALTH",
+    "app": "uknews",
+    "collected_at": "2026-08-20T22:15:14+00:00"
+  },
+  {
     "id": "00be360ef148da5a292e0789",
     "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
     "source": "Al Jazeera",
