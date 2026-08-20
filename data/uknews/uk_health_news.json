@@ -1,5 +1,28 @@
 [
   {
+    "id": "96b22e7029376457150512ce",
+    "title": "Can Eating Tomatoes Reduce Liver Fat in Adults With MASLD?",
+    "source": "Medscape",
+    "author": "Marilynn Larkin",
+    "published_at": "2026-08-20T00:00:00",
+    "image": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt-260817-tomatoes-800x450.jpg",
+    "url": "https://www.medscape.com/viewarticle/can-eating-tomatoes-reduce-liver-fat-adults-masld-2026a1000sp4",
+    "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzQweWo3eUlpbWU4cTJjNzlMa3FpTDFpYXE1SkJfTjlpSTEyS0IwYkpxMTVsM2ZxVENKd3RWSG1lMTBGZE9jeDRUWTdKNXVxRHljd0h3ZEN5ZlQtbXp2MUJjbzN1T2liY0hQZHByRTI4Tm5wYTdsbXFmOURsY2tUbG93SmZmSDcxVldQaDBmQUdZbXZyenZqN05KM2gyX2pC?oc=5",
+    "content": "TOPLINE\nEating raw tomatoes and tomato sauce daily reduced the risk for hepatic steatosis in a small trial of adults with metabolic dysfunction-associated steatotic liver disease (MASLD).\nMETHODOLOGY\n- The researchers randomized 79 adults (median age, about 58 years; about 70% men) with MASLD and a BMI ≤ 30 to a tomato-rich diet (42 participants) or a tomato-free diet (37 participants) for 6 weeks.\n- The intervention group ate 200 g of raw tomatoes and 50 g of tomato sauce daily; control individuals did not eat tomatoes in any form.\n- The researchers measured liver fat using the FibroScan-based controlled attenuation parameter (CAP) at baseline and follow-up.\n- Secondary outcomes included DEXA-measured body composition, liver stiffness, and metabolic and biochemical markers.\nTAKEAWAY\n- CAP decreased in both groups, with a significantly greater reduction in the intervention group (median change: -35.00 vs -18.00 dB/m), a difference that held after adjusting for age, sex, and BMI, and at follow-up.\n- Hepatic steatosis reduction occurred without measurable changes in body composition or most metabolic and biochemical markers.\n- At the trial end, body weight, BMI, waist circumference, and DEXA-measured fat mass did not differ significantly between groups.\n- Liver stiffness, fibrosis scores, and metabolic markers such as glucose, lipids, and liver enzymes also did not differ significantly between groups.\nIN PRACTICE\n“These findings suggest that tomato consumption may reduce hepatic fat accumulation independently of major changes in body weight, total and abdominal adiposity, [and] support the potential role of tomato-based interventions as part of nutritional management for MASLD,” the authors of the study wrote.\nSOURCE\nThe study was led by Rossella Tatoli of the National Institute of Gastroenterology IRCCS, Bari, Italy, and published online on July 30 in Nutrients.\nLIMITATIONS\nThe study had several limitations. The sample size was small, the duration was short, and it was a single-center study. All participants had a BMI ≤ 30, so the results may not generalize to patients with obesity, who make up most MASLD cases in clinical practice. Adherence was self-reported. The study did not measure circulating lycopene or carotenoid levels, so the mechanism behind the hepatic steatosis reduction remains unclear.\nDISCLOSURES\nThe authors declared no conflicts of interest.",
+    "summary": "A small clinical trial found that a 6-week diet incorporating daily raw tomatoes and tomato sauce significantly reduced liver fat in adults with metabolic dysfunction-associated steatotic liver disease (MASLD). The reduction in hepatic steatosis occurred independently of changes in body weight, fat mass, or most metabolic markers. Researchers noted limitations including a small sample size, short duration, and lack of generalizability to patients with obesity.",
+    "key_points": [
+      "Participants on the tomato-rich diet consumed 200 g of raw tomatoes and 50 g of tomato sauce daily for 6 weeks.",
+      "Liver fat measured by CAP showed a significantly greater reduction in the tomato group compared to the control group.",
+      "The reduction in liver fat happened without measurable changes in body composition, waist circumference, or metabolic markers.",
+      "Study limitations included a small, single-center design, short duration, a participant BMI ≤ 30, and self-reported adherence."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "HEALTH",
+    "app": "uknews",
+    "collected_at": "2026-08-20T23:14:32+00:00"
+  },
+  {
     "id": "c3b28b82517dd439d740b4e9",
     "title": "Symptoms May Signal Prostate Cancer in Primary Care",
     "source": "Medscape",
