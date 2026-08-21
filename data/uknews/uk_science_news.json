@@ -1,5 +1,29 @@
 [
   {
+    "id": "29e09a1dbeab78d337bb884c",
+    "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
+    "source": "Ars Technica",
+    "author": "Stephen Clark",
+    "published_at": "2026-08-21T00:00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg",
+    "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUNPdzRzMk5naENtblN1NFk4N0gzWDVTNk94YVBZdzUxU1drcDE2RXVRQkpqWjVSSTEyUFdHS0NSbFBhdmN0NnZlVTl0UjRlSktnb1FlSm9QNkVRekRjejhtNzktVkdvcDgwaVdiSWhxd3p4Z0lnTTVBU0g3ek1QYjBFUkUzQ2tnOC1hcU55TENkR0xYT1hmQ3NPelBiUUdpMnlrbUZ3?oc=5",
+    "content": "Welcome to Edition 9.07 of the Rocket Report! China’s workhorse Long March rocket family appears to be rebounding quickly from a rare launch failure August 10. Chinese officials have not publicly released any information on what may have caused the Long March 7A rocket to break apart less than 90 seconds after liftoff, but the rocket’s use of YF-100 engines initially raised questions about the failure’s impact on other Chinese rockets that use the same type of engines. But no biggie. YF-100 engines returned to flight six days later with the successful flight of a Long March 12 rocket, and the heavy-lift Long March 5—also with YF-100 engines—is set to launch in a few days with one of China’s most important space missions of the decade: the Chang’e 7 lunar lander en route to the Moon’s south pole.\nAs always, we welcome reader submissions. If you don’t want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.\n![](https://cdn.arstechnica.net/wp-content/uploads/2018/05/smalll.png) \nTrouble in Taiwan. A prototype for a future satellite launch vehicle developed by Taiwan’s top weapons manufacturer veered off course shortly after liftoff Wednesday, Taiwan’s Central News Agency reports. The “trajectory anomaly” prompted the activation of the rocket’s self-destruct mechanism. The government agency responsible for the test flight, the National Chung-Shan Institute of Science and Technology (NCSIST), reported no injuries or property damage. Debris from the rocket fell into a planned safety control zone near the southern tip of Taiwan.\nParallel paths… Details about Wednesday’s rocket test are scarce, but the flight likely involved a sub-scale suborbital version of NCSIST’s planned military satellite launcher. The launch was the first test flight for the military’s satellite launch program, which focuses on developing a solid-fueled rocket to place small payloads into low-Earth orbit. At the same time, the civilian Taiwan Space Agency is developing a liquid-fueled satellite launcher that could be ready for orbital missions in the early 2030s.",
+    "summary": "China's Long March rocket family is recovering quickly from a recent launch failure as rockets using the same YF-100 engines have already returned to flight. Meanwhile, a prototype satellite launch vehicle in Taiwan experienced a trajectory anomaly during its first test flight, prompting its self-destruct mechanism to activate without causing any injuries or property damage. Taiwan is concurrently pursuing both a military solid-fueled satellite launcher and a civilian liquid-fueled launcher.",
+    "key_points": [
+      "China's YF-100 engines returned to flight just six days after a Long March 7A launch failure.",
+      "China's heavy-lift Long March 5 is scheduled to launch the Chang'e 7 lunar lander.",
+      "A prototype satellite launch vehicle in Taiwan went off course during its first test flight, triggering its self-destruct mechanism.",
+      "Taiwan's test flight resulted in no injuries or property damage, with debris falling into a designated safety zone.",
+      "Taiwan is developing both a military solid-fueled rocket and a civilian liquid-fueled rocket for satellite launches."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-08-21T15:21:22+00:00"
+  },
+  {
     "id": "89f4d92fd40e53718002cff5",
     "title": "No lift for Swift as NASA abandons orbital rescue",
     "source": "The Register",
