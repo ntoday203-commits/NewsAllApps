@@ -1,5 +1,29 @@
 [
   {
+    "id": "71381504af7647c4adaf1f1d",
+    "title": "LG’s new OLED breakthrough can boost display lifespans",
+    "source": "The Verge",
+    "author": "Jess Weatherbed",
+    "published_at": "2026-08-20T00:00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/LG-Display-FLiPP-OLED-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+    "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYWdLOXptWTNZTUFNNTVDdXJKWG1IUW5UTXMzckM5dWVxR0lCR2l2NlJrVl9Fa0l4V1BRek1WdDVoLVFGSlUwUEVWYmI2TzZHRXZxd2w0UHBNbldmMk04Tkpra24tZWh1a3R5UXMzYnlYVXZDVnNuQmEyVkYwYk9jag?oc=5",
+    "content": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display describes as a “dream next-generation OLED” patterning method that aims to eliminate some of the existing limitations in OLED panels.\nLG’s new OLED breakthrough can boost display lifespans\nThe ‘FLiPP’ tech should also be brighter, more energy efficient, and virtually any size.\n![LG Display FLiPP OLED hero](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/LG-Display-FLiPP-OLED-hero.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n![LG Display FLiPP OLED hero](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/LG-Display-FLiPP-OLED-hero.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe main advantage of FLiPP is that it doesn’t use a fine metal mask (FMM) like conventional RGB OLEDs, which is a metal plate with tiny holes used to stencil light-emitting materials for pixel patterning. This manufacturing process can be costly, and larger panels can suffer from sagging and alignment problems. Instead, FLiPP positions RGB pixels in order and then uses photolithography and UV light to remove areas that aren’t needed.\nCompared to FMM panels, LG Display says that FLiPP enables OLED panels to be 1.6 times brighter and last 2.4 times longer, and reduces power consumption by 13 percent. FLiPP is also “free from panel size and resolution constraints,” according to LG Display, which means it can be used for virtually any panel requirements, including VR and AR displays.\nLG Display says it will start by applying this technology to “IT applications,” such as tablets and monitors, before later expanding to cover products like ultra-large TVs and 1-inch wearable devices. There’s no word on when production will start, or when the first products will be available to buy.",
+    "summary": "LG Display has introduced a new OLED manufacturing method called FLiPP that eliminates the need for fine metal masks. This technology uses photolithography and UV light to pattern pixels, resulting in displays that are brighter, more energy-efficient, longer-lasting, and virtually free from size constraints. LG plans to apply FLiPP initially to IT applications like tablets and monitors before expanding to other devices.",
+    "key_points": [
+      "LG Display unveiled the FLiPP (FMM-Less innovative Pixel Patterning) manufacturing method.",
+      "FLiPP eliminates fine metal masks (FMM) by using photolithography and UV light.",
+      "The technology makes OLED panels 1.6 times brighter, 2.4 times longer-lasting, and 13 percent more energy-efficient.",
+      "FLiPP removes panel size and resolution constraints, making it suitable for devices ranging from VR and AR displays to ultra-large TVs.",
+      "LG will initially apply the technology to IT applications such as tablets and monitors."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-21T09:23:44+00:00"
+  },
+  {
     "id": "32dbb5aa699c116cb2e4aef9",
     "title": "Stupid Never Dies – a zombie fights for the love of a frozen corpse",
     "source": "The Guardian",
