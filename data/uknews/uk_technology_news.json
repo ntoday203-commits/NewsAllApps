@@ -1,5 +1,29 @@
 [
   {
+    "id": "e9f0212910e6d83e115a9c94",
+    "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More",
+    "source": "MacRumors",
+    "author": "Tim Hardwick",
+    "published_at": "2026-08-21T00:00:00",
+    "image": "https://images.macrumors.com/t/PRt3hOQOcgYP-iOW475qMTax9ks=/2500x/article-new/2026/06/airpods-pro-3-orange.jpeg",
+    "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYmwyRGJYZW41Q2xCSHhVZF9UNUp1amZubmk1QVVLNnVQc0UzbllqZ1hzeElPdDlBWG14WDBRN09hUWdhN3pFa3Z2eEdxb0JwckRSUS1nY014akhjOEgyWWZLZmhGMjlDNlJySjJ3RjkwTHBYMTUyLUlVZ2lJWHJDWmNhUEtjTVpRdUE?oc=5",
+    "content": "Apple is working on camera-equipped AirPods, as indicated by various reports and a demo video of them in action discovered earlier this week. The video was found by MacRumors in the macOS Tahoe 26.7 release candidate, but it turns out there are even more details in the code.\n![airpods pro 3 orange](https://images.macrumors.com/t/P5RFPWoCv1u8Rklkr3eIR7wYHcA=/400x0/article-new/2026/06/airpods-pro-3-orange.jpeg?lossy)\nMacRumors forum member mactracker has discovered a hidden macOS framework called \"AccessorySensorManager\" that manages sensor data from the AirPods when they are connected to a Mac. That's turned up the following information:\n- AirPods designed to capture paired color images: Code indicates the left and right earbuds have individual camera sensors that return synchronised RGB still images of up to 1 megapixel with matching frame IDs, giving Visual Intelligence the same scene from two angles. This doesn't rule out other sensors like infrared cameras, but they aren't mentioned in the code.\n- AirPods support periodic image capture but not video: The cameras take internal still frames for Visual Intelligence to process, rather than \"taking pictures\" or recording video. In \"active\" mode, the framework can request a synced pair of images, or it can receive a capture rate, where pairs of stills are continually sent at the specified rate.\n- Active and passive capture modes use different resolutions: In \"active\" mode, likely triggered by the user via Siri, the AirPods capture a 640x640 image and return a processed 1024x1024 image. \"That's about 0.4 megapixels of sampled image data, and a little over 1 megapixel for the output frame,\" mactracker explains. In \"passive\" mode, they capture a 320x320 image that can return a 320×320 or 512×512 output. \"These are capture-specific resolutions, and the physical sensor's native resolution may be larger,\" adds mactracker.\n- Passive mode appears intended for background environmental awareness: The framework mentions contextual conditions like nearby speech, changes in the surrounding audio, posture changes, head rotation, and movement outside a defined area. It's not clear from the code whether every condition triggers a camera capture.\n- AirPods account for continual head movement: The framework includes lens distortion correction, dual-camera calibration, and camera-to-motion sensor calibration. It can also reject images affected by excessive movement or an occluded view.\n- Some processing happens directly on AirPods: The code mentions \"peripheral inference,\" or on-device detection of whether a person is in view.\n- Each AirPod likely has a capture indicator light: The framework contains code that allows it to remotely control a hardware indicator and its brightness, suggesting the AirPods have a light to let other people know when they are capturing still images.\nIt's worth noting that the AirPods that were shown in the demo video were a version of the AirPods Pro 3 with cameras, which have a B790 codename. Bloomberg's Mark Gurman has said that Apple no longer plans to release this model, and instead is working on a new generation of AirPods with cameras, codenamed B798. This makes it likely that the discovered framework is related to the canceled model. It also underlines that the findings show how Apple's camera-equipped AirPods could work, rather than a guarantee of the final product's features.\nGurman says the AirPods are planned for 2027, and could potentially launch alongside the 20th-anniversary iPhone.",
+    "summary": "Apple code discovered in a macOS release candidate reveals details about camera-equipped AirPods designed to capture synchronized RGB still images for Visual Intelligence. The framework outlines active and passive capture modes, on-device person detection, and a hardware indicator light for privacy. While the code suggests how these features could function, reports indicate the specific tested prototype was canceled in favor of a newer generation planned for 2027.",
+    "key_points": [
+      "Left and right earbuds contain individual camera sensors that capture synchronized RGB still images up to 1 megapixel.",
+      "The framework supports both an active mode for user-triggered captures and a passive mode intended for background environmental awareness.",
+      "Code references peripheral inference to detect whether a person is in view directly on the device.",
+      "A hardware indicator light with adjustable brightness appears designed to signal when images are being captured.",
+      "The discovered code is likely tied to a canceled AirPods Pro 3 prototype codenamed B790, with a new generation expected around 2027."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-22T15:09:25+00:00"
+  },
+  {
     "id": "b8d02c5fc92c179237ed1b6c",
     "title": "‘GTA 6’ Leaker Has Now Reached A Strip Club As Rockstar Scrambles",
     "source": "Forbes",
