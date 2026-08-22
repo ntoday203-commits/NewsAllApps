@@ -1,5 +1,28 @@
 [
   {
+    "id": "608bc3b14f1b73f5a28802f6",
+    "title": "Microsoft confirms latest Windows 11 update is crashing games and rebooting PCs",
+    "source": "TechSpot",
+    "author": "Kishalaya Kundu",
+    "published_at": "2026-08-20T00:00:00",
+    "image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/08/2026-08-20-ts3_thumbs-fea.jpg",
+    "url": "https://www.techspot.com/news/113562-microsoft-confirms-latest-windows-11-update-crashing-games.html",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmQwUTJacUpGeThqTXBkQUgwSWFDUF9QZkZ6NjJfb1NWX2NVVVYxTG14Sk1KWkU5X0t0SmJCbFBTVlhRRGMtSi1URm95RkNmV3pnVUNPR0x1R2wzMEVwRkdWdDc4R1N1dGlxWmQ5QUQwdmc0NERjVHprTUdOQnRReXhlUGJucVFaM0ZoQVRndkxlVnRadmNZWFIwUDhMcHY5QUE?oc=5",
+    "content": "Facepalm: The latest Patch Tuesday update for Windows 11 started rolling out last week, bringing multiple new features, improvements, and bug fixes. However, following several complaints from disgruntled users, Microsoft has now acknowledged that the update may be causing some games to crash on affected devices.\nThe KB5121003 update was released on August 11 for Windows 11 builds 26200.9168 and 26100.9168. According to some users who installed the update, it contains a bug that is causing games to crash and display the EXCEPTION_ACCESS_VIOLATION error. In some cases, the PC automatically reboots after the crash.\nAfter Redditor MyCatsNameIsKlaus reported the issue last week, several others confirmed that they were also experiencing crashes, error messages, and random reboots after installing the update. Redditor Thin_Twist7030 even posted event logs, WER reports, and a kernel dump analysis by DeepSeek, suggesting that the game crashes were actually system BSODs that occurred while playing Arc Raiders.\nThe AI analysis suggests that the problems are caused by a pre-existing \"bad-handle bug\" that Windows previously ignored or returned an error for when an invalid handle was closed. However, the update appears to have tightened kernel handle validation, causing the same invalid handle close to trigger bug check 0x93 INVALID_KERNEL_HANDLE instead of being tolerated.\n![](https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-20-image-27.jpg)\nMicrosoft confirmed that the issue is affecting Windows 11 versions 25H2 and 24H2 and is investigating whether it is caused by the update or incompatible third-party software. The company added that affected games include Arc Raiders, Marvel Tokon: Fighting Souls, and The Finals.\nMicrosoft hasn't suggested an official workaround, but Thin_Twist7030 claims that rolling back KB5121003 via DISM stopped the crashes on his system. They added that they have paused Windows Update for one month so that the contentious update package won't automatically reinstall. As a permanent fix, they recommend that users remove old drivers responsible for the bad-handle bug.\nGame crashes and random reboots are apparently not the only issues caused by KB5121003. According to a Microsoft Learn post by Brian Stringfellow, Teams and the new Outlook are no longer working on Arm devices after installing the update. While Teams crashes after opening, the new Outlook doesn't even launch. The classic Outlook app, however, works as expected.\nStringfellow claims that the issue is affecting a Snapdragon-powered Microsoft Surface Laptop 7th Edition assigned to his company's CFO. He added that the same problem cropped up earlier this year after installing KB5094126, but the issue was resolved by simply rolling back the update. The problem has now apparently reemerged following last week's update.\nMicrosoft has yet to respond to the report, but a couple of other users replied to the thread, confirming that they are also experiencing similar issues on the HP OmniBook 3 and Surface Pro 11, both powered by Arm64 processors.",
+    "summary": "Microsoft has confirmed that the recent Windows 11 KB5121003 update is causing game crashes, error messages, and system reboots for users playing titles like Arc Raiders. The update has also broken functionality for Teams and the new Outlook on Arm-powered devices such as the Surface Laptop. Microsoft is currently investigating the issues and whether third-party software is involved, while affected users have found temporary relief by rolling back the update.",
+    "key_points": [
+      "The Windows 11 KB5121003 update causes game crashes and random PC reboots due to a kernel handle validation issue.",
+      "Affected games include Arc Raiders, Marvel Tokon: Fighting Souls, and The Finals.",
+      "Teams and the new Outlook fail to function on Arm-powered devices following the update.",
+      "Users have temporarily resolved the issues by rolling back the KB5121003 update using DISM."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-22T06:18:17+00:00"
+  },
+  {
     "id": "4b892c3b411c3ddb91077dd9",
     "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live",
     "source": "GamesIndustry.biz",
