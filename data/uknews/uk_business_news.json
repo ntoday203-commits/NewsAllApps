@@ -1,5 +1,29 @@
 [
   {
+    "id": "e8914b0e51354b282e1e6225",
+    "title": "How does Moderna’s new melanoma vaccine work – and could it treat other cancers?",
+    "source": "The Independent",
+    "author": "Rebecca Whittaker",
+    "published_at": "2026-08-22T00:00:00",
+    "image": "https://static.independent.co.uk/2026/08/20/11/2026-08-19T100015Z_915824590_RC2LCR9SMG3X_RTRMADP_3_MERCK-MODERNA-CANCER-VACCINE.JPG?trim=0,209,0,209&width=1200&height=800&crop=1200:800",
+    "url": "https://www.independent.co.uk/news/uk/home-news/moderna-mrna-cancer-vaccine-melanoma-stock-b3036968.html",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFFKeG5zYkl4MjlUcWNzb3JoX1hvdERjVDBsb2otOURNNWNPbDA2UVQta19BSEJsNHZteVRWdktDb0hMTWxGdmxhV19aY0NjZ0otRk1oRWhXZDFrV1NTM3JjLTJKekxkR3hrYlpSVWo1X2JsZjdwX2U1SUUxSVA1VTlCTnhnNEVickg2cG1ZdUZkYmY1WTZuVTY5OGhCNDFmSTNJR1E0UQ?oc=5",
+    "content": "A personalised vaccine given in combination with a drug has been shown to stop tumors returning in skin cancer patients.\nThe experimental mRNA cancer drug, called intismeran, which is personalised for each patient, was developed by pharmaceutical companies Merck & Co or MSD and Moderna.\nIt was given to patients with high-risk melanoma - the most aggressive form of skin cancer causing about 2,600 deaths a year in the UK.\nEarly results show the jab can extend the length of time a patient is cancer free, but it’s unclear how long this new jab could help patients live cancer free for.\nNormally, only around a third of patients with the worst form of the disease live for five years after diagnosis.\n![A dermatologist examines moles and skin growths on a patient's body using a special device](https://static.independent.co.uk/2025/06/23/19/57/iStock-2148512282.jpeg)\nThis phase three trial involved more than 1,000 patients with advanced melanoma, some had large tumours in a specific area and others the cancer had spread to other parts of the body.\nHow does the mRNA vaccine work?\nThe vaccine is made for the individual by analysing the tumour and creating a vaccine that shows the immune system what to look for\n“Personalised cancer vaccines are a fundamentally different way of thinking about cancer treatment. Rather than giving every patient the same medicine, a treatment is designed specifically for the individual patient and the unique genetic fingerprint of their cancer,” Dr Lennard Lee, Consultant Medical Oncologist, at the University of Oxford said.\nDoctors first remove each patient's tumour. The DNA in that biopsy is then analysed for mutations in the tumor's cells.\n“These mutations can generate abnormal proteins, known as neoantigens, which can potentially be recognised by the immune system,” Dr Lee explained.\n“The vaccine uses mRNA to provide instructions corresponding to selected neoantigens, with the aim of training the patient’s immune system, particularly its T cells, to recognise and attack cancer cells carrying them,” he added.\n![Melanoma is the most deadly form of skin cancer](https://static.independent.co.uk/2026/08/19/14/59/melanoma.jpeg)\nThe vaccine is given in nine doses every three weeks, along with one course of Keytruda, an immunotherapy drug, every three weeks.\nDr Lee added: “In this trial, each personalised treatment encodes up to 34 neoantigens and is given alongside pembrolizumab, an established immunotherapy.\n“In simple terms, one treatment helps show the immune system what to look for, while the other helps release the brakes on the immune response.”\nCould it work for other types of cancer?\nMerck and Moderna are testing other similar personalised vaccines for lung, bladder and kidney cancers.\nTrials for the lung cancer vaccine have reached the final stage three phase, while kidney and bladder trials are still in phase two.\nBut it’s hoped this type of vaccine could work across many different tumour types.\n“This is an exciting time for cancer immunotherapy. Vaccines are likely to make a difference in certain settings where the cancer burden is low,” Dr Nina Bhardwaj, Director of Immunotherapy at the Icahn School of Medicine at Mount Sinai, told The Independent.",
+    "summary": "An experimental personalized mRNA cancer vaccine called intismeran, developed by Merck and Moderna, has been shown to help stop tumors from returning in high-risk melanoma patients when combined with the immunotherapy drug Keytruda. The vaccine is custom-made for each patient by analyzing their tumor's DNA to train the immune system to recognize and attack specific neoantigens. Similar personalized vaccines are currently being tested in clinical trials for other types of cancer, including lung, bladder, and kidney cancers.",
+    "key_points": [
+      "Intismeran is a personalized mRNA vaccine developed by Merck and Moderna for high-risk melanoma patients.",
+      "The vaccine works by analyzing a patient's tumor mutations to train the immune system and T cells to target cancer cells.",
+      "It is administered in nine doses alongside the immunotherapy drug Keytruda.",
+      "Early trial results indicate the vaccine extends the time patients remain cancer-free.",
+      "Similar personalized mRNA vaccines are currently undergoing clinical trials for lung, bladder, and kidney cancers."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-08-23T04:25:28+00:00"
+  },
+  {
     "id": "edc6c09754f0d2923035e4a3",
     "title": "Reform’s millions from crypto interests raise doubts about Nigel Farage’s judgement",
     "source": "The Independent",
