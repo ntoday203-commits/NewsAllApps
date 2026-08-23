@@ -1,5 +1,28 @@
 [
   {
+    "id": "21be42bf6a3b6d14529422c0",
+    "title": "The eurozone crisis is a warning to America",
+    "source": "UnHerd",
+    "author": "Wolfgang Munchau",
+    "published_at": "2026-08-22T00:00:00",
+    "image": "https://unherd.com/wp-content/uploads/2026/08/wolfie-.jpg",
+    "url": "https://unherd.com/newsroom/the-eurozone-crisis-is-a-warning-to-america/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yZ1YxbjJfUWJpMHVLa21qTXNvZUc5NmpaeXF1YXFEaWhOeDB1LTJpSnVJOEpvM0pHNEk4MlphSWdOOWtvMGdoNzJldmpqemVlU0JUZ0NMelZjSGZMR3V4RDhrNDJVWFBCM214Z3MyT0IwN0JQUHhmUXgwRnY?oc=5",
+    "content": "The markets are nervous about debt sustainability and decide to push up the yields of 30-year US Treasury bonds. Scott Bessent, the US Treasury Secretary, intervenes by issuing short-term Treasury bills to buy back the debt. What can possibly go wrong?\nThat question has been comprehensively answered. It did not work. On Tuesday, the yield on US 30-year Treasuries peaked at 5.336%. After Scott Bessent’s intervention, they fell to a low of 5.182% earlier this week. Yesterday morning, they were back up to 5.252%, which is roughly where they were on Monday.\nWhat is happening to the US is something that is well known to us Europeans — a toxic debt-interest-rate dynamic. The Congressional Budget Office has recently had to revise its earlier estimates of the US deficit for this fiscal year by $200 billion. As interest rates rise, so does the deficit. This won’t be the last revision.\nDebt crises are nonlinear. As debt goes up, markets push up interest rates, and since governments repay old debt by issuing new debt, deficits rise further. The solution to this, and any debt crisis, is a combination of fiscal consolidation and default. Default can happen in many ways: outright default on bondholders, default on political promises to citizens (on issues such as pensions and healthcare) or through higher inflation. The fact that the US enjoys global reserve currency status makes no difference to the underlying debt dynamic. The defenders of the US’s special role as the absorber of global capital have forever peddled the idea that the US cannot default because the Fed can print unlimited amounts of money. This is downright naive. Of course it can.\nIt’s hard to predict that they will, but there may be circumstances in which they might. The interest rate is an imperfect, often lagging, default-risk pricing mechanism. As veterans of the euro area’s sovereign debt crisis, we remember only too well how hard it was for countries with excess public and private borrowing to extricate themselves from a crisis. One of the important lessons from the era is that national debt, public and private together, was the important variable, not just public debt. Spain had healthy public sector balances but was forced to accept a bailout package for its over-extended banking sector.\nA crowding-out effect is weighing on US Treasuries, as AI companies are tapping the credit markets. There is one estimate, by Apollo, of a total volume of AI-related bond issuance of $700 billion this year. To many investors, this seems a safer bet than a US Treasury bond to finance the irresponsible fiscal policies of the Trump administration.\nThe US is clearly not the only country with a rising deficit. Europe has several economies with high levels of debt. The French debt dynamics are similar to those of the US. The UK tries to stick to fiscal rules at great political cost. Germany has also embarked on a toxic debt expansion that it will struggle to rein in, given the constraints of the political economy.\nDoes this mean that the US is in decline? Analysis of Germany’s decline suggests that it started in the Nineties but only became visible in the statistics since 2018. It was not until a few years ago that the problem was even acknowledged by economists. The US is still the global technology leader, and that alone will carry the country forward. But the seeds of decline have been sown.\nMacroeconomic models and investors’ lore still treat US Treasury bonds as the safe asset. The Europeans learned in the last decade that there is no such thing.\nThis is an edited version of an article that first appeared in the Eurointelligence newsletter.",
+    "summary": "The United States is facing a toxic debt-interest-rate dynamic similar to the eurozone crisis, driven by rising deficits and mounting market pressures on long-term Treasury yields. US Treasury Secretary Scott Bessent's intervention involving short-term Treasury bills failed to sustainably lower 30-year Treasury yields. Although the US remains a global technology leader, rising national debt and competing credit demands from the AI sector are sowing the seeds of potential long-term decline.",
+    "key_points": [
+      "US Treasury Secretary Scott Bessent attempted to lower 30-year Treasury yields by issuing short-term bills to buy back debt, but the intervention ultimately failed.",
+      "The Congressional BudgetO ffice revised the US fiscal deficit estimate upward by $200 billion as rising interest rates drive up the deficit.",
+      "Heavy bond issuance by AI companies is creating a crowding-out effect, as investors view AI investments as safer than US government debt.",
+      "The US's global reserve currency status and the ability to print money do not exempt it from fundamental debt-interest-rate dynamics and default risks."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-08-23T15:10:16+00:00"
+  },
+  {
     "id": "c35f5bf5076fa4690f34b49d",
     "title": "Onshore windfarm applications hit 10-year high in England",
     "source": "The Guardian",
@@ -2295,28 +2318,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-08-18T16:16:52+00:00"
-  },
-  {
-    "id": "7f417e33c68d719e5b555223",
-    "title": "Wetherspoons bans customers playing music from phones in pubs",
-    "source": "BBC",
-    "author": "Mitchell Labiak",
-    "published_at": "2026-08-18T00:00:00",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80MGpMdlpuWktRcTBScXVVZHhIYk90NWkyQzAtUlBCakdSX2tiNnBGNkVodDZMYURYbTdEUkpyU0FVdldiX0sxdzduX0pHVW9WZUNhSzVjcUhRQXNl?oc=5",
-    "content": "![A man sitting in a pub looking at his mobile phone with a pint of beer on the table in front of him](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg)\n- Published\nWetherspoons has banned its customers from playing music out loud or taking calls on speaker, saying the noise from phones and tablets was an increasing problem driving people \"nuts\".\nThe company â which runs 792 pubs and bars across the UK â said that following complaints it has asked customers to switch their devices to silent or to use earphones.\nPolling in recent years by various organisations suggests people are largely opposed to others playing music or taking calls on speaker in public spaces.\nWetherspoons told the BBC that staff would be asked to use \"common sense\" when enforcing the ban.\n\"We are not looking to ask anyone to leave a pub if they go against the ruling, but it is an option for managers if they refuse to do so,\" the company said.\nThe British Beer and Pub Association, which represents Wetherspoons and several other pub companies in the UK, said that \"having a clear policy helps staff enforce rules and customers know what they can and can't do\".\nThe group added: \"We're yet to hear of anyone who relishes having a pint against the backdrop of a speakerphone call or someone loudly playing a video, so we expect this move will be greatly welcomed.\"\nStudies suggest the majority of Britons are annoyed by hearing people take calls on speakerphone or playing videos or music on their phones without headphones.\nA Transport for London survey of 1,000 people last year found 70% of respondents found loud music and phone calls without headphones a nuisance.\nHowever, the evidence also suggests there is a clear generational gap. In an Ofcom survey of 1,010 people in August 2022, of the 13-to-17-year-olds questioned, 69% said it was acceptable to make video calls, 73% to listen to music and 83% to watch videos without headphones.\n'Oasis of tranquility'\nThe decision by Wetherspoons follows a stricter, longstanding policy from rival pub chain Sam Smiths, which has a ban against phone or tech use of any kind, in addition to a ban on swearing.\nWetherspoons does not play music in any of its pubs, with chief executive Sir Tim Martin describing them as \"an oasis of tranquillity and contemplation... in a world dominated by other people's music and amplified sound\".\n\"In order to avoid customers being driven chicken jalfrezi by a cacophony of sound, we are kindly asking phone users to pipe down,\" he added.\nThe chain does play music in the evening at its 44 Lloyds' bars. It confirmed that the ban on customers playing music and taking calls on speaker would also apply to those venues.\nThe number of Wetherspoons pubs has steadily fallen over the last decade from a peak of 955 in late 2015.\nThe firm has faced a financial challenges during those 10 years from the Covid pandemic and inflation.\nLast month, it told investors that profit for the year would be lower than expected because of higher costs for food, labour, repairs, energy and business rates.\n![Your Voice banner image. Your Voice is written in white against a purple background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d048/live/80825d90-55a8-11f1-b682-cf91850925ea.png)",
-    "summary": "UK pub chain Wetherspoons has banned customers from playing music out loud or using speakerphones on mobile devices due to customer complaints. Staff are instructed to use common sense, with managers having the option to ask uncooperative patrons to leave. The company, which does not normally play music in its pubs in order to maintain a quiet atmosphere, joins rival chain Sam Smiths in restricting public tech noise.",
-    "key_points": [
-      "Wetherspoons has 792 pubs and bars across the UK.",
-      "Customers are now asked to use earphones or switch devices to silent instead of playing music or taking calls on speaker.",
-      "Staff will use common sense, and managers can ask refusing customers to leave.",
-      "Surveys indicate that the general public largely finds loud phone audio in public spaces to be a nuisance, though younger demographics are more accepting of it."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-08-18T15:19:08+00:00"
   }
 ]
