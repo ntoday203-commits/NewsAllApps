@@ -1,5 +1,28 @@
 [
   {
+    "id": "a110f9d8a1de115f8a127e3a",
+    "title": "Framework Claims Up To 70% Increase In Battery Life As It Transitions To Intel Wildcat Lake For Laptop 12",
+    "source": "Wccftech",
+    "author": "Sarfraz Khan",
+    "published_at": "2026-08-19T00:00:00",
+    "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Framework-Laptop-12-featured.jpg",
+    "url": "https://wccftech.com/framework-claims-up-to-70-increase-in-battery-life-as-it-transitions-to-intel-wildcat-lake-for-laptop-12/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORjJXN21yak9ia3dlNVFacUpKOXV6QjJ5aUEza1JQUmNEU0dEY3ZKQ2ZwbVFsZFBsc3FQZDZ0elZjd01HUmF1dnRya1NXUXZTOTJMRXFadS1yd3k5X3FIODBuNEhqRU5wMkFhTW9GVS1FczFkOGI0cXQwcWp1dnI4UUstdGNNX0V5ckJwSUVPS0tUQ1lsSWctMnRmVmJ6SWI5cWF4Q210UW1CMnc1OHFDM1U2MDlMa19sbXJ5WTZBZWxOenpW0gHKAUFVX3lxTE13M0RTS0UwRXo5aS1JR3Z6TzJRcXZ2RWNRRGpsQkRuaHNlM1dzX2diLW10a2hIRWdxUUVHSWNlMkh5TGU0VmdERkxxQXg2TGdjUXlURlp6bXlJVnFRMm9NSk9FUFhIN3VBX2kwVjY0X25CRkV1RDNjd094QmEtTEpjdnhJN3RNUndSX0pITXNZUlRDREtFUUpJYk4yRnhLMTVyTDNLZEhQTWlGdmpEWUlKbkdQZUNPZjZtb1JPRkM4a2ktMWRnd2ZCR3c?oc=5",
+    "content": "The company has switched to the newer Intel Core Series 3 processors for superior battery life, starting at just $549.\nFramework Laptop 12 Gets New Configurations With Intel Core Series 3 Wildcat Lake Processors, Starting at $549\nPopular laptop manufacturer Framework has introduced its latest Laptop 12 series, featuring the Intel Core Series 3 processors. This series transitions from Intel 13th-gen SKUs to the latest Wildcat Lake processors, aiming at the affordable market while also delivering a power-efficient and lightweight experience.\nThe company says that they have also added Thunderbolt 4, WiFi 7, and features such as a fingerprint reader and a backlit keyboard. Also, this is the first time a pre-built version is preloaded with Fedora Linux for customers. The pre-orders have been opened and the first batch (Batch 1) will start shipping in October.\n![A range of Framework Laptop 12 models are displayed in various modes, including a 2-in-1 design with 'Configure now' text and features like Linux support and Intel Core Series 3 processors.](https://cdn.wccftech.com/wp-content/uploads/2026/08/Laptop-12-configuration-2.jpg)\nThe Framework 12 is an existing laptop lineup that featured processors like Intel Core i5 1334U, but now the new laptop configurations will include SKUs such as the Core 3 304, Core 5 320, and Core 7 350. The Core 3 304 is the base configuration, featuring a 1+4 core configuration and up to 4.3 GHz, while the Core 5 320 and Core 7 350 will boast a 2+4 core configuration with up to 4.6-4.8 GHz.\nWith the change in the SKUs, users will receive either one Xe3-based iGPU or two Xe3 GPU cores if they opt for the Core 5 or Core 7 SKU. In any case, Framework promises high power efficiency for improved battery life, low noise, and better surface temperatures. The company says it has found that the Core 5 320-based Laptop 12 delivers a staggering 70% increase in battery life when streaming Netflix 4K content compared to the Core i5 1334U.\n![](https://cdn.wccftech.com/files/placeholder-desktop.png) \n![A pair of hands is performing assembly on a Framework laptop, available with Intel Core processors, with specifications for Core 3 304, Core 5 320, and Core 7 350 listed on the side.](https://cdn.wccftech.com/wp-content/uploads/2026/08/Framework-Laptop-12-configuration.jpg)\nAs far as connectivity is concerned, the Laptop 12 brings two expansion card slots that support Thunderbolt 4 for faster devices. The configuration can support up to 64 GB of DDR5-5600 memory and up to 2 TB of M.2 2230 storage. The price starts at $549, but when you add a single 8 GB DDR5 memory stick and a 500 GB SSD, the price reaches $844. By adding more memory and storage, the price will easily go past $1000, and will further increase as users add a dedicated OS, expansion cards, or customize the keyboard.\nNews Source: Framework\nFollow Wccftech on Google to get more of our news coverage in your feeds.",
+    "summary": "Framework has introduced its updated Laptop 12 series featuring Intel Core Series 3 processors, starting at $549. The new models transition from older 13th-gen SKUs to Wildcat Lake processors, delivering up to a 70% increase in battery life. Additional updates include Thunderbolt 4 support, WiFi 7, and a pre-built Fedora Linux option, with Batch 1 shipping in October.",
+    "key_points": [
+      "Framework Laptop 12 configurations now feature Intel Core Series 3 (Wildcat Lake) processors starting at $549.",
+      "The new Core 5 320 configuration claims up to a 70% increase in battery life during 4K Netflix streaming compared to the previous Core i5 1334U model.",
+      "New features include Thunderbolt 4 support, WiFi 7, a fingerprint reader, a backlit keyboard, and a pre-built version preloaded with Fedora Linux.",
+      "Pre-orders are currently open, with the first batch scheduled to begin shipping in October."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-20T12:20:19+00:00"
+  },
+  {
     "id": "e0615de3414a08aaa500ff81",
     "title": "We tested the Pixel 11's Tensor G6 chip, and the results are brutal",
     "source": "Android Authority",
