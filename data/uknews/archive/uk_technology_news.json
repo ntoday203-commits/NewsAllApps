@@ -1,5 +1,28 @@
 [
   {
+    "id": "ddc49dd1d26ba4bd57776176",
+    "title": "Pixel Watch 1 not losing Google Health sleep, workout support",
+    "source": "9to5Google",
+    "author": "Abner Li",
+    "published_at": "2026-08-18T00:00:00",
+    "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/Pixel-Watch-Concentric-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "url": "https://9to5google.com/2026/08/18/pixel-watch-1-support/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xcXhod2F0a05RbnZ6bk00bHFWSU4xS0RsRG1XenF0WTE4TDhhajc3OEszaFJEeDZSWVA2R25FeEYwcjB3OE03S1BrbUNPNnVGZHV1SXNGRDNVOFg5X2RSMER3VzJtSUU?oc=5",
+    "content": "![google pixel watch](https://9to5google.com/wp-content/uploads/sites/4/2023/02/Pixel-Watch-Concentric-1.jpg?quality=82&strip=all&w=1600) \nOn Tuesday, Pixel Watch 1 owners encountered a Google Health error message about needing to update their wearable. Google has confirmed that this was a bug and that the original device remains supported.\nThe following error message appeared for some Pixel Watch 1 owners in the Google Health app:\nUpdate your watch to keep using Google Health\nYour watch is running an older version of Wear OS and will soon stop syncing sleep and workout data with Google Health. Update your watch to the latest version to keep tracking your health.\nGoogle rolled out the last Pixel Watch 1 update in October 2025. This was Wear OS 5.1 based on Android 15 with a June 5, 2025 security patch.\nDuring its lifetime, the wearable ran Wear OS 3.5 (Android 11), Wear OS 4 (Android 13), Wear OS 5 (Android 14), and Wear OS 5.1 (Android 15). The Pixel Watch was guaranteed three years of updates.\nIn a forum post this afternoon, Google said the “Pixel Watch 1 remains fully supported” and that there was a “bug where some users received this card incorrectly.”\n![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png) \n![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png) \nFTC: We use income earning auto affiliate links. More.\n![](https://9to5google.com/wp-content/uploads/sites/4/2026/08/08-13-Pixel-11-Series-Ghost-Banner.png?w=700)",
+    "summary": "Pixel Watch 1 owners recently encountered an erroneous Google Health message stating that the device required an update to continue syncing sleep and workout data. Google has confirmed that the warning was caused by a bug and that the original smartwatch remains fully supported. The device received its final update, Wear OS 5.1, in October 2025 as part of its three-year update guarantee.",
+    "key_points": [
+      "Pixel Watch 1 users saw an error message in the Google Health app about losing sync support.",
+      "Google confirmed the error message was the result of a bug.",
+      "The Pixel Watch 1 remains fully supported by Google.",
+      "The device received its final update, Wear OS 5.1 based on Android 15, in October 2025."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-20T10:17:42+00:00"
+  },
+  {
     "id": "4d33f72ec457a6f13a0d38bc",
     "title": "HP's Googlebook leak highlights support for 'Continue On,' Google's version of Handoff",
     "source": "Android Authority",
