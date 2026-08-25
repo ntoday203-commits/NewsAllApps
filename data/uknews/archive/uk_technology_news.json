@@ -1,5 +1,28 @@
 [
   {
+    "id": "849bab4dfa550bce3b16f874",
+    "title": "Researcher tricks Apple’s Find My into sharing location data with Linux",
+    "source": "The Register",
+    "author": "Connor Jones",
+    "published_at": "2026-08-20T00:00:00",
+    "image": "https://image.theregister.com/5290528.jpg?imageId=5290528&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "url": "https://www.theregister.com/security/2026/08/20/researcher-tricks-apples-find-my-into-sharing-location-data-with-linux/5290496",
+    "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3R0ME9kQ2dqRnV2alBDX2NUaGV2UGswUWk4MmFoQmxiWUhNNTBhS0FZZFdWYWNUYm9oaTRpRDJqaUZubXRjVnp4N2tIR3ZNRjNpTVgtSk9WdnVlMGlyYlZTRnNfU3k5QlM4My1Dbm93YTZxZG5nRlFfeG9ZXzVlSm9ydzNTdVRzQlU4bU4tUWxnOGdJUUxVaVVTZWVqS29peFplZEUtR0M2NURBUXBLeF9ROGRERWJoTGMtdTJNRkRpbm1y?oc=5",
+    "content": "MOST POPULAR\n- \n                        \n                            DEVOPS Go updates may delight diehard gophers but displease AI overlordsv 1.27 expands generics to support methods\n- \n                        \n                            EDGE AND IOT Waymo has designed a robocar chip to stay ahead of Tesla5 nm ML accelerators promise 1,000+ TOPS, ultra-low latency\n- \n                        \n                            SYSTEMS AMD inches closer to its goal of making AI suck less ... energyHouse of Zen claims latest systems already 4x more efficient than two years ago\n- \n                        \n                            Google pits Marvell against Broadcom as it chases AI crownAnd Marvell just offered the Chocolate Factory a $12.2B stake to sweeten the deal\n- \n                        \n                            SYSTEMS Cerebras CS-4 rack systems juice chips for every last drop of AI performanceNext-gen systems double per-chip performance while cramming 3x as many into a rack\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash anotherWord up\n- \n                        \n                            GNOME can look like Windows – and Flashback can do it without extensionsNew 'Simple-taskbar' is an option, but there's a simpler, stabler way\n- \n                        \n                            A moment of silence, please, for the final release of Debian on x86-32New Debian versions hit FOSSland in the form of 13.6 and 12.15\n- \n                        \n                            Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websitesFlaws in iCagenda, Balbooa Forms extensions can impact open source CMS that powers a million sites worldwide\n- \n                        \n                            Frame: A new X11 server – implemented directly in assemblyJoins yserver, Phoenix, and of course XLibre – and outlier Arcan\n- \n                        \n                            Cinnamon 6.8 will support Wayland – if you want itNext version of Linux Mint’s desktop has both kinds of display server",
+    "summary": "A researcher has successfully tricked Apple's Find My network into sharing location data with a Linux system. The article details this technical feat while featuring various other news items regarding software updates, cybersecurity threats, and hardware developments. No further details about the specific method or broader implications were included in the provided text.",
+    "key_points": [
+      "A researcher tricked Apple's Find My into sharing location data with Linux.",
+      "Other news topics included Go updates, Wayland support for Cinnamon 6.8, and various security exploits.",
+      "Cerebras showcased next-gen rack systems for AI performance.",
+      "Microsoft patches reportedly failed to fix on-prem SharePoint zero-day attacks."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-21T04:26:18+00:00"
+  },
+  {
     "id": "902beda8666a1e56fc3a4a0f",
     "title": "Google releases Pixel 11 series factory images",
     "source": "9to5Google",
