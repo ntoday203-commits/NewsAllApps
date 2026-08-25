@@ -1,5 +1,28 @@
 [
   {
+    "id": "297cbd10587fa16f1e2a0151",
+    "title": "WhatsApp two-step verification codes are ditching six-digit PINs for full passwords",
+    "source": "9to5Google",
+    "author": "Ben Schoon",
+    "published_at": "2026-08-25T00:00:00",
+    "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/whatsapp-security-updates.jpg?quality=82&strip=all&resize=1200,628",
+    "url": "https://9to5google.com/2026/08/25/whatsapp-two-step-verification-codes-are-ditching-six-digit-pins-for-full-passwords/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnVURnlLTUtCcGRYdzRvUjYyeHJOUC10d3NGWlFSYklBcW05ckpNc3lpT19GeDIxVVpOdE8wUHZLRkg2RlpKaG51TEh1bFM4cHJGaTdYVFo0UThSQmI4MWV3dHo4VDluczhsMzV1LXU2N21ud0hXdURLY0twOTg0SjZSSXNFOVpVWFFJdzRNX2MxX0pWRmlISHdMdHVrTlBwQ3A1NWptMWswSDhiZVdMbl9ndVN1dVM3WEE?oc=5",
+    "content": "![](https://9to5google.com/wp-content/uploads/sites/4/2026/08/whatsapp-security-updates.jpg?quality=82&strip=all&w=1600) \nWhatsApp is making some security upgrades, including turning two-step verification codes into full passwords instead of the traditional six-digit numerical PIN.\nAlongside celebrating that one billion of its users are now using passkeys, WhatsApp has two new account security features rolling out.\nThe first is an upgrade to two-step verification codes used with WhatsApp.\nNo longer are these codes just a six-digit numerical PIN, but a full password. WhatsApp says these will be “longer, alphanumeric,” and include special characters (@,$, etc) to make the password harder to guess. w\nTwo-step verification is getting stronger: Two-step verification is an extra protection layer that helps prevent someone from taking over your account, even if they get hold of your one-time passcode. Until now it was a six-digit PIN, we’ve now upgraded it to a full password: longer, alphanumeric, and even with special ch@racters to make it harder to guess. If you’ve been using “123456,” this is your sign to upgrade.\nOn Android, WhatsApp is also rolling out a new screen for calls that are coming from unknown callers, with the incoming call screen now showing context such as country of origin and whether or not the number is in any of the groups you’re in.\nMore on WhatsApp:\n- WhatsApp updates group chats with new features including ‘@all’ tag\n- WhatsApp launches web calling alongside new features: call transfer, waiting room\n- Android Auto rolling out upgraded WhatsApp support\nFollow Ben: Twitter/X, Threads, Bluesky, and Instagram\n![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png) \n![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png) ",
+    "summary": "WhatsApp is upgrading its two-step verification security feature by replacing the traditional six-digit numerical PIN with longer, alphanumeric passwords that support special characters. Additionally, the platform is rolling out a new incoming call screen for Android users that displays context about unknown callers, such as their country of origin and shared group memberships. These updates are part of broader account security enhancements announced alongside the milestone of one billion passkey users.",
+    "key_points": [
+      "WhatsApp is replacing six-digit numerical PINs with full passwords for two-step verification.",
+      "The new passwords will be longer, alphanumeric, and include special characters to improve security.",
+      "Android users are receiving a new incoming call screen that provides context for calls from unknown numbers.",
+      "WhatsApp recently celebrated reaching one billion passkey users."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-25T21:15:31+00:00"
+  },
+  {
     "id": "a8250c1da6993e4b72f02561",
     "title": "Gamescom Opening Night Live 2026 report - all the news and announcements as Witcher 3 expansion Songs of the Past shown for first time",
     "source": "Eurogamer.net",
@@ -2286,28 +2309,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-21T11:15:08+00:00"
-  },
-  {
-    "id": "6772f8b4e11722025a8a7a90",
-    "title": "New Xperia 10 VIII reveals itself in leak as Sony confirms global launch",
-    "source": "Notebookcheck",
-    "author": "Alex Alderson",
-    "published_at": "2026-08-20T00:00:00",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xperia-10-viii-confirmed-and-geekbench-kv.jpg",
-    "url": "https://www.notebookcheck.net/New-Xperia-10-VIII-reveals-itself-in-leak-as-Sony-confirms-global-launch.1373802.0.html",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXZqaWdRWUhzYVFwY01OSk05UENfNGFnekNGdnZ1WjB4UnB6bXFscUhXOGhIRGFuWWpVRGllQjZLSjQ2WkYwOXVLVDJvZUUxc1lkTEtrQnB6WDNCRWlZbWduNHF4eGVqWjI3NXhmTkJnMWJEUXFZMWZRZF8tdEFiNGdEVlltUHRhdlpQVXVESjkzaGhGWEw0b1lRNm1MWURYSjFIREQyMjJHRTgzWlhoRFdPd2c2RUdJ?oc=5",
-    "content": "Sony has finally confirmed details about its next 'Xperia New Product Announcement'. For the time being, the company is remaining quiet about what exactly it has in store. However, a new Geekbench listing indicates that the new Xperia is already with reviewers.\nLast month, the Federal Communications Commission (FCC) revealed that Sony had developed a new smartphone to complement the Xperia 1 VIII that we reviewed earlier this year. Although the US regulatory body only shared charging information and a handful of details about the device, a previous leak suggested that the Xperia 10 VIII would launch with XQ-GH44, XQ-GH54 and XQ-GH74 model numbers.\nNow, the middle of those three has appeared on Geekbench. Surprisingly, the listing reports that Sony has equipped the XQ-GH54 with the same chipset as the Xperia 10 VII (curr. $549 on Amazon). While the benchmarking platform does show the Snapdragon 6 Gen 3 outright, the 'QTI SM6475' name matches Qualcomm's part number for the chipset inside the Xperia 10 VII.\nAdditionally, Geekbench reports that Sony has equipped the Xperia 10 VIII with 8 GB of RAM. Sony will officially launch its new Xperia 10 on August 25 at 02:00 UTC. Pricing, availability and other hardware specifications remain unknown for now, as does whether the Xperia 10 VIII will carry over its predecessor's design.\n![](https://www.notebookcheck.net/fileadmin/_processed_/2/0/csm_xperia-10-viii-confirmed-and-geekbench-bottom_968a8b5bad.jpg)",
-    "summary": "Sony has confirmed an upcoming Xperia new product launch event for August 25. Ahead of the announcement, a Geekbench listing for the new Xperia 10 VIII model revealed it features 8 GB of RAM and the same Snapdragon 6 Gen 3 chipset as its predecessor. Additional details regarding pricing, full specifications, and design remain unannounced.",
-    "key_points": [
-      "Sony scheduled its new Xperia product launch for August 25.",
-      "A Geekbench listing for model XQ-GH54 indicates the device is the Xperia 10 VIII.",
-      "The new smartphone is equipped with 8 GB of RAM.",
-      "The device retains the Snapdragon 6 Gen 3 chipset used in the Xperia 10 VII."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-21T10:17:50+00:00"
   }
 ]
