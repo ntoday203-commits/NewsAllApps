@@ -1,5 +1,26 @@
 [
   {
+    "id": "1d1d3a4682ba232446f74ed0",
+    "title": "Microsoft probes reports of games taking exception to Windows 11's August update",
+    "source": "The Register",
+    "author": "Richard Speed",
+    "published_at": "2026-08-20T00:00:00",
+    "image": "https://image.theregister.com/255533.jpg?imageId=255533&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
+    "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-probes-reports-of-games-taking-exception-to-windows-11s-august-update/5290214",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnRvM1V3dWN5WXVWa3RBcnF4Sl94RVpxVXF5ZGFMRGpDaDZFQzdYZVctUEdwT3VNQ1FwbDQ1cTZnSUhvMWt5ejk4RnlUcjhUcEs5dkxWQ0RkekI4dHdxWk9JNHNnNXYtOURVc2RNLXQwN1FtTTlkeE1nc1JraWtyYkxtNy1relF0LXY5ZmlfVDVVOURESmdTMUtyVmhfZ2MwR2hQLTA2Z1JWaXB1ZjYzdVpHRkQ2TXlzMU5fWUlQYVU0TWg1MGhROUhTd2tINC1FMGphZ3J3?oc=5",
+    "content": "MOST POPULAR\n- \n                        \n                            DEVOPS Go updates may delight diehard gophers but displease AI overlordsv 1.27 expands generics to support methods\n- \n                        \n                            EDGE AND IOT Waymo has designed a robocar chip to stay ahead of Tesla5 nm ML accelerators promise 1,000+ TOPS, ultra-low latency\n- \n                        \n                            SYSTEMS AMD inches closer to its goal of making AI suck less ... energyHouse of Zen claims latest systems already 4x more efficient than two years ago\n- \n                        \n                            Google pits Marvell against Broadcom as it chases AI crownAnd Marvell just offered the Chocolate Factory a $12.2B stake to sweeten the deal\n- \n                        \n                            SYSTEMS Cerebras CS-4 rack systems juice chips for every last drop of AI performanceNext-gen systems double per-chip performance while cramming 3x as many into a rack\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash anotherWord up\n- \n                        \n                            GNOME can look like Windows – and Flashback can do it without extensionsNew 'Simple-taskbar' is an option, but there's a simpler, stabler way\n- \n                        \n                            A moment of silence, please, for the final release of Debian on x86-32New Debian versions hit FOSSland in the form of 13.6 and 12.15\n- \n                        \n                            Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websitesFlaws in iCagenda, Balbooa Forms extensions can impact open source CMS that powers a million sites worldwide\n- \n                        \n                            Frame: A new X11 server – implemented directly in assemblyJoins yserver, Phoenix, and of course XLibre – and outlier Arcan\n- \n                        \n                            Cinnamon 6.8 will support Wayland – if you want itNext version of Linux Mint’s desktop has both kinds of display server",
+    "summary": "Microsoft is investigating reports that games are experiencing issues following the release of the Windows 11 August update. The article's main body briefly addresses this issue amid various unrelated technology news stories. No further details regarding the specific cause or affected games were provided.",
+    "key_points": [
+      "Microsoft is probing reports regarding games having issues with the Windows 11 August update.",
+      "The rest of the provided text consists of unrelated technology news and navigation boilerplate."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-21T12:20:49+00:00"
+  },
+  {
     "id": "89cb7089a97aa96734d3fefc",
     "title": "Beats 360 Over-Ear Headphones Leak in Retail Listings",
     "source": "MacRumors",
