@@ -1,5 +1,28 @@
 [
   {
+    "id": "902beda8666a1e56fc3a4a0f",
+    "title": "Google releases Pixel 11 series factory images",
+    "source": "9to5Google",
+    "author": "Abner Li",
+    "published_at": "2026-08-20T00:00:00",
+    "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "url": "https://9to5google.com/2026/08/20/pixel-11-factory-images/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XSkg1ejVKRllJTktsVVViR3k5V3FLb2JSb3VIQV83YWk5X0sxS0VuNGdiblZJdHhjcTkzeEhZR0xVdkxVQnY0MGpsRl9tYU92Y084YVNkbmNLRlAwNzYybjFMcklKZnRnbWc?oc=5",
+    "content": "![](https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-family-1.jpg?quality=82&strip=all&w=1600) \nWith the Pixel 11 series hitting store shelves today, Google has released factory images for all the devices.\nThere are three builds for each phone:\n- CD1A.260618.001.A7\n- CD1A.260618.001.C2\n- CD1A.260714.001.A9\nThis is Android 17 (not QPR1) with the August 2026 security patch. Google has not specified which carrier or region each build corresponds to. We’re on A9 in the US (on Google Fi).\nThese images help you restore a software-damaged phone to the original factory firmware. Google says it is “typically easier and safer to sideload the full OTA image instead,” which are also available today.\nToday’s additions confirm that bears are the codename theme this generation:\n- Pixel 11: cubs\n- Pixel 11 Pro: grizzly\n- Pixel 11 Pro XL: kodiak\n- Pixel 11 Pro Fold: yogi\nAs of today, the Pixel 11 series is not eligible for Android 17 QPR1 or QPR2 via the Android Beta Program.\n![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png) \n![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png) ",
+    "summary": "Google has released factory images and full OTA images for the newly launched Pixel 11 series devices as they hit store shelves. The software features Android 17 with the August 2026 security patch across three different builds. Additionally, the releases confirm that the internal codename theme for this generation of Pixel devices is bears.",
+    "key_points": [
+      "Factory and full OTA images are available for the Pixel 11 series on its release day.",
+      "Three distinct builds are provided for each phone running Android 17 with the August 2026 security patch.",
+      "The bear-themed codenames for the generation are cubs for the Pixel 11, grizzly for the Pro, kodiak for the Pro XL, and yogi for the Pro Fold.",
+      "The Pixel 11 series is not currently eligible for Android 17 QPR1 or QPR2 via the Android Beta Program."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-21T03:39:47+00:00"
+  },
+  {
     "id": "018e52fa5be217c951f8367b",
     "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
     "source": "The Verge",
