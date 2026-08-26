@@ -1,5 +1,28 @@
 [
   {
+    "id": "8de1a7310b2d376ab72e7384",
+    "title": "Apple defies memory shortage with new Mac minis",
+    "source": "The Register",
+    "author": "Thomas Claburn",
+    "published_at": "2026-08-25T00:00:00",
+    "image": "https://image.theregister.com/5292415.jpg?imageId=5292415&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/25/apple-defies-memory-shortage-with-new-mac-minis/5292406",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUt0ZDhjTGc3bmIwWWtiOGVpTHRDZjJjdDh0ODlFUnlHTlc4cGZBRjQwOE9wS3NnVUdLVnRyVDZ6OUl6WFM3dWE2NEd2RUs2dUpsSlBrQWdFbmlOUjdJdFN4N2xVdHRVNGdKYTlaZVY4S0EtWGU5MkhYcnE0ZTdhejQ5eFJuOGlwa2NTVzRHVkhqaU56S3hENVIxVkZKVnB3NlBSWU1uRQ?oc=5",
+    "content": "TOP STORIES\n- \n                        \n                            ON-PREM EPA to drop requirement for public notice of polluting datacentersState and local regulators would decide whether the public gets a say on minor-source permits\n- \n                        \n                            SYSTEMS OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast128 chips, 1.7 exaFLOPS, and 27 TB of HBM give Altman and crew a leg up over Blackwell, and maybe even Rubin\n- \n                        \n                            SYSTEMS What Nvidia's first Groq 3 LPU benchmarks tell us about its $20B gambleGemma 4 31B performance tests offer a best-case scenario for next-gen dataflow accelerators\n- \n                        \n                            ON-PREM US datacenters tripled their water footprint in 10 years... and those are figures from the start of the AI boom. It can only be worse now. Silo-ed reporting isn't helping\n- \n                        \n                            ai and ML AI slop is good for business if you know what you're doingYour irresponsibility is someone else's opportunity\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            Emperor Penguin Linus Torvalds banishes a bug – with a botThe lad himself finds and fixes a tricky one… or does he?\n- \n                        \n                            FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash anotherWord up\n- \n                        \n                            GNOME can look like Windows – and Flashback can do it without extensionsNew 'Simple-taskbar' is an option, but there's a simpler, stabler way\n- \n                        \n                            A moment of silence, please, for the final release of Debian on x86-32New Debian versions hit FOSSland in the form of 13.6 and 12.15\n- \n                        \n                            Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websitesFlaws in iCagenda, Balbooa Forms extensions can impact open source CMS that powers a million sites worldwide\n- \n                        \n                            Frame: A new X11 server – implemented directly in assemblyJoins yserver, Phoenix, and of course XLibre – and outlier Arcan",
+    "summary": "Apple has launched new Mac minis despite ongoing memory shortages in the industry. The provided article text consists entirely of various unrelated top stories and headlines covering topics such as EPA datacenter regulations, OpenAI chips, security flaws, and open-source software updates. No further details about Apple's Mac minis are included in the text.",
+    "key_points": [
+      "Apple released new Mac minis despite memory shortages.",
+      "The EPA is considering dropping the public notice requirement for polluting datacenters.",
+      "OpenAI's upcoming Jalapeño chip aims to compete with Nvidia's hardware.",
+      "Microsoft patches failed to fix on-prem SharePoint, which faces zero-day attacks."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-26T02:16:52+00:00"
+  },
+  {
     "id": "a25b8887f11794c4a3332942",
     "title": "Apple Unveils 2nm M6, Quad-Die M5 Ultra Chips with New Mac Mini and Mac Studio",
     "source": "Digital Foundry",
@@ -2286,29 +2309,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-21T15:21:06+00:00"
-  },
-  {
-    "id": "2049e9e48a1c714db88597dd",
-    "title": "The ‘GTA 6’ Leaker Is Leaking Again, Ending Rumors Of Being Caught",
-    "source": "Forbes",
-    "author": "Paul Tassi",
-    "published_at": "2026-08-21T00:00:00",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/681a18c5bb026fcec0cda700/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "url": "https://www.forbes.com/sites/paultassi/2026/08/21/the-gta-6-leaker-is-leaking-again-ending-rumors-of-being-caught/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmppZV9McWlTeHBOVVg5SHRJaGF4OTlQUmlnUFVKLVBiQVhlRDI1UDlEeHU3UmVHcDVfaWNUN3ctemgzVlJUTTl3Vzc2SFhOU2lpcDJpZ3MwZEczUHItMTJRZlMyYkpmQi0xdEw2eFFxeFpzcTNBYktpcWs2eW5pSmNBS0ZiOFhwR09DTWNFX3NYVUFTU1lUTmxUTU1VRE03LTl6X25KeVNsWnA4am9VSi1xc3o?oc=5",
-    "content": "After the usually chatty Grand Theft Auto 6 leaker went a full 24 hours without posting anything, many began to theorize Cyberleek’s spree was over, and they’d been shut down or caught after Take-Two’s relentless pursuit. That does not appear to be the case.\nThis morning, a new leak called “Hypercar” was uploaded to Cyberleek’s website. Given that it was within the past hour, it’s been hard to find, but I did locate the full 2:25 video before it was taken down. There will soon be a lot of these spread around and shot down by Take-Two as has happened with every GTA 6 leak so far. But it’s been impossible to stop the flow.\nThe new footage shows Jason smashing the window on a Bugatti-like car, the Truffade Thrax, and pulling the driver out. A typical GTA action, but this GTA 6 one looks a little more involved, as you also have to tap a button to drag the driver from the car.\nThe rest of the leak is the car driving around the city, at one point ironically stopping at a stop sign. After this, it’s just about two minutes of uneventful driving. No crashes, no hitting pedestrians. The footage is stamped with the usual crypto coin ad to funnel money to Cyberleek, but this time also a “Cyberleek can’t drive” message, possibly referring to some making fun of them in past clips for not playing the game terribly well.\n![frase](https://images.forbes.com/fbs-games-assets/frase.png)\nFEATURED | Frase ByForbes™\nUnscramble The Anagram To Reveal The Phrase\n![pinpoint](https://images.forbes.com/fbs-games-assets/pinpoint.png)\nPinpoint By Linkedin\nGuess The Category\n![queens](https://images.forbes.com/fbs-games-assets/queens.png)\nQueens By Linkedin\nCrown Each Region\n![crossclimb](https://images.forbes.com/fbs-games-assets/crossclimb.png)\nCrossclimb By Linkedin\nUnlock A Trivia Ladder\nThis is the sixth major leak from Cyberleek, the last of which seemed to confirm the leaker has an actual build of the game rather than just taking gameplay clips from somewhere. He wrote “LEEKS” on the wall with bullets, indicating live gameplay of what appears to be a build from 2025. The 24 hour silence did lead many to believe his joyride was over, and he must have been discovered. This new leak would indicate that is not the case.\nDespite how high-profile this series of leaks has been, and how it is a nightmare scenario for Rockstar that this person has an actual playable build of the game, nothing all that damaging has actually been released. It’s just been typical GTA stuff like fighting random NPCs, stealing cars, flying a plane, shooting a gun. Even the cutscene snippet shown revealed nothing, and was just a brief jab at Rockstar about someone using a VPN.\nOf course, there is always the risk that Cyberleek could start veering into actual story spoilers, which would be exceptionally damaging. While it does seem likely that they will be stopped or caught at some point, we’re pushing toward a week and it hasn’t happened yet. Outside of this, other leaks from other places in other formats are starting to trickle out as well. Nothing this big, but with three months to go, it’s easy to see how this is going to quickly become a game of whack-a-mole with a Rockstar that is not as secure as it needs to be, clearly.\nI’ve been reaching out to Rockstar and will update if I hear back. It has not yet issued a public statement on these leaks.\nFollow me on Twitter, YouTube, and Instagram.\nPick up my sci-fi novels the Herokiller series and The Earthborn Trilogy.",
-    "summary": "Rumors that the \"GTA 6\" leaker Cyberleek had been caught were disproven after a new gameplay video titled \"Hypercar\" was uploaded. The footage shows a character breaking into a Truffade Thrax and driving around the city. This marks the sixth major leak from Cyberleek, who appears to possess an actual playable build of the game.",
-    "key_points": [
-      "A 24-hour silence from Cyberleek sparked rumors that the leaker had been caught.",
-      "A new 2:25 video leak called \"Hypercar\" was uploaded to Cyberleek's website before being taken down.",
-      "The footage shows a character smashing a car window, dragging the driver out, and driving through the city.",
-      "This is the sixth major leak from Cyberleek, indicating the leaker has an actual playable build of the game.",
-      "Rockstar has not yet issued a public statement regarding the ongoing leaks."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-21T14:22:14+00:00"
   }
 ]
