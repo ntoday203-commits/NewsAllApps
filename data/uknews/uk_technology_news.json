@@ -1,5 +1,28 @@
 [
   {
+    "id": "575ac1dfdf81aab514223b4e",
+    "title": "WhatsApp strengthens two-step verification, adds enhanced call information",
+    "source": "GSMArena.com",
+    "author": "Vlad",
+    "published_at": "2026-08-26T00:00:00",
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/whatsapp-improved-security/-952x498w6/gsmarena_000.jpg",
+    "url": "https://www.gsmarena.com/whatsapp_strengthens_twostep_verification_adds_enhanced_call_information-news-74338.php",
+    "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVqRnIxMEU1dExyb1Y2OTZXVkNSQ3RSUThWTU00UzdudTRTRmhxMEQ4QzlqOVgyVEUwZVhUcmtaOVB0RVgxN2JldHhQS05yWmptZWVVemJReEdMdFhPMy1fTm5fOVJGU2RvWVpTOTdSdUtxN252TFJTRHl1ZzZTU2RwZmQ0SGxvdmRpcVBSb2xnLXFjeGxZM1Y1NWRNRGxmbDZDVlI2YVE1Q1V4cWQwNlR30gGuAUFVX3lxTE1Ecjg4R19YTExDc3pqNXlxcEo5czB3NXRsbFk2SDlvcUhZTVZzYWdvVGRLeVA0ZW5NWURrd0NWN0Y2aTJ5aHpQeFQyeDZWRDRRR0lsbzE3ZDZTTDVhRmlZcDJ2YzhDYnUzTFV1YTVPeENMU3IyOHVJY0pjVTA1dXc1d3VhZ1VBYkc5NzFYSlAzTFJsdE9kOHd5akpjcHhfZXlXSjFMOGxSMGF0enhZdw?oc=5",
+    "content": "Today WhatsApp has announced some improved security features. First off, two-step verification is getting stronger. Before, it was a six-digit PIN. From now on, it will be a full password - longer, alphanumeric, and with special characters, making it harder to guess.\nNext up, call security. When you pick up a call from someone who isn't in your contacts, you'll see more information about the caller, like whether their number is from a different country, or if you have any groups in common. This will help protect against scammers, hopefully. The bad news is that this feature is only coming to Android for now.\nWhatsApp would also really like you to start using a passkey, which lets you log back into your account with your fingerprint, face, or screen lock code. WhatsApp says it's the \"fastest and most secure way to verify it's really you, with no codes or PINs\". More than a billion people have apparently already set one up, and you can now add more than one passkey to your account - which is useful if you use both Android and iOS devices, for example. Just go to Settings > Account > Passkeys.\nWhat a joke. This is so-called bragging privacy only relatively related to user-user or user-swindler (in some cases). They (wassup) in-house collecting, reading, analyzing everything.",
+    "summary": "WhatsApp has announced updates to its security features, including a stronger alphanumeric password option for two-step verification and enhanced call information for unknown numbers on Android. Additionally, users can now add multiple passkeys to their accounts for biometric login. These updates aim to improve account security and help users identify potential scammers.",
+    "key_points": [
+      "Two-step verification now supports longer, alphanumeric passwords with special characters instead of just a six-digit PIN.",
+      "Android users will see enhanced caller information for unknown contacts, such as country origin and shared groups.",
+      "Users can now add multiple passkeys to their accounts for biometric verification using fingerprints, faces, or screen locks.",
+      "Over a billion people have already set up passkeys on WhatsApp."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-26T16:10:00+00:00"
+  },
+  {
     "id": "d0ab7f7ad2b9bbe905bf2977",
     "title": "ROG Xbox Ally X20 Gets Official Price: $300 Extra for a Bigger OLED Screen, TMR Sticks and Translucent Golden Chassis",
     "source": "Digital Foundry",
@@ -2284,28 +2307,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-22T07:21:51+00:00"
-  },
-  {
-    "id": "608bc3b14f1b73f5a28802f6",
-    "title": "Microsoft confirms latest Windows 11 update is crashing games and rebooting PCs",
-    "source": "TechSpot",
-    "author": "Kishalaya Kundu",
-    "published_at": "2026-08-20T00:00:00",
-    "image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/08/2026-08-20-ts3_thumbs-fea.jpg",
-    "url": "https://www.techspot.com/news/113562-microsoft-confirms-latest-windows-11-update-crashing-games.html",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmQwUTJacUpGeThqTXBkQUgwSWFDUF9QZkZ6NjJfb1NWX2NVVVYxTG14Sk1KWkU5X0t0SmJCbFBTVlhRRGMtSi1URm95RkNmV3pnVUNPR0x1R2wzMEVwRkdWdDc4R1N1dGlxWmQ5QUQwdmc0NERjVHprTUdOQnRReXhlUGJucVFaM0ZoQVRndkxlVnRadmNZWFIwUDhMcHY5QUE?oc=5",
-    "content": "Facepalm: The latest Patch Tuesday update for Windows 11 started rolling out last week, bringing multiple new features, improvements, and bug fixes. However, following several complaints from disgruntled users, Microsoft has now acknowledged that the update may be causing some games to crash on affected devices.\nThe KB5121003 update was released on August 11 for Windows 11 builds 26200.9168 and 26100.9168. According to some users who installed the update, it contains a bug that is causing games to crash and display the EXCEPTION_ACCESS_VIOLATION error. In some cases, the PC automatically reboots after the crash.\nAfter Redditor MyCatsNameIsKlaus reported the issue last week, several others confirmed that they were also experiencing crashes, error messages, and random reboots after installing the update. Redditor Thin_Twist7030 even posted event logs, WER reports, and a kernel dump analysis by DeepSeek, suggesting that the game crashes were actually system BSODs that occurred while playing Arc Raiders.\nThe AI analysis suggests that the problems are caused by a pre-existing \"bad-handle bug\" that Windows previously ignored or returned an error for when an invalid handle was closed. However, the update appears to have tightened kernel handle validation, causing the same invalid handle close to trigger bug check 0x93 INVALID_KERNEL_HANDLE instead of being tolerated.\n![](https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-20-image-27.jpg)\nMicrosoft confirmed that the issue is affecting Windows 11 versions 25H2 and 24H2 and is investigating whether it is caused by the update or incompatible third-party software. The company added that affected games include Arc Raiders, Marvel Tokon: Fighting Souls, and The Finals.\nMicrosoft hasn't suggested an official workaround, but Thin_Twist7030 claims that rolling back KB5121003 via DISM stopped the crashes on his system. They added that they have paused Windows Update for one month so that the contentious update package won't automatically reinstall. As a permanent fix, they recommend that users remove old drivers responsible for the bad-handle bug.\nGame crashes and random reboots are apparently not the only issues caused by KB5121003. According to a Microsoft Learn post by Brian Stringfellow, Teams and the new Outlook are no longer working on Arm devices after installing the update. While Teams crashes after opening, the new Outlook doesn't even launch. The classic Outlook app, however, works as expected.\nStringfellow claims that the issue is affecting a Snapdragon-powered Microsoft Surface Laptop 7th Edition assigned to his company's CFO. He added that the same problem cropped up earlier this year after installing KB5094126, but the issue was resolved by simply rolling back the update. The problem has now apparently reemerged following last week's update.\nMicrosoft has yet to respond to the report, but a couple of other users replied to the thread, confirming that they are also experiencing similar issues on the HP OmniBook 3 and Surface Pro 11, both powered by Arm64 processors.",
-    "summary": "Microsoft has confirmed that the recent Windows 11 KB5121003 update is causing game crashes, error messages, and system reboots for users playing titles like Arc Raiders. The update has also broken functionality for Teams and the new Outlook on Arm-powered devices such as the Surface Laptop. Microsoft is currently investigating the issues and whether third-party software is involved, while affected users have found temporary relief by rolling back the update.",
-    "key_points": [
-      "The Windows 11 KB5121003 update causes game crashes and random PC reboots due to a kernel handle validation issue.",
-      "Affected games include Arc Raiders, Marvel Tokon: Fighting Souls, and The Finals.",
-      "Teams and the new Outlook fail to function on Arm-powered devices following the update.",
-      "Users have temporarily resolved the issues by rolling back the KB5121003 update using DISM."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-22T06:18:17+00:00"
   }
 ]
