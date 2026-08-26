@@ -1,5 +1,29 @@
 [
   {
+    "id": "fecb40f358e7465c211d4317",
+    "title": "Britons face highest price cap in three years as energy bills rise 4% from October",
+    "source": "The Guardian",
+    "author": "Jillian Ambrose",
+    "published_at": "2026-08-26T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/aab036bfd86c0c3cd3b1a77cfc9f264015c10d8a/329_0_1527_1221/master/1527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2ead49a86065f591fe4ccc0cd6ab618",
+    "url": "https://www.theguardian.com/money/2026/aug/26/energy-price-cap-great-britain-to-rise-from-october",
+    "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU1PajhLMFY3YktsTDJjX2Y3YktvQmF2aHZvNFVLVTJfM1VjSHp2MFNXTnNINFh1RXZkZXVPRlY4TFpTaXBmYnNnaW9RaGhVd01ab3Vtd2tnS183cGtuS3NlSzZGZjhQR2tFYWNaS2V2ZjM3UlNQWElzaThIMHJmbjh5VzRXOWVqbVUwNEs1MUNoc1NjMFYyenJnWng0Zw?oc=5",
+    "content": "Millions of households in Great Britain will face the highest energy charges in three years this winter after months of soaring market prices caused the government’s price cap to rise for a second time in three months.\nGas and electricity prices will rise by 4% from October under the new cap, months after climbing 13% at the start of July to take account of soaring global energy market prices caused by the war on Iran.\nThe energy regulator for Great Britain, Ofgem, said the new rate for about 22 million households was equivalent to £1,723 a year for a typical household’s gas and electricity use, compared with the rise to £1,663 for the July to September period.\nClare Moriarty, the chief executive of Citizens Advice, said: “It’s another sign of the relentless erosion of living standards across the country: energy bills are simply too high, prices leapfrog incomes, and debt levels continue to grow.”\nAs the bill rises in consecutive quarters the typical household will pay an extra £350 a year more than in 2024, when the Labour government came to power with a promise that it would cut bills by £300 a year by the end of the decade.\nAbout a third of households that buy their energy via fixed rate deals will not be affected by the change in the energy cap.\nMiatta Fahnbulleh, the energy secretary, said bills were being driven up by the Iran war and the government would “keep looking at what more we can do to protect families from unaffordable bills”.\nShe added: “Energy is an everyday essential and it needs to be affordable for everyone, which is why we have cut VAT on electricity bills from October, to give families some breathing space.\n“This has limited the rise in the price cap and follows the £150 in costs we removed from bills earlier this year.”\nThe energy cost increase has reignited calls for the government to help vulnerable households. There have been repeated calls for the government to fund extra measures by raising the windfall taxes on profits made by energy companies and introduce a windfall tax on banks.\n“It’s plain common sense,” said Paul Nowak, the TUC general secretary. “Banks are raking it in while many up and down the country are struggling to get by – they can well afford to pay more tax to ease the pressure on working people.”\nThe regulator calculated the average of £1,723 based on the estimated energy use of a typical household. Since July it has assumed lower annual energy use than in previous years because the high cost of energy has forced many households to use less gas and electricity. Under the previous calculations the price cap would have climbed to £1,940.69 from October.\nFrom October, the unit rate for electricity will rise from 26.11p a kilowatt hour to 26.32p, while gas charges will rise from 7.33p to 7.97p. However, the actual household bill will depend on how much each consumes.\nafter newsletter promotion\nEnergy standing charges, which are charged daily whether you use energy or not, will rise, too. The gas standing charge will climb from 29.04p a day to 29.68p a day, while the daily standing charge for electricity will rise from 57.19p to 54.83p. The combined rate for all these charges is the highest since .\nMore than a third of households have begun turning down the temperature on their washing machine and radiators in empty rooms since 2023, according to research commissioned by the End Fuel Poverty Coalition.\nMeanwhile, when the weather is colder about a fifth of households have begun going to bed early to keep warm or heating only one room to save energy, the survey found.\nSimon Francis, the coordinator of the End Fuel Poverty Coalition, said: “Some reduction of energy use could be a good thing, caused by better energy efficiency in people’s homes. But sadly, for many households, reductions in energy use have happened simply because people cannot afford to use as much energy as in the past.\n“That means that some are demonstrating dangerous behaviours such as cutting back on washing and, for one in 10 members of the public, skipping hot meals to save on energy.”",
+    "summary": "Millions of households in Great Britain will experience a 4% increase in their energy bills starting in October, raising the typical annual bill to £1,723. The energy regulator Ofgem attributes the rise to soaring global market prices driven by the war on Iran. In response to the mounting cost-of-living pressures, the government has cut VAT on electricity bills and removed other costs, while critics and charities continue to call for additional support and increased windfall taxes.",
+    "key_points": [
+      "Gas and electricity prices will rise by 4% from October, bringing the typical household bill to £1,723 a year.",
+      "The price cap increase affects about 22 million households, though roughly a third on fixed-rate deals are exempt.",
+      "The energy secretary stated that the rise is driven by the war on Iran and announced a cut to VAT on electricity bills to limit the increase.",
+      "High energy costs have forced many households to reduce consumption, with some cutting back on washing temperatures or skipping hot meals.",
+      "Union leaders and charities have renewed calls for the government to fund extra support measures by raising windfall taxes on energy companies and banks."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-08-26T07:35:50+00:00"
+  },
+  {
     "id": "6ad5eff81197158fef4a5c50",
     "title": "Billionaire investor says he used AI to write critique of former mentee Scott Bessent",
     "source": "The Guardian",
@@ -2299,28 +2323,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-08-21T21:12:05+00:00"
-  },
-  {
-    "id": "6fb0c65b404fb8396cbcf742",
-    "title": "Jim Ratcliffe rescues vital British plastics factory from collapse",
-    "source": "The Telegraph",
-    "author": "Jonathan Leake",
-    "published_at": "2026-08-21T00:00:00",
-    "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/08/21/TELEMMGLPICT000462906386_17873267666481_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpeg?impolicy=OG-Standard",
-    "url": "https://www.telegraph.co.uk/business/2026/08/21/jim-ratcliffe-rescues-vital-uk-plastics-factory-collapse/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1JVSm5OR29tOGpBUjREbXZ5VWR3Mkc3RE5CMUUzdHhQUTdGZDhNQUZmcUpEdXJZN2lwSWVSTWxNeUJPQ1FyTHk5d1pUQXk2V2p6c1FqNDNjdENIQ2RSMEJiTk01bDlUbkVCWW9sOEphVFJNdUt0d09RV3pEUjdzT3JXZHNYSVdsNG83MUFVcU81VUxic3VkQmJDWlJfWlo2TWthaEYzcXY?oc=5",
-    "content": "![Sir Jim Ratcliffe](https://www.telegraph.co.uk/content/dam/briefs/2026/08/21/TELEMMGLPICT000462906386_17873267666481_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpeg?imwidth=640) \n![Sir Jim Ratcliffe](https://www.telegraph.co.uk/content/dam/briefs/2026/08/21/TELEMMGLPICT000462906386_17873267666481_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpeg?imwidth=640) \nSir Jim Ratcliffe, the billionaire boss of Ineos, has rescued Britain’s last factory producing critical chemicals used in the UK plastics industry.\nIneos confirmed on Friday that it had rescued Runcorn MCP, the UK’s last producer of ethylene dichloride, which is used to make PVC.\nThe vital plastic is used for making water pipes, electrical cable, medical tubing and window frames, making it crucial for the construction industry.\nIneos Inovyn, the chemicals giant’s chlorine arm, said it had bought a 50pc shareholding in Runcorn MCP together with its assets and staff from Vynova Runcorn, which entered administration last year, putting dozens of jobs at risk.\nEthylene dichloride is made from petrochemicals originating from crude oil. Up to 15pc of all the oil used in the UK goes into the production of raw materials, such as plastics.\nStephen Dossett, the chief executive of Ineos Inovyn, said: “Chlor-alkali products are essential to modern life, supporting safe drinking water, pharmaceuticals and healthcare, and the materials that underpin housing and critical infrastructure.\n“This acquisition is an important step in strengthening the UK’s national resilience.”\nIneos already has sites in Runcorn making chemicals including chlorine – used to purify much of the UK’s drinking water as well as in producing a range of chemicals. It also produces salt, caustic soda and other products.\nAround 98pc of the chlorine used in drinking water is supplied from Runcorn.\nThe deal, which is subject to regulatory approval, comes amid escalating concerns that Britain’s industrial base is being destroyed by the UK’s high energy costs and carbon taxes.\nThe chemicals industry has been a major casualty of the country’s soaring energy costs, shrinking by 20pc in the past three years.\nSir Jim warned last year that the chemicals industry in Europe was facing “extinction” from the cost of “enormously high energy prices and crippling carbon tax bills”.\nSir Jim, who also owns a minority stake in Manchester United, issued a further warning about the state of the UK’s energy policy last month.\nHe said: “We’ve had seven prime ministers in 10 years and they all come in with a new idea of how best to run our energy policy in the UK.\n“Now we’ve got another one and heaven knows what direction we’re going to turn in now.\n“There’s no point in investing and then finding we get our ninth prime minister.”",
-    "summary": "Billionaire Jim Ratcliffe's company Ineos has rescued Runcorn MCP, Britain's last remaining producer of ethylene dichloride used to make PVC. The acquisition by Ineos Inovyn includes a 50% shareholding, assets, and staff from Vynova Runcorn, which entered administration last year. This deal aims to strengthen the UK's national resilience amidst concerns over high energy costs and carbon taxes impacting the domestic industrial base.",
-    "key_points": [
-      "Ineos Inovyn acquired a 50% shareholding, assets, and staff of Runcorn MCP from Vynova Runcorn.",
-      "Runcorn MCP is the UK's last producer of ethylene dichloride, which is essential for manufacturing PVC used in construction and healthcare.",
-      "The rescue deal comes as the UK chemicals industry faces pressures from high energy costs and carbon taxes.",
-      "Sir Jim Ratcliffe has previously warned that European and UK chemicals industries face severe threats from high energy prices and shifting political policies."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-08-21T20:12:19+00:00"
   }
 ]
