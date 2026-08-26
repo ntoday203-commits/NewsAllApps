@@ -1,5 +1,28 @@
 [
   {
+    "id": "863daf70392de76c348f3848",
+    "title": "Winter energy prices expected to rise to three year high",
+    "source": "BBC",
+    "author": "Kevin Peachey",
+    "published_at": "2026-08-25T00:00:00",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3ZW5uMUNTVDEzUHlSSHFiY0FJWjZpcUY0Wm5URFhzWGtiZlZOT3RhV1NDR2E1YjhjR1hGSHRIeV9vOTdhZVlHM3NSWm84aGZuYUZkTHhRd1NHR0pJ?oc=5",
+    "content": "![Woman in floral dress with blonde hair pinned up adjusts heating system in her home](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg)\n- Published\nEnergy bills for millions of households are expected to rise this winter to the highest level for three years, under a price cap to be announced by the industry regulator on Wednesday.\nThe cap will reflect the rise in the wholesale cost of gas, paid by suppliers and will hit bills just as the colder weather arrives in October until the end of December.\nAnalysts expect Ofgem to say prices will go up by 4% compared with the current cap, affecting those on variable tariffs in England, Scotland and Wales.\nFirms say energy debt has jumped and, with high bills likely to persist, have called for more support for those struggling to pay. The government says VAT is being cut from electricity bills.\nThe price cap for about 33 million households is expected to rise, driven by volatility in international wholesale gas prices.\nThe average price of gas has been 61% higher over the past three months compared to late 2025, according to suppliers' trade body Energy UK.\nMillions of people have moved on to fixed energy tariffs, some in response to the uncertainty created by the impact of the US-Israeli war with Iran.\nAnyone on a fixed deal will not see the price they pay rise, until at least the end of the term of their tariff. About 40% of billpayers have fixed tariffs.\n![A bar chart showing the energy price cap for a typical household on a price-capped, dual-fuel tariff paying by direct debit, from January 2022 to April 2026. The figure was Â£1,319 based on typical usage in October 2021. This rose to a high of Â£4,414 in January 2023, although the Energy Price Guarantee limited bills to Â£2,500 for a typical household between October 2022 and June 2023. Bills dropped to Â£1,685 in July 2024, before rising slightly to Â£1,846 in October, Â£1,869 in January 2025, Â£1,992 in April 2025, Â£1,854 in July 2025, Â£1,892 in October 2025, Â£1,758 in January 2026, Â£1,641 in April 2026. The cap in July is Â£1,663 under the new typical household consumption values.](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/be66/live/922d0330-a074-11f1-aed2-8d6da8d75094.jpg)\nThe energy cap sets a maximum price for each unit of gas and electricity, not the total bill, so a household's final bill depends on what they use.\nIn July, Ofgem reduced what it believes to be a \"typical\" level of energy use, because many homes have cut back owing to high prices of recent years while energy efficiency has improved.\nIts new estimate is 9,500 kWh of gas and 2,500 kWh of electricity a year.\nCornwall Insight, the consultancy, has forecast that a household using a typical amount of gas and electricity, paid through direct debit, will pay Â£1,729 a year from October.\nThis is up from Â£1,663 between July and September and woild be the highest for three years.\nHouseholds are paying hundreds of pounds a year more on average than before Russia's full-scale invasion of Ukraine in 2022 started the energy crisis. Bills have gone up by about 70% compared with the pre-crisis norm, according to industry data.\nThat means unpaid bills and charges have shot up. Energy UK estimates total debt to have collectively risen to Â£6bn, with an expectation of it to increase to about Â£7bn by the end of the year.\nThe average billpayer in debt, without a payment plan, owed Â£3,500, it said.\nThe trade body has called for a flexible discounted tariff for those most in need, funded by taxation. That is supported by many debt charities.\n\"Without urgent intervention â namely a national social tariff and implementation of the long-awaited debt write off scheme from Ofgem â we expect this [debt] figure to rise in the coming months, and with that see an increase in the number of people coming to us for help with energy bills,\" said Emily Whitford, senior public policy advocate at StepChange.\nThe Trades Union Congress has called for a windfall tax on bank profits to be used to reduce energy bills.\nThe government is cutting VAT from electricity bills in October, which should knock about Â£50 off a typical annual bill, and some policy costs were cancelled or shifted in April, but ministers say there is more to do.\nSuppliers offer a host of support schemes to anyone struggling to pay, or who is likely to find it difficult.\nEnergy UK has a list of these schemes, external. But it stresses that companies can often only help if you get in touch with your supplier to tell them you are unable to pay.",
+    "summary": "Energy bills for millions of households across England, Scotland, and Wales are expected to reach a three-year high this winter due to rising wholesale gas prices. Ofgem's upcoming price cap is anticipated to increase by 4% for those on variable tariffs starting in October. In response to mounting energy debt, which Energy UK estimates could reach £7bn by the end of the year, industry groups and charities are calling for targeted financial support and social tariffs.",
+    "key_points": [
+      "Ofgem is expected to announce a 4% increase in the energy price cap for variable tariffs, effective from October to December.",
+      "The rise is driven by volatility and increases in international wholesale gas prices.",
+      "About 40% of billpayers on fixed tariffs will not experience price increases until their current terms end.",
+      "Collective household energy debt has risen significantly, with industry groups calling for government intervention and social tariffs."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-08-26T00:31:57+00:00"
+  },
+  {
     "id": "fa8aee06fdaad8a282bff816",
     "title": "EMR warns passengers 'may not be able to board' due to strikes",
     "source": "BBC",
@@ -2299,28 +2322,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-08-21T14:22:11+00:00"
-  },
-  {
-    "id": "b0c633e02c497faebf2078b2",
-    "title": "Hundreds of pharmacies face closure from Labour tax raid",
-    "source": "The Telegraph",
-    "author": "Tom Haynes",
-    "published_at": "2026-08-21T00:00:00",
-    "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/08/20/TELEMMGLPICT000498934363_17872312450530_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=OG-Standard",
-    "url": "https://www.telegraph.co.uk/business/2026/08/21/hundreds-of-pharmacies-face-closure-from-labour-tax-raid/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHBpM2ZPbm9ZOTUwX19ZWTFGX1R2ZG9SbHc4XzViSzd1Y096SmVXS1RvMDNvVjJQNThWdGhTU0dNUWU5eUxtaWFZTkVBa2pWdjFGNkFxWVF3Mk8wZWpXVVVTR05OaENlbzVVdmJCNGxoVG9EQUhfd1kxNE5CSE82TkNrRG1qSDUwSmxjbk53WVRpNW4xc1EtdjR5WWZFR3Y0RllkVmdLNVI?oc=5",
-    "content": "Hundreds of pharmacies are facing closure because of soaring business rates, with owners warning that high taxes are forcing them to cut services for vulnerable patients.\nAlmost half of the 420 pharmacy owners surveyed by the National Pharmacy Association (NPA) said they were considering shutting down their practices because of higher business rates bills.\nThe trade body warned that pharmacies, many of which are family-run businesses, are unable to offset the higher tax burden by raising prices, which are fixed by the NHS.\nThe NPA found 55pc of pharmacy operators were considering moving to cheaper premises, raising fears that some rural and coastal communities could be left without a local branch.\nAndy Burnham has made lowering business rates for high-street businesses a key pillar of his summer policy blitz, announcing a 20pc reduction for pubs, clubs and live music venues from April next year.\nHowever, pharmacies have been excluded from the relief.\nThe tax squeeze has intensified since business rates were increased for many properties after Rachel Reeves’s second Budget. Bills have also been affected by the latest revaluation of commercial property.\nGPs and NHS dentists, meanwhile, have their business rates reimbursed.\nPharmacies are particularly exposed because most of their income comes from the NHS, meaning they cannot simply raise prices to cover higher costs. Roughly 90pc of pharmacies’ income comes from the health service, the NPA said.\nOnkar Singh, who runs 20 pharmacies across the Black Country, Staffordshire, Herefordshire and Worcestershire, has seen his business rates bill rise by roughly 20pc to 30pc in the past year. His total bill is now about £250,000.",
-    "summary": "Hundreds of independent pharmacies are considering closure or relocation due to soaring business rates following recent budget increases and property revaluations. Unlike GPs, dentists, and certain hospitality venues, pharmacies have been excluded from business rates relief. Because about 90% of their income comes from fixed NHS prices, these businesses cannot offset their rising tax burden by increasing charges to patients.",
-    "key_points": [
-      "Nearly half of surveyed pharmacy owners are considering shutting down due to higher business rates.",
-      "Pharmacies rely on the NHS for roughly 90% of their income and cannot offset tax increases by raising prices.",
-      "Unlike GPs and NHS dentists, pharmacies do not have their business rates reimbursed and were excluded from recent relief measures.",
-      "Soaring taxes are forcing owners to consider moving to cheaper premises, threatening access for rural and coastal communities."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-08-21T13:35:58+00:00"
   }
 ]

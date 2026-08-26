@@ -1,5 +1,29 @@
 [
   {
+    "id": "22ab0d7759e48affcb47c83c",
+    "title": "NASA calls off mission to rescue the falling Swift observatory - Engadget",
+    "source": "Engadget",
+    "author": "Mariella Moon",
+    "published_at": "2026-08-20T00:00:00",
+    "image": "https://www.engadget.com/img/gallery/nasa-calls-off-mission-to-rescue-the-falling-swift-observatory/l-intro-1787220032.jpg",
+    "url": "https://www.engadget.com/2240611/nasa-calls-off-swift-rescue-mission/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54UDU2dTFvMXZiOFV1REpucG9Wb1RNOWZfOGZ2aHJXX2E2LUhsSWVYTzBLWU1wWEtpQ1VZalNERy1hY2xZVzJfanpkU09zZ2hWN2V6Rm1jSEJZcTBCejM0NEVtRkIwWTlhdTIydWh1cnpFNjM1OXh1NQ?oc=5",
+    "content": "NASA calls off mission to rescue the falling Swift observatory\nKatalyst’s LINK spacecraft will still rendezvous with the telescope but will no longer tug it to a higher orbit.\nThe Neil Gehrels Swift Observatory is expected to re-enter and burn up in the Earth's atmosphere later this year, after NASA has aborted the mission meant to tug it back up to a higher orbit. NASA has announced that Katalyst Space's LINK spacecraft will no longer dock with the satellite and boost it to a higher altitude as planned. The agency blamed it on LINK's ongoing attitude control issue, which started in late July.\nIf you'll recall, NASA reported at the time that the spacecraft was having problems managing its orientation in orbit, causing it to spin helplessly. That led to sporadic communications with the spacecraft. There was also some loss in functionality to LINK's thruster system. NASA and Katalyst were still optimistic last month that the spacecraft could accomplish its goal, but things have clearly changed since then.\nKatalyst had less than a year to design a spacecraft for the Swift Boost mission, which launched in early July. Shawn Domagal-Goldman, the Astrophysics Division director at NASA Headquarters in Washington, said it was a \"high-risk, high-reward mission\" mission from the start. It was a first-of-its-kind attempt, and the team had very little time to try and rescue the Swift telescope, whose orbit is rapidly decaying due to an increase in solar activity in recent years.\nNASA's SWIFT observatory launched in 2004 to study gamma ray bursts, but astronomers are now using it for several other purposes. The agency has been relying on it to obtain critical information quickly when a sudden cosmic event takes places. This mission was supposed to add a decade or so to its life. Going forward, NASA says it will prioritize finding \"new options to react rapidly to cosmic events,\" but it will use current missions to help fill the gap for now.\nWhile LINK will no longer tug the Swift observatory to a higher orbit, it will still attempt to rendezvous with it. NASA and Katalyst plan to gather as much data as possible from the rendezvous operations to serve future satellite servicing missions.\n\"This is not the outcome we were working toward, but it does not change why this mission was worth attempting,\" said NASA Administrator Jared Isaacman. \"The team moved with extraordinary speed to give Swift a chance to carry out more science while advancing capabilities America will need for satellite servicing in the future. We are going to learn everything we can from LINK's rendezvous attempt and put those lessons to work on the missions that follow.\"",
+    "summary": "NASA has called off a mission to rescue the Neil Gehrels Swift Observatory by boosting it to a higher orbit, and the satellite is now expected to burn up in the Earth's atmosphere later this year. The decision follows ongoing attitude control and thruster issues with Katalyst Space's LINK spacecraft, which was designed and launched in July for the high-risk rescue attempt. Although the docking and tugging portion of the mission is canceled, the LINK spacecraft will still attempt to rendezvous with the telescope to gather valuable data for future satellite servicing.",
+    "key_points": [
+      "NASA has canceled the mission to rescue and re-boost the falling Neil Gehrels Swift Observatory.",
+      "The cancellation is due to ongoing attitude control and thruster problems experienced by Katalyst Space's LINK spacecraft since July.",
+      "The Swift observatory, which launched in 2004, is now expected to re-enter and burn up in Earth's atmosphere later this year.",
+      "Despite calling off the orbit boost, the LINK spacecraft will still attempt to rendezvous with Swift to collect data for future satellite missions.",
+      "NASA will now prioritize finding new ways to react rapidly to cosmic events while using existing missions to fill the gap."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-08-20T13:37:16+00:00"
+  },
+  {
     "id": "648e423497cc322cec198681",
     "title": "The world banned CFCs and put the ozone layer on a path to recovery. Now thousands of dying satellites are introducing aluminium oxide nanoparticles into the upper atmosphere — particles scientists warn can catalyse the chlorine chemistry that destroys ozone.",
     "source": "Space Daily",
