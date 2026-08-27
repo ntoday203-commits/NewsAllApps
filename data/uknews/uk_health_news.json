@@ -1,5 +1,28 @@
 [
   {
+    "id": "411e7a2f81c16cf91e2a88a5",
+    "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+    "source": "The Guardian",
+    "author": "Andrew Gregory",
+    "published_at": "2026-08-26T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/58c0a4d12df678280e418402df183a5eb40dc673/0_0_3839_3072/master/3839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=723223a8eff28d9f3071e9e13e13fd28",
+    "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSldrM0lCSVVfODk2T091ekNBdGZ6Y2RJbWg0WW5aLW5hQ21pdWtzdnZRVlcwUVJua3FVdmVJMzliSUpQcHk0eXJ4S3RnRnhnZFRGWmxGdEJaajU1WjRmV0s1ajVIcWlPazBNY2gtSm8ya0NaNUV5WG82MHJNTENqbUhvb2c2bnUtTzNmNF9NNkVZY0NCSzJVUkdnTTBDb1YyNkpxLWdpM0pHZw?oc=5",
+    "content": "Neurosurgeons in London have performed the world’s first successful AI-assisted operation to remove a brain tumour, saving the sight of a 48-year-old man, health officials have said.\nThe surgery was performed in May at the National Hospital for Neurology and Neurosurgery (NHNN), part of University College London hospitals NHS foundation trust, but details were kept secret until Thursday while the patient, Rhys Hibbert, recovered.\nWhile the surgical team remained in full control, the AI system analysed live camera footage during the operation, helping identify key structures such as nerves and blood vessels that should be avoided near the 11mm (0.4in) tumour on Hibbert’s pituitary gland.\n“When I came round … I could see everything in the room clearly,” said Hibbert, who was able to walk independently without glasses or sticks within a week of the surgery.\nHe has since returned to work as a customer service manager. “It feels like I’ve got a 360‑degree panoramic view of everything around me,” he said.\nThe surgeons operated on Hibbert using new AI technology which helps to identify tiny anatomy in the brain by colour-coding important structures to help surgeons recognise them safely.\nThe hospital had previously used the technology as a research tool but the operation was the first time it had been used on a patient.\nThe pituitary gland, blood vessels and nerves controlling vision are tightly packed together, and “going a millimetre wrong can make a critical difference”, health officials said, potentially leading to blindness, stroke or death.\nDr Sophia Bano, an associate professor in robotics and AI at UCL and the technical lead for the AI system, said: “By learning from hundreds of surgical videos, [the system] has been exposed to a breadth of surgical examples that would take a surgeon many years to encounter.\n“It is designed to help recognise critical anatomy, surgical instruments and tissue interactions in real time, supporting the surgeon during highly delicate procedures.”\nInitially managed without surgery, Hibbert’s symptoms had worsened since his diagnosis in 2024, and included severe hormone imbalance and vision problems. Without the operation, he faced going blind, health officials said.\nHibbert, from Bedfordshire, said: “The NHNN was founded in 1859 … and was the world’s first dedicated neurosurgical hospital. So to me, it seems very fitting that the same hospital should also be the world’s first to carry out an AI-assisted neurosurgery.”\nProf Mike Lewis, the scientific director for innovation at the National Institute for Health and Care Research (NIHR), which funded the operation as part of a clinical trial, said the “pioneering surgery” highlighted the potential of advanced AI to support surgeons and improve patient care.",
+    "summary": "Neurosurgeons in London have performed the world's first successful AI-assisted operation to remove a brain tumour, saving a 48-year-old man's sight. The procedure took place in May at the National Hospital for Neurology and Neurosurgery using an AI system that analyses live camera footage to colour-code and identify critical anatomy. The patient recovered well, regained his clear vision, and has returned to work.",
+    "key_points": [
+      "London neurosurgeons performed the world's first AI-assisted brain tumour removal surgery.",
+      "The AI system analysed live camera footage to help surgeons identify delicate nerves and blood vessels in real time.",
+      "The 48-year-old patient, Rhys Hibbert, successfully avoided blindness and has returned to work.",
+      "The AI technology was developed by learning from hundreds of previous surgical videos."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "HEALTH",
+    "app": "uknews",
+    "collected_at": "2026-08-27T13:13:32+00:00"
+  },
+  {
     "id": "81c741cd3526375ce232494a",
     "title": "First patient to have brain surgery with real-time AI assistance",
     "source": "BBC",
@@ -2300,28 +2323,5 @@
     "topic": "HEALTH",
     "app": "uknews",
     "collected_at": "2026-08-22T11:10:15+00:00"
-  },
-  {
-    "id": "e2230c5148235acf007e3739",
-    "title": "Prostate cancer cases surge by 100,000 in six years",
-    "source": "The Telegraph",
-    "author": "Laura Donnelly",
-    "published_at": "2026-08-22T00:00:00",
-    "image": "https://www.telegraph.co.uk/content/dam/news/2026/08/21/TELEMMGLPICT000465811574_17873305168200_trans_NvBQzQNjv4BqFmvNuCJhb9YlvApoMTSpqv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
-    "url": "https://www.telegraph.co.uk/news/2026/08/22/prostate-cancer-cases-surge-by-100000-in-six-years/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdLT3N4RUUxOXBMMDNyR1d4c3I2VUtQUmJoYUIxMWlBa1MwOTc2RTNWYzNmRE95M2ZwV1NrWUtycnhwTjBBYTN1Z0ZDRmV6WXpiNWhsYVlha1JnR3p0clQyalEtVmJFOFgtbzVMWEt1YlZCWWd1VGl4b2kzcXJPY2ZYbEZpeEtPd09wekE5MjVpSDdtd0hnRU5XTQ?oc=5",
-    "content": "  \n  \n\t\n\t\n\t\n\t\n\t\n  \n  \n    The Department of Health has insisted that this did not amount to a right to a test, but simply a right to ask for one, saying the final decision was always intended to rest with the GP.\nHowever, ministers representing successive governments have repeatedly described such a right.\nIn 2019, Steve Brine, the then public health minister, told the Commons: “Men over 50 have the right to be given a PSA test free on the NHS once they have discussed the advantages and disadvantages with their GP.”\nHe added: “The PCRMP [Prostate Cancer Risk Management Programme] makes that very clear to GPs, and, having discussed the pros and cons, no one over 50 should be told ‘No’.”\nThe Telegraph is campaigning for the rollout of targeted screening, with PSA tests offered to black men, those with a family history of prostate cancer and those carrying other high-risk genes.\nThe number of men seeking tests has risen in recent years after a series of high-profile figures spoke publicly about their experiences of the disease, including Sir Stephen Fry and Bill Turnbull, the broadcaster.\nExperts have noted a “staggering” rise in men seeking checks since Sir Chris revealed his terminal diagnosis in 2024.\nThe six-time Olympic cycling gold medallist is among those calling for screening to be rolled out so that men at high risk of the disease are offered checks.\n  \n ",
-    "summary": "The Department of Health has clarified that men over 50 have the right to ask a GP for a PSA test rather than a guaranteed right to the test itself, despite ministers previously describing it as a right. Meanwhile, the number of men seeking prostate cancer checks has surged significantly in recent years. This increase has been driven by high-profile figures, including Sir Stephen Fry, Bill Turnbull, and Sir Chris Hoy, speaking publicly about their diagnoses.",
-    "key_points": [
-      "The Department of Health states men over 50 have the right to ask for a PSA test, while GPs retain the final decision.",
-      "Successive government ministers have previously described the policy as a direct right to a free NHS PSA test after discussion.",
-      "The Telegraph is campaigning for targeted prostate cancer screening for high-risk groups.",
-      "High-profile figures sharing their diagnoses have driven a surge in men seeking checks."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "HEALTH",
-    "app": "uknews",
-    "collected_at": "2026-08-22T10:11:18+00:00"
   }
 ]
