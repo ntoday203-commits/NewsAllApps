@@ -1,5 +1,29 @@
 [
   {
+    "id": "6c7abe4064fa6d7a4fbc135b",
+    "title": "GTA 6's gameplay reveal broke a streaming record, and also broke Twitch and Netflix",
+    "source": "Eurogamer.net",
+    "author": "Vikki Blake",
+    "published_at": "2026-08-29T00:00:00",
+    "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-roundup-header-new.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+    "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUllmNnFwdENkYXZ6SUQ2OTRJT01BWXdwSFdyb1I0Z1hoUm5nWTdSTUY0VmJvaS0xcWt6akdLam5QMjFzZGl1LS1Qc0cwcldLajFnTjVtQk5rUm9LT0RqVDZHQUhyUkhPZnFaX0FLQmhhREFodWU0WWJUVFoydFhwMXdNdEpGUVQxM283eHcxNVY1VjJN?oc=5",
+    "content": "Reaction streams to Grand Theft Auto 6's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far.\nThat's according to new data from Streams Charts, which claims 9,038 streamers covered Rockstar Games' Netflix reveal, racking up 5,227,798 hours watched.\nThat puts GTA 6's reveal ahead of Summer Game Fest 2026's 3.81 million peak viewers, as well as June's Nintendo Direct and State of Play broadcasts. Twitch carried the largest share of the audience, accounting for around 44 percent of total hours watched, ahead of YouTube (34.8% percent) and Kick (20.2 percent).\nSpanish streamer Juan Alberto \"IlloJuan\" García led the way with 233,520 peak viewers, a new record for his own channel, ahead of Rubius (191,056) and IShowSpeed (177,887).\nThe reveal went out at 8pm UK time, but heavy demand caused technical issues on both Netflix and Twitch, with some viewers reportedly locked out for 40-50 minutes. That didn't deter internet hype, though; Streams Charts also tracked more than 100,000 chat messages about the game across the three-hour window it analysed.\nWhile the bulk of tracked messages about the reveal – 65-72 percent – were neutral, positive messages made up 11-15 percent of the total, while negative messages sat at around 17-20 percent, much of it aimed at the Twitch and Netflix outages rather than the game itself.\nAround a fifth of all messages also compared the reveal to Grand Theft Auto 5 and Red Dead Redemption 2, generally with a negative tone, with one viewer complaining: \"GTA V DLC FOR 80$ LMAO\".\nCloudflare, which handles more than a fifth of global internet traffic, has since shared its own numbers on the reveal's ripple effects. Netflix's global traffic rose 16 percent compared to previous weeks as the Extended Look aired, with the spike even sharper in the UK at 45 percent.\nTwitch saw its own surge, averaging a 12 percent increase over the three hours following the premiere and peaking at 35 percent, while YouTube jumped 39 percent when the trailer went live there at 1am.\nBut it was Rockstar's own website that saw the biggest swing of all, with traffic climbing 172 percent worldwide and a huge 1210 percent in the UK.\nGrand Theft Auto 6 is due out on November 19th for PlayStation 5 and Xbox Series X/S. This week's GTA 6 bonanza revealed a wealth of new information about the game, such as a changed Wanted system, a changed carjacking system, a new romance system, a huge game world, and a list of in-game activities.\nThis is what a billion dollars gets you, observed Chris Donlan, though as Chris Tapsell pointed out, this push towards realism and away from easy-going fun is a huge risk for the series – even if, he argued, it's ultimately right that it takes it.\nIt's a big and exciting moment for Rockstar after a week of leaked GTA 6 videos. But the hype has a bitter edge, as dozens of employees recently fired by Rockstar North continue to battle the company in employment tribunals over alleged union-busting.",
+    "summary": "The first gameplay presentation for Grand Theft Auto 6 broke streaming records by peaking at nearly 4 million viewers across platforms, surpassing other major 2026 gaming broadcasts. Heavy viewer demand caused temporary outages on Twitch and Netflix, while web traffic surged globally for the streaming services and Rockstar's website. The game is scheduled for release on November 19th for PlayStation 5 and Xbox Series X/S.",
+    "key_points": [
+      "GTA 6's gameplay reveal peaked at 3,970,738 viewers, making it the biggest gaming stream of 2026 so far.",
+      "Twitch accounted for the largest share of watch time at 44 percent, followed by YouTube at 34.8 percent and Kick at 20.2 percent.",
+      "Heavy demand caused technical outages on both Twitch and Netflix, locking some viewers out for 40 to 50 minutes.",
+      "Rockstar's website experienced a massive 172 percent increase in worldwide traffic and a 1210 percent spike in the UK.",
+      "Grand Theft Auto 6 is set to launch on November 19th for PlayStation 5 and Xbox Series X/S."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-29T17:59:09+00:00"
+  },
+  {
     "id": "ea971d451f560bff8097e237",
     "title": "DLSS 5 Patched to Work on RTX 4000 \"Ada Lovelace\" GPUs Despite No Official Support",
     "source": "TechPowerUp",
@@ -2285,28 +2309,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-22T18:11:35+00:00"
-  },
-  {
-    "id": "2ee064b14c76676fb18a64f6",
-    "title": "Call Of Duty: Modern Warfare 4 Switch 2 Partner Developer Revealed By Activision",
-    "source": "Nintendo Life",
-    "author": "Nintendo Life; Liam Doolan",
-    "published_at": "2026-08-22T00:00:00",
-    "image": "https://images.nintendolife.com/68eed6e64897d/large.jpg",
-    "url": "https://www.nintendolife.com/news/2026/08/call-of-duty-modern-warfare-4-switch-2-partner-developer-revealed-by-activision",
-    "google_news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUDlhOWhyTmo4My1QSldCZ1ZwWHR2eVVGVjRTREd2LThKLU5qYjVXcVlTUmtCVGRCQlZUZzFmMjZtQ2lORTBvR0Y5RUwtdEtVRHY3a0FVMTlJYnRJanlOZHczSElSQmxNQ1ZscGR1bGFuZHVBbTdlbWhIbjlJTjhxMnVDby1BRUpVcVQ5cGVObEh1TVIwQ1VHT1lmYlFub1E2X3VmR2ZVSVZlTGhSTm9WbUtqU3ozLUE4eGpuejV3?oc=5",
-    "content": "![Call of Duty Modern Warfare 4](https://images.nintendolife.com/68eed6e64897d/call-of-duty-modern-warfare-4.900x.jpg)\nCall of Duty is making its return to Nintendo platforms after 13 years this October, and Activision has revealed the developer who helped with the Switch 2 version of Modern Warfare 4.\nInfinity Ward called on Activision's partners at Digital Legends. The Spanish-based studio, founded in 2001, made a name for itself as a mobile developer and was acquired by Activision in 2021. Since then, it's been assigned to multiple Call of Duty titles, including Black Ops 6, 7 and Warzone.\nThe studio has also shared an official announcement about its work on the native version of Modern Warfare 4 for Switch 2:\nDigital Legends Entertainment: \"Breaking boundaries once again! Infinity Ward, in partnership with Digital Legends, is developing Call of Duty: Modern Warfare 4 natively for Nintendo Switch 2, bringing the MW series to Nintendo players for the first time in more than a decade. More to come later this summer!\"\nActivision has already given select creators and outlets an opportunity to go hands on with the Switch 2 version of Modern Warfare 4 ahead of next week's open beta, and the first impressions seem to be relatively positive.\nThe open beta for Switch 2 gets underway on 28th August 2026 and will include the campaign mission 'Entrenched' and multiplayer, including crossplay support. The full game arrives later this year on 23rd October 2026, with the Switch 2 version launching the same day as other platforms.",
-    "summary": "Activision has revealed that Spanish-based developer Digital Legends is partnering with Infinity Ward to develop Call of Duty: Modern Warfare 4 natively for the Nintendo Switch 2. This release marks the franchise's return to Nintendo platforms after 13 years, launching on October 23, 2026. Ahead of the full launch, an open beta for the Switch 2 version featuring crossplay support is scheduled to begin on August 28, 2026.",
-    "key_points": [
-      "Digital Legends is co-developing the native Nintendo Switch 2 version of Call of Duty: Modern Warfare 4 with Infinity Ward.",
-      "The release marks the franchise's return to a Nintendo platform after a 13-year absence.",
-      "An open beta for the Switch 2 version featuring the campaign mission 'Entrenched' and crossplay multiplayer begins on August 28, 2026.",
-      "The full game is scheduled to launch on October 23, 2026, with the Switch 2 version releasing the same day as other platforms."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-22T17:10:04+00:00"
   }
 ]
