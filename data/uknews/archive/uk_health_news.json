@@ -1,5 +1,28 @@
 [
   {
+    "id": "c563ba54ef74816769156ea3",
+    "title": "Putting mice into hibernation causes a major loss of synapses",
+    "source": "Ars Technica",
+    "author": "Jacek Krywko",
+    "published_at": "2026-08-22T00:00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-1152x648.jpg",
+    "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnFNQTQtTHZNMzd0U0drQnlvUFVZdDNuQXB5TFI1VG5MY2F0LVZwUXR2U3Ewb1lqVzBsVHhGUWVBaHYyZ0hoUUJCdnZmRzk0N3pNTE1XNGFEVTk5cERpQnJKbE1oZzB4bDcxRWlXUWhZcDRZWkZsSnRva0ljYzJqYVdwU2hra0stMURSc1VmSGxxdmFNTFcyclhTb1FrQWVFQVE?oc=5",
+    "content": "Our leading hypothesis for how our memories are stored is that when you learn something, the connections among neurons involved get stronger and physically larger, and that constitutes the memory. The trouble is that these connections significantly change over time—they’re plastic.\n“If you compare the arrangement of these connections on day one with the same on day four or five, it’s very, very different,” says Kazumasa Tanaka, a neuroscientist at the Okinawa Institute of Science and Technology Graduate University in Japan. To learn how a memory that can last for years can sit on hardware that shifts every few days, Tanaka’s team made the shift a bit more dramatic. In a recent Science study, they induced a hibernation-like state in mice, which basically erased the state of more than half of their synapses. And yet the mice apparently have kept their memories.\nHibernation on demand\nHibernation is a specialty of squirrels, hamsters, and bears, but the neural circuit that triggers it is conserved across mammals, and is present in species that never hibernate in the wild—like mice. In June 2020, a team of researchers led by Takeshi Sakurai, a neuroscientist at the University of Tsukuba and a collaborator on Tanaka’s study, developed a technique to artificially activate this hibernation circuit. This can be done by activating a population called Q neurons in a region of the hypothalamus.\nThe result is a state dubbed QIH, for Q-neuron-induced hypothermia and hypometabolism.\n“With our protocol, we can bring mice’s body temperature down to somewhere around 20° Celsius, and their heart rate and breathing rate decrease significantly as well,” Tanaka explains. Whether that counts as real hibernation depends on which hibernator serves as a reference. Bears in a hibernation state reduce their metabolic demand but don’t change their body temperature, which remains around 36° or 37° Celsius. On the other extreme, some species of squirrels enter super deep hibernation where their body temperature can go very close to freezing. “Artificial hibernation sits somewhere in the middle of that spectrum,” Tanaka says.",
+    "summary": "Researchers studying how long-term memories persist despite constantly shifting neural connections induced an artificial hibernation-like state in mice. This technique, called QIH, erased more than half of the mice's synapses. Despite this massive loss of synaptic connections, the mice apparently retained their memories.",
+    "key_points": [
+      "Neural connections that store memories change significantly over time.",
+      "Researchers induced a hibernation-like state in mice by activating Q neurons in the hypothalamus.",
+      "The artificial hibernation state, known as QIH, lowered the mice's body temperature and metabolic rates.",
+      "Inducing QIH erased more than half of the mice's synapses, yet they appeared to keep their memories."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "HEALTH",
+    "app": "uknews",
+    "collected_at": "2026-08-22T15:09:41+00:00"
+  },
+  {
     "id": "5e4b38eb01927f83736e3ed8",
     "title": "Salmonella outbreak: How to check if your eggs are safe",
     "source": "The Independent",

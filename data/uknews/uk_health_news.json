@@ -1,5 +1,29 @@
 [
   {
+    "id": "8e2e2b23c2ef4a67ba285bc8",
+    "title": "How Devon and Cornwall became bluetongue virus hotspot",
+    "source": "BBC",
+    "author": "Brodie Owen",
+    "published_at": "2026-08-29T00:00:00",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a500/live/e4455030-a2c9-11f1-941c-8741c1a72471.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/cqjk0l2ww7qo",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rRnZ3WGM5bHJkcS1CUnZiZGI0ZERUa280cnYyMHdGVzRrMkR5dHR3Q3JCT2FTQXhlWUV4U3Nob3JKNWplTFhfWTJpRjk0TF9kS3JwZUF2OWFJMFdJ?oc=5",
+    "content": "![A flock of sheep surrounded by long dry grass.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a500/live/e4455030-a2c9-11f1-941c-8741c1a72471.jpg)\nBluetongue, which is spread by midges, has spread rapidly in Devon and Cornwall\n- Published\nA virus which can be deadly to livestock successfully overwintered in parts of the UK before spreading rapidly, scientists believe.\nCases of the bluetongue virus, which affects sheep and cattle as well as other animals, continue to spread with the latest government figures, external showing confirmed cases on 684 farms across England, Wales and Scotland since the outbreak began in July.\nDevon and Cornwall - which has almost two thirds of confirmed cases - is the epicentre of the outbreak.\nDr Simon Gubbins, an epidemiologist at the Pirbright Institute, which is testing for the virus, said the UK had \"never seen anything like the South West cluster\" but the strain was likely not reintroduced from Europe.\nSpread mainly by midge bites, the virus was confirmed in a sheep in Cornwall in September 2025 in the first recorded case in the UK in 17 years.\nThis strain was introduced into Cornwall from midges blown in wind from northern France, said Gubbins.\nWith cases clustered in the south of France this year, external, Gubbins said the likely scenario was the virus \"went from one season to the next\" in parts of the UK.\nBluetongue, which causes a drop in milk production in dairy cows and lameness in sheep, can be transmitted to their offspring.\n\"The virus has essentially done that in the south-west of England, and then when the new crop of lambs and calves were born, it's come during a very warm period - and that is very favourable for bluetongue transmission,\" said Gubbins.\n\"In normal weather conditions we'd expect that to be one to two weeks during the height of summer - but for the past few months it's been a few days to a week.\n\"It's been much faster than we'd normally expect.\"\nGubbins, based in Woking, said Devon and Cornwall's high density of livestock also created favourable conditions, along with low rates of vaccination.\n\"There are lots of opportunities for spread between animals and between farms,\" he said.\nDr Ternenge Apaa, a veterinary scientist at the University of Reading, said environmental conditions \"amplified disease spread once the virus reached areas with large sheep populations\".\n\"Once the virus becomes established, local transmission can increase rapidly during the midge season,\" he said.\nOn 13 August, UK chief vet Dr Christine Middlemiss warned the outbreak would \"get worse\" after the region sweltered through its fifth heatwave of the year.\nMiddlemiss conceded there was a bottleneck in vaccine supplies but she urged farmers to continue inoculating livestock as the virus was \"here to stay\".\nHowever, Gubbins was hopeful bluetongue could be eradicated in the UK despite being established in Europe.\n\"In the Netherlands, for their first season, they were having large numbers... but then they managed to control it through the use of vaccination and they haven't reported disease now for two years,\" he said.\n\"Vaccination is one of the best means of protection that we have had.\"\nFollow BBC Cornwall on X, external, Facebook, external and Instagram, external. Follow BBC Devon on X, external, Facebook, external and Instagram, external. Send your story ideas to spotlight@bbc.co.uk, external.",
+    "summary": "The bluetongue virus has spread rapidly across the UK, with Devon and Cornwall becoming the epicentre of the outbreak and accounting for nearly two-thirds of confirmed farm cases. Scientists believe the virus overwintered locally in the South West before proliferating during a warm period that favoured midge transmission. Factors including a high density of livestock, low vaccination rates, and favourable environmental conditions have amplified the spread of the disease among sheep and cattle.",
+    "key_points": [
+      "Confirmed cases of bluetongue have been reported on 684 farms across England, Wales, and Scotland since the outbreak began in July.",
+      "Devon and Cornwall contain nearly two-thirds of the confirmed cases, making the region the epicentre of the UK outbreak.",
+      "The virus is spread primarily by midge bites and affects animals such as sheep and cattle, causing symptoms like lameness and reduced milk production.",
+      "High livestock density, low vaccination rates, and warm weather have created ideal conditions for rapid local transmission.",
+      "Experts emphasize that vaccination is one of the best means of protection and control against the virus."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "HEALTH",
+    "app": "uknews",
+    "collected_at": "2026-08-29T09:27:51+00:00"
+  },
+  {
     "id": "6585e4e05861b9a2cb305730",
     "title": "New heart attack definition promises better care for women",
     "source": "The Guardian",
@@ -2298,28 +2322,5 @@
     "topic": "HEALTH",
     "app": "uknews",
     "collected_at": "2026-08-22T16:09:43+00:00"
-  },
-  {
-    "id": "c563ba54ef74816769156ea3",
-    "title": "Putting mice into hibernation causes a major loss of synapses",
-    "source": "Ars Technica",
-    "author": "Jacek Krywko",
-    "published_at": "2026-08-22T00:00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-1152x648.jpg",
-    "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnFNQTQtTHZNMzd0U0drQnlvUFVZdDNuQXB5TFI1VG5MY2F0LVZwUXR2U3Ewb1lqVzBsVHhGUWVBaHYyZ0hoUUJCdnZmRzk0N3pNTE1XNGFEVTk5cERpQnJKbE1oZzB4bDcxRWlXUWhZcDRZWkZsSnRva0ljYzJqYVdwU2hra0stMURSc1VmSGxxdmFNTFcyclhTb1FrQWVFQVE?oc=5",
-    "content": "Our leading hypothesis for how our memories are stored is that when you learn something, the connections among neurons involved get stronger and physically larger, and that constitutes the memory. The trouble is that these connections significantly change over time—they’re plastic.\n“If you compare the arrangement of these connections on day one with the same on day four or five, it’s very, very different,” says Kazumasa Tanaka, a neuroscientist at the Okinawa Institute of Science and Technology Graduate University in Japan. To learn how a memory that can last for years can sit on hardware that shifts every few days, Tanaka’s team made the shift a bit more dramatic. In a recent Science study, they induced a hibernation-like state in mice, which basically erased the state of more than half of their synapses. And yet the mice apparently have kept their memories.\nHibernation on demand\nHibernation is a specialty of squirrels, hamsters, and bears, but the neural circuit that triggers it is conserved across mammals, and is present in species that never hibernate in the wild—like mice. In June 2020, a team of researchers led by Takeshi Sakurai, a neuroscientist at the University of Tsukuba and a collaborator on Tanaka’s study, developed a technique to artificially activate this hibernation circuit. This can be done by activating a population called Q neurons in a region of the hypothalamus.\nThe result is a state dubbed QIH, for Q-neuron-induced hypothermia and hypometabolism.\n“With our protocol, we can bring mice’s body temperature down to somewhere around 20° Celsius, and their heart rate and breathing rate decrease significantly as well,” Tanaka explains. Whether that counts as real hibernation depends on which hibernator serves as a reference. Bears in a hibernation state reduce their metabolic demand but don’t change their body temperature, which remains around 36° or 37° Celsius. On the other extreme, some species of squirrels enter super deep hibernation where their body temperature can go very close to freezing. “Artificial hibernation sits somewhere in the middle of that spectrum,” Tanaka says.",
-    "summary": "Researchers studying how long-term memories persist despite constantly shifting neural connections induced an artificial hibernation-like state in mice. This technique, called QIH, erased more than half of the mice's synapses. Despite this massive loss of synaptic connections, the mice apparently retained their memories.",
-    "key_points": [
-      "Neural connections that store memories change significantly over time.",
-      "Researchers induced a hibernation-like state in mice by activating Q neurons in the hypothalamus.",
-      "The artificial hibernation state, known as QIH, lowered the mice's body temperature and metabolic rates.",
-      "Inducing QIH erased more than half of the mice's synapses, yet they appeared to keep their memories."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "HEALTH",
-    "app": "uknews",
-    "collected_at": "2026-08-22T15:09:41+00:00"
   }
 ]
