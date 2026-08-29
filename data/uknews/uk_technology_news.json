@@ -1,5 +1,28 @@
 [
   {
+    "id": "ea971d451f560bff8097e237",
+    "title": "DLSS 5 Patched to Work on RTX 4000 \"Ada Lovelace\" GPUs Despite No Official Support",
+    "source": "TechPowerUp",
+    "author": "DrUsmanSaleem Discuss",
+    "published_at": "2026-08-28T00:00:00",
+    "image": "https://www.techpowerup.com/img/cFxxKlXUNA2hUdg1.jpg",
+    "url": "https://www.techpowerup.com/352086/dlss-5-patched-to-work-on-rtx-4000-ada-lovelace-gpus-despite-no-official-support",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNelhBY3JTVGhXaTQtdmxfUFlfdkEzQTR6S19sLW11YUZyNEdTbmkwTjdSTHQ5aTV3OTU1RG9qc0UtbHJMR0lNNmlTc0tHLTE2ZU5zTnEzZV9IX2p3b3hRMTROb0ZUdVFJemZiaEFEN2Rmd2p3V2piNGRlTWtFX012TmEtZEp2amtENmR5a0ZONTNubW1qX3VuQTdsY0pkUnY2Z1dKNWE3ZjNyMVRCbW9aMExVYU5oUdIBuwFBVV95cUxPbENma0hXUG9VaDJtZjlpa1BqY296U0N4X0xQSTMwMEdfSkd4SW45dGtsdGhJRThnUVEtSWFjT1kwWnpQT0Y3OE5MRklHaVEzbWtCQTQyM1o4TEcwdFFDc29wRHh6Vm9CeHVsSUlWVS1wckx3SV96Q3NZVjFaSGgxVDVXVlQ4bEVaelpRNXZKZ29fUmg2LUpCUVJ6OUdxRnBuM2JuVzlEaXpyR3A2WDdsQ2pMaXBDZmJyUHRJ?oc=5",
+    "content": "Friday, August 28th 2026\n\t\n\t\t\n![NVIDIA](https://tpucdn.com/images/news/nvidia-v1788010518.png) \nThe modding community has been hard at work ever since the untimely release of DLSS-NR, a precursor to DLSS 5. Now, modders have gotten NVIDIA's leaked DLSS 5 tool working on RTX 4000 series cards, even though the tool was only built for RTX 5000 Blackwell hardware. The DLL leaked earlier this week via an early-access build of NBA 2K27, and people on the RenoDX Discord quickly got it running in other games using ReShade and RenoDX.\nAs we noted in our DLSS-NR breakdown, the AI model runs on FP8, which Ada Lovelace GPUs support just fine, but the compiled binaries inside the file only targeted Blackwell's sm_120 architecture, with nothing built for Ampere or Ada. A modder going by \"Uncle Burrito\" has apparently fixed that by hunting down the incompatible binaries and swapping in ones built for Ada. Tom's Hardware confirmed the patch works on an RTX 4080, and said other developers in the same Discord are working on their own versions of the fix.\n![](https://tpucdn.com/img/cFxxKlXUNA2hUdg1_thm.jpg) It's still early and rough around the edges, and there's no word yet on whether NVIDIA plans to officially support older cards at launch. However, given how quickly modders cracked this open, it looks like NVIDIA may have little choice but to consider it. Older cards like Ampere could be a tougher case though, since they lack native FP8 support altogether.\n\t\t\n\t\tSources:\n\t\t\t\tUncle Burrito on YouTube, \t\t\t\tTom's Hardware\t\t\t\n\t\n\t\n\t\n\t\t\n\t\n\t\t\nAs we noted in our DLSS-NR breakdown, the AI model runs on FP8, which Ada Lovelace GPUs support just fine, but the compiled binaries inside the file only targeted Blackwell's sm_120 architecture, with nothing built for Ampere or Ada. A modder going by \"Uncle Burrito\" has apparently fixed that by hunting down the incompatible binaries and swapping in ones built for Ada. Tom's Hardware confirmed the patch works on an RTX 4080, and said other developers in the same Discord are working on their own versions of the fix.\n![](https://tpucdn.com/img/cFxxKlXUNA2hUdg1_thm.jpg) ",
+    "summary": "Modders have successfully patched NVIDIA's leaked DLSS 5 tool to function on RTX 4000 \"Ada Lovelace\" graphics cards, despite the software officially targeting only RTX 5000 Blackwell hardware. The leak originated from an early-access build of NBA 2K27, prompting modders to swap incompatible binaries for Ada-compatible ones. While confirmed to work on an RTX 4080, it remains uncertain if NVIDIA will officially extend support to older hardware generations.",
+    "key_points": [
+      "A leaked DLSS 5 DLL file, originally built exclusively for Blackwell architecture, was cracked by the modding community.",
+      "A modder named \"Uncle Burrito\" fixed the architecture incompatibility by swapping binaries to support Ada Lovelace GPUs.",
+      "Tom's Hardware confirmed the resulting patch successfully operates on an RTX 4080.",
+      "Older Ampere cards may struggle to receive official support because they lack native FP8 hardware capabilities."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-29T14:44:29+00:00"
+  },
+  {
     "id": "4e621715f6da81b76528165a",
     "title": "How to watch Apple’s iPhone 18 Pro and iPhone Ultra launch live",
     "source": "Trusted Reviews",
@@ -2285,28 +2308,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-22T17:10:04+00:00"
-  },
-  {
-    "id": "86bcb465bef28259b1316071",
-    "title": "Double Fine's Tim Schafer confirms the studio now (almost) owns its own games again",
-    "source": "Eurogamer",
-    "author": "Vikki Blake",
-    "published_at": "2026-08-22T00:00:00",
-    "image": "https://assetsio.gnwcdn.com/Kiln-key-art-showing-battling-pots.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "url": "https://www.eurogamer.net/double-fine-ip-publishing-rights-xbox-split",
-    "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Jb0RnanBQcjhPM1Q3THR2V1IzZnFHRmFLUGlTSVdpLU0tOWJOTFhJZHliaHJrSTI0U29CYmNqaE1jN3U2bnJJZU5NQlhmZ2JVaHd0blpCWkRtSlM4U0h1MDY3X1hPclRtSW96TWc5NVFCdnRLb1pISA?oc=5",
-    "content": "Double Fine has confirmed it owns – or will shortly own – the intellectual property and publishing rights to every game it made during its seven years under Xbox following the studio's split from Microsoft earlier this year.\nCEO Tim Schafer confirmed the news on Kinda Funny Games (thanks, IGN), fielding a fan question about whether buying Double Fine's back catalogue - including Psychonauts 2, Keeper, and Kiln - actually puts money in the studio's pocket.\n\"I saw a question there: 'Do you guys make the money on games?'\" Schafer said. \"The transfer of the IP came back to us, and we get the publishing rights back to all our games.\"\nThat said, \"some of [the games]\" remain with Xbox for the time being, but Schafer explained that \"it just takes a while for it to all process\".\n\"If you're curious, buying any of our games helps support the studio,\" he emphasised. \"We can turn that money into revenue that helps us extend that runway.\"\nSchafer also revealed Double Fine's next move will be to revive its Amnesia Fortnight game jam as a Kickstarter campaign, letting backers vote on which prototype becomes the studio's next full project. The jam is set to run from 31st August through most of September.\nIt's the clearest confirmation yet of how Double Fine has come out the other side of Xbox's restructuring. Xbox's wider reorganisation, announced by CEO Asha Sharma in July, affected around 3,200 roles across the division and saw several studios, including Double Fine, spun back out into independence while keeping hold of their IP and back catalogues.\nDouble Fine itself laid off roughly a quarter of its 90-person team as part of the transition, saying at the time that the cuts were needed to reach \"a size that we can sustain.\"\nCompulsion Games, the We Happy Few and South of Midnight studio also cut loose from Xbox in the same restructuring, has similarly confirmed it retains ownership of its IP.",
-    "summary": "Double Fine CEO Tim Schafer confirmed that the studio now owns or will soon own the intellectual property and publishing rights to all games made during its seven years under Xbox. Following the studio's independence resulting from Xbox restructuring, purchasing these games will directly support the studio's revenue. Additionally, Double Fine plans to revive its Amnesia Fortnight game jam through a Kickstarter campaign.",
-    "key_points": [
-      "Double Fine regained intellectual property and publishing rights to its games following its split from Microsoft.",
-      "CEO Tim Schafer confirmed that buying Double Fine's back catalogue directly supports the studio's revenue.",
-      "The studio plans to launch a Kickstarter campaign for its Amnesia Fortnight game jam from August 31 through September.",
-      "The studio's return to independence followed a wider Xbox restructuring in July that affected multiple studios."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-22T16:09:22+00:00"
   }
 ]
