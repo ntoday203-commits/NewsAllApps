@@ -1,5 +1,28 @@
 [
   {
+    "id": "4f4ac5fe73be3404f769e685",
+    "title": "Alien Jellyfish or Camera Glitch? Experts Debate Odd Photo Taken on Mars",
+    "source": "PetaPixel",
+    "author": "Matt Growcoot",
+    "published_at": "2026-08-28T00:00:00",
+    "image": "https://petapixel.com/assets/uploads/2026/08/cropped-jellyfish2.jpg",
+    "url": "https://petapixel.com/2026/08/28/alien-jellyfish-or-camera-glitch-experts-debate-odd-photo-taken-on-mars/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRF9tZjNHTVlIbDlHTVJESmR6eERxbTRLYTNkR19sbVRnQk1jZklSb001T29BbFowSkZPSmZ6R2phVkVuSTQwcEhpQlI5Uzk0Ym1mbXZmbi1PbFhWc2cweHN4emZMaVNYQy1hUGhjekhGVElKdUpuS2tQSkNPejZiMkZnd3FfbHNNSEhhejZDNEU2Y2F3Z19JdG5FVkJtR2lHdEZBTFNyMWQ?oc=5",
+    "content": "![A red arrow points to a small, dark, T-shaped object resting on a rocky, barren landscape beneath a large, sloping hill.](https://petapixel.com/assets/uploads/2026/08/cropped-jellyfish2-800x420.jpg)\nA photo taken by the Mars Curiosity Rover a few years ago has resurfaced online, and that’s because it shows something strange on the horizon.\nTaken on Curiosity’s Right Navigation Camera on August 20, 2023, there is a figure hovering on the horizon. Through human eyes, which are admittedly prone to pareidolia, a domed head and tentacles appear to hover above the ground — kind of like the invaders in War of the Worlds.\n![A blurry, dark, tripod-like silhouette stands atop a rocky, uneven ridge against a pale, overcast sky.](https://petapixel.com/assets/uploads/2026/08/cropped-jellyfish.jpg)\nCue recent headlines like “Mysterious ‘jellyfish’ spotted in NASA Mars photo sparks theories of life on the Red Planet,” by the Daily Mail. But whatever it is, it really is on the original photo, per NASA’s website.\nThere was a photo taken just 13 seconds earlier, which doesn’t show the “jellyfish.” That led to some people speculating that a giant invertebrate is scuttling around extremely quickly over the Martian surface.\n![A group of people stand in a street looking toward a large, three-legged alien machine emerging from thick fog.](https://petapixel.com/assets/uploads/2026/08/War-Of-The-Worlds-2005still.webp)\nWhat Is It?\nWhile it is impossible to totally rule out the giant alien jellyfish theory, a far more logical explanation is that it’s actually some kind of camera artifact.\nDr. Joseph Farah, an astrophysicist, believes it was caused by a cosmic ray striking the camera’s sensor, pointing out a perfect row of black pixels when zooming in on the figure.\n“What I think happened is a cosmic ray struck the camera at the exact right moment and left this big old artifact in the image,” says Dr. Farah.\n“It explains why the shape is so weird; just a perfect row of pixels with no anti-aliasing effect. And why it wasn’t present just 13 seconds earlier.”\nAnother hypothesis suggested by EarthSky is that it could be due to an electronic or transmission glitch.\n“A pixel value can change at multiple points between the camera sensor and the final image file on Earth,” notes EarthSky. “Within the readout electronics, inside the flight computer’s storage, during onboard compression, throughout the downlink transmission or during ground processing.”\nWhatever it is, for photographers on Earth, there’s a good lesson here: next time an unexpected object appears in your photo, blame it on a cosmic ray hitting your camera.\nEarlier this year, Curiosity captured photos of rocks that look like dragon scales and a sea of polygons.\nImage creditsCourtesy of NASA.\nAffiliate Disclosure PetaPixel articles may include affiliate links; we may earn a commission if you buy through one.",
+    "summary": "An old photo taken by the Mars Curiosity Rover on August 20, 2023, has resurfaced online, sparking theories about a mysterious jellyfish-like object on the horizon. While some speculated about alien life due to the strange shape and its absence in a photo taken 13 seconds prior, experts suggest more logical explanations. Astrophysicist Dr. Joseph Farah believes it is a camera artifact caused by a cosmic ray, while EarthSky suggests it could be an electronic or transmission glitch.",
+    "key_points": [
+      "A resurfaced Mars Curiosity Rover photo from August 20, 2023, shows a strange jellyfish-like figure on the horizon.",
+      "The object was not present in a photo taken just 13 seconds earlier, leading to wild speculation about alien life.",
+      "Astrophysicist Dr. Joseph Farah attributes the shape to a cosmic ray striking the camera sensor.",
+      "EarthSky suggested alternative explanations, including electronic or transmission glitches during data processing and downlink."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-08-30T06:04:52+00:00"
+  },
+  {
     "id": "3fd195918f1a7ae52594339c",
     "title": "Interstellar Travel V: Warp Drives, Wormholes, and Halo Drives",
     "source": "Universe Today",
@@ -2297,29 +2320,5 @@
     "topic": "SCIENCE",
     "app": "uknews",
     "collected_at": "2026-08-21T16:17:41+00:00"
-  },
-  {
-    "id": "29e09a1dbeab78d337bb884c",
-    "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-    "source": "Ars Technica",
-    "author": "Stephen Clark",
-    "published_at": "2026-08-21T00:00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg",
-    "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUNPdzRzMk5naENtblN1NFk4N0gzWDVTNk94YVBZdzUxU1drcDE2RXVRQkpqWjVSSTEyUFdHS0NSbFBhdmN0NnZlVTl0UjRlSktnb1FlSm9QNkVRekRjejhtNzktVkdvcDgwaVdiSWhxd3p4Z0lnTTVBU0g3ek1QYjBFUkUzQ2tnOC1hcU55TENkR0xYT1hmQ3NPelBiUUdpMnlrbUZ3?oc=5",
-    "content": "Welcome to Edition 9.07 of the Rocket Report! China’s workhorse Long March rocket family appears to be rebounding quickly from a rare launch failure August 10. Chinese officials have not publicly released any information on what may have caused the Long March 7A rocket to break apart less than 90 seconds after liftoff, but the rocket’s use of YF-100 engines initially raised questions about the failure’s impact on other Chinese rockets that use the same type of engines. But no biggie. YF-100 engines returned to flight six days later with the successful flight of a Long March 12 rocket, and the heavy-lift Long March 5—also with YF-100 engines—is set to launch in a few days with one of China’s most important space missions of the decade: the Chang’e 7 lunar lander en route to the Moon’s south pole.\nAs always, we welcome reader submissions. If you don’t want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.\n![](https://cdn.arstechnica.net/wp-content/uploads/2018/05/smalll.png) \nTrouble in Taiwan. A prototype for a future satellite launch vehicle developed by Taiwan’s top weapons manufacturer veered off course shortly after liftoff Wednesday, Taiwan’s Central News Agency reports. The “trajectory anomaly” prompted the activation of the rocket’s self-destruct mechanism. The government agency responsible for the test flight, the National Chung-Shan Institute of Science and Technology (NCSIST), reported no injuries or property damage. Debris from the rocket fell into a planned safety control zone near the southern tip of Taiwan.\nParallel paths… Details about Wednesday’s rocket test are scarce, but the flight likely involved a sub-scale suborbital version of NCSIST’s planned military satellite launcher. The launch was the first test flight for the military’s satellite launch program, which focuses on developing a solid-fueled rocket to place small payloads into low-Earth orbit. At the same time, the civilian Taiwan Space Agency is developing a liquid-fueled satellite launcher that could be ready for orbital missions in the early 2030s.",
-    "summary": "China's Long March rocket family is recovering quickly from a recent launch failure as rockets using the same YF-100 engines have already returned to flight. Meanwhile, a prototype satellite launch vehicle in Taiwan experienced a trajectory anomaly during its first test flight, prompting its self-destruct mechanism to activate without causing any injuries or property damage. Taiwan is concurrently pursuing both a military solid-fueled satellite launcher and a civilian liquid-fueled launcher.",
-    "key_points": [
-      "China's YF-100 engines returned to flight just six days after a Long March 7A launch failure.",
-      "China's heavy-lift Long March 5 is scheduled to launch the Chang'e 7 lunar lander.",
-      "A prototype satellite launch vehicle in Taiwan went off course during its first test flight, triggering its self-destruct mechanism.",
-      "Taiwan's test flight resulted in no injuries or property damage, with debris falling into a designated safety zone.",
-      "Taiwan is developing both a military solid-fueled rocket and a civilian liquid-fueled rocket for satellite launches."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "SCIENCE",
-    "app": "uknews",
-    "collected_at": "2026-08-21T15:21:22+00:00"
   }
 ]

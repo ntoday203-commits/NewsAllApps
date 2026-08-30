@@ -1,5 +1,28 @@
 [
   {
+    "id": "95bd68bc9b2194bcff589e66",
+    "title": "UK salmonella cases nearing 500 as egg investigations continue",
+    "source": "BBC",
+    "author": "Michelle Roberts",
+    "published_at": "2026-08-27T00:00:00",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b642/live/cc25c7c0-a1fa-11f1-a97e-999c5aae08bf.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMUYtQ2N0XzJWS0diTzh1UnFXTzZrMUM1eHpRTXZWeXh5U0hIZkUxVUxwWUV5SkFqYVRjbjR4SG5Dbmw4SW80SWs0STY1U3laZTl0U3l0TUlHcnZm?oc=5",
+    "content": "![A woman cracks open an egg.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b642/live/cc25c7c0-a1fa-11f1-a97e-999c5aae08bf.jpg)\n- Published\nClose to 500 people have become ill with salmonella linked to imported eggs, say UK authorities, who say they have identified two new clusters of the infection.\nThe UK Health Security Agency, external reported 207 cases last week. That has been increased to 259, with the two new clusters bringing the total to 474. There have been two deaths recorded.\nSome of the cases date back a year, but all involve bacteria that are almost genetically identical, suggesting a common food source.\nInvestigations are ongoing, but based on what is known so far, experts say people have fallen sick after eating out rather than cooking eggs at home.\nCases of salmonella are being seen in other European countries, external too - Austria (2), Belgium (15), Denmark (1), France (4), Germany (6), the Netherlands (106).\nInvestigations in the Netherlands suggests a link with chicken meat, rather than eggs.\nSalmonella can be found in a number of food sources including raw or under-cooked poultry or meat and eggs.\nMore than a third of those ill in the UK - some babies and others as old as 92 - have needed hospital care.\nMost people get better without treatment, however.\nWhile salmonella cases can happen any time, the UK outbreak involves a few specific, near-identical genetic clusters called t5.9411, t0.24068 and t5.9765.\nThere have been:\n- 259 confirmed cases and one death linked to t5.9411\n- 38 confirmed cases and one death linked to t5.9765\n- 177 confirmed cases linked to the t0.24068\nMost have been recorded in recent weeks and months, but the investigations go back to cases as far as August 2025.\nThe majority have been in England, with many in London and Yorkshire and Humber.\nThere have been a small number of cases in Scotland, Wales and Northern Ireland too.\nHow to stay safe\nPreparing and cooking food thoroughly can prevent infection, as well as washing your hands after using the bathroom and before handling food.\nIt is safe to buy and eat eggs that have a British Lion mark or are produced under the Laid in Britain egg assurance scheme, experts advise.\nAny suppliers of British Lion mark eggs have to stick to a strict code that covers testing and vaccinating hens against salmonella.\nProf Ian Young from the Food Standards Agency said: \"We continue to work closely with the UK Health Security Agency and other partners to investigate.\n\"The exact causes of these outbreaks have not yet been identified, but investigations so far have identified links to imported eggs. There is no evidence that UK-produced eggs are affected.\"\nThe UKHSA said: \"We will continue to follow up cases and investigate any further common sources if they come to light.\"\nWhat are the symptoms?\nSymptoms include stomach cramps, diarrhoea, vomiting or fever. These usually develop between 12 and 72 hours after becoming infected.\nAnyone who is concerned should contact their GP or out of hours service in the first instance, says the UKHSA.\nIn most cases people recover without further help but older people, babies and people with weakened immune systems are at greatest risk of severe disease.",
+    "summary": "UK health authorities report that salmonella cases linked to imported eggs are nearing 500, with two recorded deaths and over a third of patients requiring hospital care. The infections involve near-identical genetic clusters spanning back a year, with illnesses appearing primarily among those who ate out rather than cooked at home. Investigations are ongoing, and experts advise that UK-produced eggs carrying the British Lion mark remain safe.",
+    "key_points": [
+      "UK salmonella cases have reached 474 across specific genetic clusters, resulting in two deaths.",
+      "Investigations point to imported eggs, with illnesses largely linked to eating out rather than home cooking.",
+      "Other European countries have also reported cases, with Dutch investigations noting a potential link to chicken meat.",
+      "Experts state there is no evidence that UK-produced eggs under the British Lion mark or Laid in Britain scheme are affected."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "HEALTH",
+    "app": "uknews",
+    "collected_at": "2026-08-30T06:05:02+00:00"
+  },
+  {
     "id": "0cc5d19d99a19ac4cb9ecda4",
     "title": "A parasitic stomach bug that can give you diarrhoea for months is sweeping the U",
     "source": "Metro.co.uk",
@@ -2302,28 +2325,5 @@
     "topic": "HEALTH",
     "app": "uknews",
     "collected_at": "2026-08-22T22:13:24+00:00"
-  },
-  {
-    "id": "3e4c4236e4c8ebd4f0580195",
-    "title": "'My OCD is so bad I spend seven hours taking a shower'",
-    "source": "thestar.co.uk",
-    "author": "Ciara Healy",
-    "published_at": "2026-08-22T00:00:00",
-    "image": "https://www.thestar.co.uk/jpim-static/image/2026/08/22/9/31/Victoria-Korlewala.jpeg?trim=312,0,311,0&crop=&width=1200&auto=webp&quality=75",
-    "url": "https://www.thestar.co.uk/news/my-ocd-is-so-bad-i-spend-seven-hours-taking-a-shower-says-south-yorkshire-woman-8935794",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUTNsblVTSnEyVkZaZUJSMXJJaUU1SDViUnFCWFpXNGh3TVZRWlVydDJWNjV5QWVRX1h1bkkwLUxfSFBuU0ttaEZRTk1ZamM2T0YtRmExVUVnRlI3em01NW81ZENvODZfMU5aNExmcjR4ZDhBZ3o1TkNuSUZZQjYwSGtPRC1YN3VpbHRaRFpWNmFwMy04TW1QSThuSHpGZjF0VUlXWDlZT0pYZjNOa0sxeGEwLWdZRHhsYXc?oc=5",
-    "content": "'My OCD is so bad I spend seven hours taking a shower' says South Yorkshire woman\nSouth Yorkshire woman describes debilitating OCD\nA woman's OCD is so bad she spends seven hours taking a shower.\nIt has also caused her to have intrusive thoughts about attacking her family members with a kitchen knife.\nVictoria Korlewala, aged 20, first began to have symptoms of obsessive-compulsive disorder, a mental health condition characterised by intrusive thoughts and compulsions at age 13, when she became obsessed by the idea that she smelled bad.\n![Victoria Korlewala, 20](https://www.thestar.co.uk/jpim-static/image/2026/08/22/9/27/i-have-to-hide-1591181.jpg?trim=0,0,0,0&width=640&quality=65)\n![placeholder image](https://www.thestar.co.uk/img/placeholder.jpg)\nShe then became convinced that she was a \"bad person\", and was unable to look at a kitchen knife without a graphic image of her using it to stab someone forming in her head.\nVictoria, from Doncaster, says her OCD is now so debilitating that it takes her up to seven hours to have a shower, as she is convinced her body is contaminated or dirty.\nShe is only able to go to the toilet once every two days, as her handwashing routine takes so long, and is hoping to have a catheter fitted to alleviate the pain of having to hold in her wee for so long.\nFor the last two years she has only left the house for hospital appointments.\nVictoria, who is hoping to go to university to study biomedical sciences when her symptoms improve, said: \"Every time I'd go into the kitchen, I'd see an image of myself attacking my family with a kitchen knife.\n\"I had to completely avoid looking at the knives.\n\"I knew I would never do something like that, but the OCD made it seem so real, and as though it was about to happen.\n\"My showers take up to seven hours, and I can't go to the bathroom regularly as my handwashing routine takes up to 11 hours.\"\n![\"My showers take up to seven hours, and I can't go to the bathroom regularly as my handwashing routine takes up to 11 hours.\"](https://www.thestar.co.uk/jpim-static/image/2026/08/22/9/15/i-have-to-hide-1589316.jpg?trim=0,0,0,0&width=640&quality=65)\n![placeholder image](https://www.thestar.co.uk/img/placeholder.jpg)\nWhen the COVID pandemic hit in 2020, Victoria's symptoms began to ease, as she was no longer around people in school, so she wasn't worried that her classmates were talking about her.\nHowever, in 2021, she started obsessively washing her hands, to the point where she would be late for school due to her handwashing routine.\nAround this time, Victoria also began to experience morality OCD, where a person becomes convinced they are a bad person.\nShe then began to experience harm OCD, a subtype where sufferers experience intrusive thoughts about causing harm to themselves or others.\nEvery time Victoria would walk into the kitchen and see a kitchen knife, her brain would show her a violent image of herself attacking someone with it.\nShe went to the doctors, and was diagnosed with OCD in July 2021.\n\"When I was diagnosed, I felt happy that I wasn't going crazy,\" she said.\nVictoria is currently on anti-depressants and anti-psychotics to try and help manage her condition.\nIn six month's time, Victoria is set to start inpatient Exposure and Response Prevention therapy (ERP), which helps sufferers to face anxiety-inducing situations whilst resisting compulsions, at Springfield Hospital in Tooting, London, which she hopes will alleviate her symptoms.\nVictoria shares insights into how her symptoms affect her daily life on her TikTok channel @victoriaocd to raise awareness that OCD isn’t just about “organising or cleaning”.",
-    "summary": "Victoria Korlewala, a 20-year-old from Doncaster, suffers from severe obsessive-compulsive disorder that causes debilitating symptoms, including showers lasting up to seven hours and distressing intrusive thoughts of harming her family. Diagnosed with OCD in July 2021, she experiences severe contamination fears, handwashing routines, and morality OCD. She is currently managing her condition with medication and anticipates starting inpatient Exposure and Response Prevention therapy at Springfield Hospital.",
-    "key_points": [
-      "Victoria's OCD symptoms cause her to spend up to seven hours taking a shower due to contamination fears.",
-      "She experiences harm OCD, involving intrusive thoughts about attacking her family members with kitchen knives.",
-      "Her handwashing routine can take up to 11 hours, limiting her ability to use the bathroom regularly.",
-      "She was officially diagnosed with OCD in July 2021 and uses her TikTok channel @victoriaocd to raise awareness about the condition."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "HEALTH",
-    "app": "uknews",
-    "collected_at": "2026-08-22T21:11:50+00:00"
   }
 ]
