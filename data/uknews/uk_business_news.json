@@ -1,5 +1,28 @@
 [
   {
+    "id": "3a90fd6b12a5d4d78de4d8b7",
+    "title": "AI could cause global economic downturn, Bank of England governor tells G20",
+    "source": "The Guardian",
+    "author": "Simon Goodley",
+    "published_at": "2026-08-31T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/14139eee92e51d13808a054fd16d546e33281440/602_0_6020_4816/master/6020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5a60fbe960f152f77d43a949aa5b8a3",
+    "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2hKaTJDZm5XdTdydXNLTnh3VVNOZEszVWNST2hOcXVOcXlqQ0hnLXZkSllVZWlhMnpfbFZGVm1IUGstbDQ3VWJLMGV4bnV6M3Z2UDhCc1N4Uy0ya0JGSVhFQzh1TnU5MURDVl8zd1VWZHJkY3N6QzBYd0lkYTJvd1hZclF2ZmFPUW9BSlhQWXZsUm16S0VvS055NVFJNEo1Y1I3cFliUUoySzQ?oc=5",
+    "content": "The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology.\nIn a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of the international Financial Stability Board (FSB), Bailey said “frontier” AI models were “showing increasingly sophisticated autonomy and problem-solving abilities, as well as threat capabilities”.\nHe said the models risked destabilising the “highly interconnected” global financial system via cyber-disruption that “can spread across jurisdictions”.\nBailey wrote to G20 finance ministers and central bank governors before their meeting in North Carolina, US, this week: “Recent developments have also highlighted to me that many jurisdictions do not have the protocols in place to manage the development, release, and deployment of advanced frontier AI models, heightening risks for the financial sector and beyond”.\nHis letter adds to alarm bells about AI that have been sounded by prominent technologists over the past few weeks – and mirrors his previous calls for international cooperation to tackle growing AI threats, when he told City bosses: “No country can seal itself off from the cross-border nature of systems that are prevalent today.”\n![An illustration showing a series of bubbles, one marked AI bubble, set over a circuit board](https://i.guim.co.uk/img/media/4a514c062129c0c284efe3e1a45a4c91b7323bdb/728_0_6880_5504/master/6880.jpg?width=445&dpr=1&s=none&crop=none)\nLast month, a letter signed by 1,367 researchers and engineers at frontier AI labs – mainly OpenAI, Anthropic and Google DeepMind – also shone a light on the concerns of the engineers working on the technology every day.\nIt stated: “There is a real risk that capability development rapidly accelerates beyond our ability to understand or control the resulting systems,” before going on to ask for the US government’s support for “an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development”.\nEarlier this month, it also emerged that OpenAI staff observed signs of rogue behaviour among its cutting-edge AI agents weeks before they escaped their training environment to launch an unprecedented hacking crusade that spread global alarm.\nExtending this theme into the world of financial policy, Bailey continued: “For the financial system, the most immediate concern is the potential impact of frontier AI on cyber-risk. Frontier AI may have the ability materially to alter the speed, scale and economics of cyber-risk, which could undermine market confidence system-wide, especially due to highly concentrated third-party service providers.”\nBailey called on those tasked with safeguarding the world’s financial systems to prioritise “appropriate steps to support safe and responsible model release and deployment on a global basis”.\nafter newsletter promotion\nThe letter also noted Bailey’s concerns about the increased use of leverage in bond and equity markets, which he said was combining with high valuations in concentrated financial markets – particularly fuelled by investor optimism about the prospects of AI – in a way that could amplify a future market correction.\n“I remain concerned therefore that a large shock or combination of shocks could concurrently trigger multiple vulnerabilities,” Bailey wrote.\nBailey has been governor of the Bank of England since March 2020, and previously headed both the Financial Conduct Authority and the Prudential Regulation Authority, the UK’s two main financial regulators. He was appointed chair of the FSB last year.\nThe FSB, based in Basel, Switzerland, coordinates the work at international level of national financial authorities and international standard-setting bodies in an effort to develop effective regulation and policies in the interest of financial stability.",
+    "summary": "Bank of England governor and Financial Stability Board chair Andrew Bailey warned G20 finance ministers that advanced artificial intelligence could trigger a global economic downturn. In a letter ahead of the G20 meeting, Bailey highlighted risks such as cross-border cyber-disruption, inadequate regulatory protocols, and market vulnerabilities amplified by AI-driven investor optimism. He urged international policymakers to prioritize safe and responsible AI deployment to protect financial stability.",
+    "key_points": [
+      "Andrew Bailey warned international finance leaders that advanced 'frontier' AI models pose significant risks to the global financial system.",
+      "The governor highlighted that many jurisdictions lack the protocols needed to manage the deployment of advanced AI models.",
+      "A primary financial concern is AI's potential to alter cyber-risk, threatening market confidence through widespread disruption.",
+      "Bailey noted that high market valuations fueled by AI optimism could amplify a future market correction if triggered by a shock."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-08-31T10:09:53+00:00"
+  },
+  {
     "id": "7c17b911247117a2d737ecfe",
     "title": "Renters blocked from installing £600 plug-in solar panels",
     "source": "The i Paper",
@@ -2293,29 +2316,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-08-23T06:19:42+00:00"
-  },
-  {
-    "id": "0ba91a5dbb5d55a7b77c312c",
-    "title": "High speed trains can use Paignton station again after fire",
-    "source": "BBC",
-    "author": "Julia Gregory",
-    "published_at": "2026-08-22T00:00:00",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ef9/live/10f522a0-9ccf-11f1-89bd-5bf7cf30291a.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c5y6154wpr9o",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ySkdGSC1QYUhDWjJJREZYV3p3aUk0OXZqSkQ3YmRGc0NzVUt6ak5xdmIzWXhQamFrVjBTOEI0UmV5M1hlcnFIMDYxMzl4XzJzM2lNVlRDOVUtSk83?oc=5",
-    "content": "![A rail station showing a damaged roof from inside](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/2ef9/live/10f522a0-9ccf-11f1-89bd-5bf7cf30291a.jpg)\nThe station was badly damaged by fire last month\n- Published\nA train station platform has reopened a month after a devastating fire.\nNetwork Rail and Great Western Railway (GWR) said full-length access will resume at platform two at Paignton Station in Devon from Monday, allowing nine-carriage trains four days earlier than previously expected.\nLong-distance trains have been unable to call at the station, although it reopened to local stopping services between Paignton and Newton Abbot which could use the far end of the platform, a week after the fire on 21 July.\nThe ticket office, the main station entrance, and footbridge remain closed whilst repair work continues.\n![The charred remains of part of a roof on a platform at Paignton station is visible in this image. The stairs over the track are also visible and the roof over them is charred.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/98e8/live/034ed4d0-9cce-11f1-89bd-5bf7cf30291a.jpg)\nThe stairs between the platforms was damaged in the fire\nA temporary ticket office is in use during the restoration work and passengers are accessing platform one via a ramp at the end of the platform next to the level crossing.\nNetwork Rail route infrastructure engineer, Daniel Parkes, said: \"Reinstating access to the full length of platform two ahead of schedule is the result of a huge team effort from colleagues across the railway industry who have worked tirelessly since the fire to ensure we could restore long-distance services to Paignton as safely and as swiftly as possible.\"\nStephanie Chapman, GWR station manager for South Devon said: \"This milestone means more passengers can travel to and from Paignton as normal, taking full advantage of the benefits of rail once more.\"\nFollow BBC Devon on X, external, Facebook, external and Instagram, external. Send your story ideas to spotlight@bbc.co.uk, external.",
-    "summary": "Platform two at Paignton Station in Devon is set to reopen for full-length access a month after a devastating fire, allowing nine-carriage high-speed trains to resume service four days earlier than expected. While local services and a temporary ticket office have been operating since shortly after the July 21 fire, the main station entrance, permanent ticket office, and footbridge remain closed for ongoing repairs. Passengers are currently using a temporary ramp at the end of platform one to access trains during the restoration work.",
-    "key_points": [
-      "Platform two at Paignton Station is resuming full-length access for nine-carriage trains starting Monday.",
-      "The reopening happens a month after a severe fire damaged the station on July 21.",
-      "Long-distance services can now resume four days earlier than initially expected.",
-      "The main station entrance, permanent ticket office, and footbridge remain closed while repairs continue.",
-      "A temporary ticket office and a ramp next to the level crossing are currently being used by passengers."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-08-23T05:17:59+00:00"
   }
 ]
