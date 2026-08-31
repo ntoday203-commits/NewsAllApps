@@ -1,5 +1,28 @@
 [
   {
+    "id": "72adb2dfc9ab80e75b56c4c7",
+    "title": "Iranian hackers shut down UK power plant",
+    "source": "The Telegraph",
+    "author": "Tony Diver; Rozina Sabur; Matt Oliver",
+    "published_at": "2026-08-22T00:00:00",
+    "image": "https://www.telegraph.co.uk/content/dam/news/2026/08/22/TELEMMGLPICT000487205910_17874304061390_trans_NvBQzQNjv4Bq4cHFBfxHqfroyKoKkNhhsJgojZYlP8f0i9h2tPqCNsM.jpeg?impolicy=OG-Standard",
+    "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2F4T2dSMFd0YS1wTUduVGFIdmtiOFZJQ0Y2UDFrSm14TkI1b0lEeUJVOURaOFRpVS04N1NHbnpTRnFlZ3NOd1RjaXVCUmJsUTNac1ZvUDhGcW53Q1docnJFWlJPN1l5ODJZSHU4WW5xSlhJOEItMjdyWnVndmo5N3BnR3MwdEVpc3JkbWh3?oc=5",
+    "content": "  \n  \n\t\n\t\n\t\n\t\n\t\n  \n  \n    The incident is understood to have been reported to the National Cyber Security Centre (NCSC), a public-facing branch of the GCHQ spy agency that issues advice to companies on keeping national infrastructure safe from foreign threats.\nBritish and American intelligence agencies have repeatedly warned of the risk posed by hackers from Russia, China, Iran and North Korea, which bombard critical national infrastructure and government agencies with attacks on a daily basis.\nMajor incidents have previously brought down NHS systems, schools and commercial manufacturing facilities, including production lines at Jaguar Land Rover.\nForeign hacking groups have also stolen customer information from retail businesses, including attacks last year, and voter records from the Electoral Commission.\nHowever, no hacker is thought to have ever succeeded in bringing a British power plant to a standstill, despite warnings that attacks on national infrastructure are commonplace.\nIt is unlikely that the attack against the UK power plant was intended to inflict genuine harm on civilians, and is not thought to have been widely noticed by the public.\nBut it is possible that the incident was designed to prove that hackers linked to Iran’s Islamic Revolutionary Guard Corps could gain access to systems in the UK and close down sensitive infrastructure sites.\n‘Malicious cyber actors’\nThere are dozens of small-scale power plants across Britain connected to the grid. Many of them are gas-fired and only used for a few hours per week, for example when wind speeds are low and extra energy is needed.\nA four-day outage at such a facility would not impact the wider grid. Some factories and other facilities such as hospitals also have their own separate power generators.\nThe US hacks affected dozens of wastewater treatment plants, causing flooding and a loss of pressure from taps, and forcing some authorities to advise customers to boil their water before drinking it.\nThe first reports of an incident emerged in Minnesota on July 26, followed by a series of similar security breaches in Michigan, Georgia, South Dakota and New Jersey.\nThe FBI attributed the incidents to “malicious cyber actors”, but US government sources later confirmed to media outlets that the threat was likely to have originated in Tehran.\nIran has dramatically stepped up its cyber attacks on Western countries in the wake of the conflict in the Middle East, and especially since the US and Israel began air strikes in February.\n  \n ",
+    "summary": "Iranian-linked hackers successfully shut down a small UK power plant in an incident reported to the National Cyber Security Centre. Intelligence agencies from Britain and the US have repeatedly warned about daily cyber attacks on critical infrastructure by foreign threat actors. While the UK outage did not impact the wider grid or cause civilian harm, similar recent attacks by actors likely originating in Tehran have affected US wastewater treatment plants.",
+    "key_points": [
+      "An incident involving hackers shutting down a UK power plant was reported to the National Cyber Security Centre.",
+      "The attack is believed to have been designed to prove that hackers linked to Iran could access and close sensitive UK infrastructure sites.",
+      "The targeted UK facility was a small-scale power plant, meaning a four-day outage did not impact the wider grid.",
+      "US intelligence and government sources confirmed that recent cyber attacks on US wastewater treatment plants likely originated in Tehran."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "NATION",
+    "app": "uknews",
+    "collected_at": "2026-08-23T04:25:15+00:00"
+  },
+  {
     "id": "fee1648ddd7700914e8e2ed1",
     "title": "Mayors to get powers to overrule local councils on planning decisions",
     "source": "BBC",
