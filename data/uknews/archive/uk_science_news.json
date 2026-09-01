@@ -1,5 +1,28 @@
 [
   {
+    "id": "98280bf50824aae7b2c5d09c",
+    "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+    "source": "Ars Technica",
+    "author": "Scott K Johnson",
+    "published_at": "2026-08-20T00:00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/yeetcycling-1152x648.jpg",
+    "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTc1dUctQVVzbDVpTFdGeEtyS0J2WXhKT1lHYW5CYW55bHhJMnNWd2d2anZUQ2o3aENtVF82VjRuMnZRYjR6c2VFaUFVZkRvcldzSUM3bFlSVFlpakVQSGwwWGk1YnQxV2pqemNVQ3dVbkRBUWdwc3o5bnJ3Y0p4bmVseVcweGROeHpZSFF1U1dIbGt5c2l0NHJRSXBIaEwxNDllUHE3djcwOFU4?oc=5",
+    "content": "Elon Musk’s talk about maintaining a million-strong AI data center satellite megaconstellation may not exactly be practical or economical, but it might be unique. It’s about the closest we’ve come to confronting a scheme that would export a considerable amount of valuable materials into space. Humans aren’t doing a great job of material sustainability, but normally we’re talking about stuff escaping a recycling pipeline rather than escaping Earth’s gravitational pull.\nThe commercial space sector likes talking about the allure of mining asteroids for precious metals to bring back to Earth. Under what circumstances are we going to be willing to do that in reverse? Starlink alone has doubled the mass of objects in low-Earth orbit, and this orbital data center constellation would dwarf that—and dispose of at least some satellites by pushing them away from Earth.\nGiven the roughly five-year expected lifetime for data center GPUs, about 200,000 of the 1 million proposed SpaceX AI1 satellites would be decommissioned each year. Based on their May 29 FCC filing, about 40,000 would definitely deorbit and burn up in the atmosphere. (Those materials would largely be dispersed throughout the atmosphere, turning a resource into a diffuse contaminant that slowly settles over the globe. One related issue: the aluminum would cause an unknown amount of ozone depletion over a period of decades.) Some or all of the remaining 160,000 satellites would be moved outward into a distant “disposal” orbit, instead. Either way, they’re lost from a “material life cycle” point of view.\nWithout full, detailed specifications for these satellites, there’s no way to properly tally the amount of material we’re talking about. Focusing on just the GPUs themselves—ignoring solar panels, cooling systems, and the rest of the server and networking devices—can at least provide a starting point.",
+    "summary": "Elon Musk's proposed million-strong AI satellite megaconstellation would export massive amounts of valuable materials into space, creating a new category of e-waste. With a five-year GPU lifespan, roughly 200,000 satellites would be decommissioned annually, resulting in materials either burning up and contaminating the atmosphere or being pushed into distant disposal orbits. This process removes these critical resources permanently from Earth's material life cycle.",
+    "key_points": [
+      "SpaceX's proposed orbital data center constellation would dramatically increase the mass of objects in low-Earth orbit.",
+      "Approximately 200,000 of the one million proposed satellites would be decommissioned each year due to a five-year GPU lifespan.",
+      "Decommissioned satellites would either deorbit and burn up, dispersing aluminum and causing unknown ozone depletion, or be moved to distant disposal orbits.",
+      "Both disposal methods permanently lose these valuable materials from Earth's recycling and material life cycles."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-08-22T05:15:56+00:00"
+  },
+  {
     "id": "7f685e3176ead32f83cb694c",
     "title": "A violent impact might have changed Mars’ potato-shaped moon | CNN",
     "source": "CNN",
