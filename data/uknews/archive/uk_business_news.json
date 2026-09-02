@@ -1,5 +1,28 @@
 [
   {
+    "id": "21be42bf6a3b6d14529422c0",
+    "title": "The eurozone crisis is a warning to America",
+    "source": "UnHerd",
+    "author": "Wolfgang Munchau",
+    "published_at": "2026-08-22T00:00:00",
+    "image": "https://unherd.com/wp-content/uploads/2026/08/wolfie-.jpg",
+    "url": "https://unherd.com/newsroom/the-eurozone-crisis-is-a-warning-to-america/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yZ1YxbjJfUWJpMHVLa21qTXNvZUc5NmpaeXF1YXFEaWhOeDB1LTJpSnVJOEpvM0pHNEk4MlphSWdOOWtvMGdoNzJldmpqemVlU0JUZ0NMelZjSGZMR3V4RDhrNDJVWFBCM214Z3MyT0IwN0JQUHhmUXgwRnY?oc=5",
+    "content": "The markets are nervous about debt sustainability and decide to push up the yields of 30-year US Treasury bonds. Scott Bessent, the US Treasury Secretary, intervenes by issuing short-term Treasury bills to buy back the debt. What can possibly go wrong?\nThat question has been comprehensively answered. It did not work. On Tuesday, the yield on US 30-year Treasuries peaked at 5.336%. After Scott Bessent’s intervention, they fell to a low of 5.182% earlier this week. Yesterday morning, they were back up to 5.252%, which is roughly where they were on Monday.\nWhat is happening to the US is something that is well known to us Europeans — a toxic debt-interest-rate dynamic. The Congressional Budget Office has recently had to revise its earlier estimates of the US deficit for this fiscal year by $200 billion. As interest rates rise, so does the deficit. This won’t be the last revision.\nDebt crises are nonlinear. As debt goes up, markets push up interest rates, and since governments repay old debt by issuing new debt, deficits rise further. The solution to this, and any debt crisis, is a combination of fiscal consolidation and default. Default can happen in many ways: outright default on bondholders, default on political promises to citizens (on issues such as pensions and healthcare) or through higher inflation. The fact that the US enjoys global reserve currency status makes no difference to the underlying debt dynamic. The defenders of the US’s special role as the absorber of global capital have forever peddled the idea that the US cannot default because the Fed can print unlimited amounts of money. This is downright naive. Of course it can.\nIt’s hard to predict that they will, but there may be circumstances in which they might. The interest rate is an imperfect, often lagging, default-risk pricing mechanism. As veterans of the euro area’s sovereign debt crisis, we remember only too well how hard it was for countries with excess public and private borrowing to extricate themselves from a crisis. One of the important lessons from the era is that national debt, public and private together, was the important variable, not just public debt. Spain had healthy public sector balances but was forced to accept a bailout package for its over-extended banking sector.\nA crowding-out effect is weighing on US Treasuries, as AI companies are tapping the credit markets. There is one estimate, by Apollo, of a total volume of AI-related bond issuance of $700 billion this year. To many investors, this seems a safer bet than a US Treasury bond to finance the irresponsible fiscal policies of the Trump administration.\nThe US is clearly not the only country with a rising deficit. Europe has several economies with high levels of debt. The French debt dynamics are similar to those of the US. The UK tries to stick to fiscal rules at great political cost. Germany has also embarked on a toxic debt expansion that it will struggle to rein in, given the constraints of the political economy.\nDoes this mean that the US is in decline? Analysis of Germany’s decline suggests that it started in the Nineties but only became visible in the statistics since 2018. It was not until a few years ago that the problem was even acknowledged by economists. The US is still the global technology leader, and that alone will carry the country forward. But the seeds of decline have been sown.\nMacroeconomic models and investors’ lore still treat US Treasury bonds as the safe asset. The Europeans learned in the last decade that there is no such thing.\nThis is an edited version of an article that first appeared in the Eurointelligence newsletter.",
+    "summary": "The United States is facing a toxic debt-interest-rate dynamic similar to the eurozone crisis, driven by rising deficits and mounting market pressures on long-term Treasury yields. US Treasury Secretary Scott Bessent's intervention involving short-term Treasury bills failed to sustainably lower 30-year Treasury yields. Although the US remains a global technology leader, rising national debt and competing credit demands from the AI sector are sowing the seeds of potential long-term decline.",
+    "key_points": [
+      "US Treasury Secretary Scott Bessent attempted to lower 30-year Treasury yields by issuing short-term bills to buy back debt, but the intervention ultimately failed.",
+      "The Congressional BudgetO ffice revised the US fiscal deficit estimate upward by $200 billion as rising interest rates drive up the deficit.",
+      "Heavy bond issuance by AI companies is creating a crowding-out effect, as investors view AI investments as safer than US government debt.",
+      "The US's global reserve currency status and the ability to print money do not exempt it from fundamental debt-interest-rate dynamics and default risks."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-08-23T15:10:16+00:00"
+  },
+  {
     "id": "c35f5bf5076fa4690f34b49d",
     "title": "Onshore windfarm applications hit 10-year high in England",
     "source": "The Guardian",
