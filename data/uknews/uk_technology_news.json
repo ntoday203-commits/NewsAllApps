@@ -1,5 +1,29 @@
 [
   {
+    "id": "25342fc9edd631595b900bb3",
+    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+    "source": "The Verge",
+    "author": "Andrew Liszewski",
+    "published_at": "2026-09-03T00:00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+    "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVG9HUHFlM3E5RERPR3l5SFpkRk1rWnNGbDM0X2pydVBnM2lNS28zOHdvZ3EzUlc2SXRrN2d0UDhneEdOb1J6Z1VuWkNmRmVJdE1ZYWx3SEgzUUx2LTdCX28xNUpaSkxjZHlZQ1JQb19HdU5iYUE3dVRjVHZENzh6OUduNmFYSEJEM0FJR2hQbUlnYXU5dFVtV0M4dGM3UmRTT3c?oc=5",
+    "content": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been “engineered to last up to 3x longer than other power banks” with the addition of a “gel-like layer” alongside the liquid electrolyte typically found in lithium-ion batteries.\nBelkin introduces its first longer-lasting semi-solid-state power banks\nThe company says its new power banks will last up to three times longer before they need to be replaced.\n![belkin1](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin1.jpg?quality=90&strip=all&crop=0%2C0.0099980003999178%2C100%2C99.9800039992&w=2400)\n![belkin1](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin1.jpg?quality=90&strip=all&crop=0%2C0.0099980003999178%2C100%2C99.9800039992&w=2400)\nOther advantages of what Belkin is calling its BoostSolid Cell technology include a reduced risk of overheating that could cause swelling or fires and consistent power delivery across a wider temperature range. They’re more expensive than power banks with comparable specs, but a longer functional lifespan should outweigh the premium pricing.\n![A Belkin power bank attached to the back of a smartphone and plugged into a pair of wireless headphones.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe UltraCharge Pro Slim Magnetic Power Bank 5K Qi2 15W with BoostSolid Cell is the smaller and cheaper option of Belkin’s two new power banks at $69.99. The company claims it’s 40 percent slimmer than other 5,000mAh power banks and is designed to magnetically hang on the back of compatible mobile devices and wirelessly deliver up to 15W of power. A USB-C charging port can also be used to power other devices at up to 22.5W, but charging two devices simultaneously drops the output to just 5W wirelessly and 12W with a USB-C cable.\n![A Belkin power bank on a cooler connected to multiple devices.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe larger UltraCharge Pro Power Bank 10K 60W with BoostSolid Cell and Display offers twice the capacity with a 10,000mAh battery for an extra $20. The $89.99 power bank is also slimmer than competing options with similar capacities thanks to the increased energy density of its semi-solid-state battery tech. Power output maxes out at up to 60W when charging a single device over USB-C, but that drops when up to three devices are connected and charging using a pair of USB-C ports and a single USB-A port. And because putting screens on batteries is now en vogue, this one has a display showing charge level, power output, and the internal temperature.",
+    "summary": "Belkin has launched its first power banks featuring semi-solid-state battery technology, marketed under the name BoostSolid Cell. These new accessories are engineered to last up to three times longer than standard power banks while offering a reduced risk of overheating and consistent power delivery across a wider temperature range. The lineup includes the 5K Qi2 15W model priced at $69.99 and the larger 10K 60W model with a display priced at $89.99.",
+    "key_points": [
+      "Belkin's new power banks use semi-solid-state battery technology featuring a gel-like layer alongside liquid electrolyte.",
+      "The accessories are claimed to last up to three times longer than other power banks.",
+      "BoostSolid Cell technology reduces the risk of overheating and swelling while maintaining performance across a wider temperature range.",
+      "The UltraCharge Pro Slim Magnetic Power Bank 5K delivers up to 15W wirelessly and costs $69.99.",
+      "The UltraCharge Pro Power Bank 10K features a display and 60W max output, priced at $89.99."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-03T15:20:02+00:00"
+  },
+  {
     "id": "ea0a54c23116c801a6c54d0a",
     "title": "Xiaomi 18 Fold with XRING O3 chip showcased at IFA 2026, we go eyes on",
     "source": "GSMArena.com",
@@ -2293,28 +2317,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-24T02:15:14+00:00"
-  },
-  {
-    "id": "13d57eef2d40b9230d243fe0",
-    "title": "PS5's Best-Selling Games List Is Broken on the PS Store",
-    "source": "Push Square",
-    "author": "Push Square; Sammy Barker",
-    "published_at": "2026-08-23T00:00:00",
-    "image": "https://images.pushsquare.com/eab08ed8515ac/large.jpg",
-    "url": "https://www.pushsquare.com/news/2026/08/ps5s-best-selling-games-list-is-broken-on-the-ps-store",
-    "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXNJZHJBeVRhcDQzV0ttZ2VTNkJBUVNLV3JJTk16OTk3aUJkXzdweXNyeHlqWjNxYUJKbXJxUC1ySFEwYzBxT3FnVHI1U3lQTWwwSTNDNV9NUkoxSGRfRGl3bXJXR3FWbFRiY3djUFRGQ214NlBlX2tXTE5FWDJtX3F5eEJWWEhUaXd5MTNyNXZwM2dNOEpDV0x3?oc=5",
-    "content": "![PS5's Best-Selling Games List Is Broken on the PS Store 1](https://images.pushsquare.com/eab08ed8515ac/ps5s-best-selling-games-list-is-broken-on-the-ps-store-1.900x.jpg)\nGood news for the makers of 007 First Light and 1000xRESIST – both games are currently appearing on the PS Store homepage due to a glitch.\nSony usually shows the most popular games in each country across a variety of categories, ranging from pre-orders to downloads.\nBut these are currently ordered alphabetically, as opposed to by sales performance.\nThat means Ace Combat 8: Wings of Theve has now “usurped” GTA 6 and Call of Duty: Modern Warfare 4 as PS5’s most wanted game, alongside quaint FMV effort Akiba Lost.\nThe bug is consistent across the console and web store, and it’s broken on the Browse tab too.\nIt’s a minor glitch so I’d expect this to be resolved relatively quickly, and the good news is this isn’t really a big problem. While not ideal, it’s only a tiny browsing inconvenience if you’re hitting up the PS Store right now.\nAs far as I can tell everything appears as it should through search, so I guess this is just an error pertaining to the ordering of the displayed games.\nI’m going to go out on a limb and say even Sony will have this fixed in a few hours.",
-    "summary": "The PS Store's best-selling games list is currently experiencing a glitch that orders games alphabetically rather than by sales performance. This bug affects both the console and web store interfaces, as well as the Browse tab. However, search functionality remains unaffected, and the minor browsing inconvenience is expected to be fixed quickly.",
-    "key_points": [
-      "The PS Store's best-selling games list is currently ordered alphabetically instead of by sales.",
-      "The glitch affects both the console store and the web store, including the Browse tab.",
-      "Search functionality continues to work properly despite the display error.",
-      "The bug is a minor browsing inconvenience that is expected to be resolved quickly."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-24T00:30:17+00:00"
   }
 ]
