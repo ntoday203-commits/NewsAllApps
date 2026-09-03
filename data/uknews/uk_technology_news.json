@@ -1,5 +1,28 @@
 [
   {
+    "id": "d16111dc8adfb9592490ec53",
+    "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+    "source": "The Verge",
+    "author": "Tom Warren",
+    "published_at": "2026-09-03T00:00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
+    "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+    "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkt6STB3aDh4YV9iQUtnVVVLRjBBWm9lSnJRbXAxaDVreFBMSnJkTWloT1BzaXpoTGt0X2JpX1JUM3ozLVRUT0E3RFkxVWxtUDQ3S09hbGV4b29vdk1Pb1NLVmw1NDF6R25xaFN3dF9CQlp2cnlocGdsQVVYeXAxWjU5TV9SMGc?oc=5",
+    "content": "All the rumors leading up to Nvidia’s announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won’t be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in October.\nNvidia’s new RTX Spark laptops launch in October with two different configs\nNvidia’s N1X laptop will ship in two different configurations for laptops and mini PCs.\n![Screenshot_20260531_212701](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=1.6680227827502%2C0%2C96.6639544345%2C100&w=2400)\n![Screenshot_20260531_212701](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=1.6680227827502%2C0%2C96.6639544345%2C100&w=2400)\nYou’ll be able to buy an RTX Spark N1X laptop with a configuration that I would call the mini PC chip. The top of the line N1X chip comes with a 6144-core Blackwell RTX GPU, paired with a 20-core Grace CPU and between 24GB and 128GB of unified memory. This particular chip will ship in both high-end laptops and miniature PCs like Microsoft’s Surface RTX Spark Dev Box.\n![N1X configurations available in October.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rtxsparknx1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe more cut down N1X, or what I’d call the laptop chip, has a 5120-core Blackwell RTX GPU, combined with an 18-core Grace CPU and between 24GB and 32GB of unified memory. I’d expect most RTX Spark N1x laptops are going to use this chip, with devices launching from Asus, Dell, HP, Lenovo, Microsoft, or MSI in October.\nWe’re still waiting for Nvidia to share more on what the N1X is capable of for laptop gaming, but the company is vaguely promising 100fps 1440p gaming with ray-tracing and DLSS enabled for now. RTX Spark laptops are only a month away, so we’re also waiting to hear about exact availability and pricing from PC makers. With a RAMageddon crisis still looming large, I’m expecting to see N1X laptops priced at the very premium end of the market.",
+    "summary": "Nvidia's Arm-based RTX Spark laptops featuring the N1X chip are scheduled to launch in October in two different configurations. The top-tier N1X configuration includes a 6144-core Blackwell RTX GPU and a 20-core Grace CPU, while the cut-down version features a 5120-core Blackwell RTX GPU and an 18-core Grace CPU. Devices utilizing these chips will be released by manufacturers such as Asus, Dell, HP, Lenovo, Microsoft, and MSI.",
+    "key_points": [
+      "Nvidia's N1X chip will arrive in RTX Spark laptops and mini PCs in October.",
+      "The top-tier N1X configuration features a 6144-core Blackwell RTX GPU, a 20-core Grace CPU, and 24GB to 128GB of unified memory.",
+      "The cut-down N1X configuration includes a 5120-core Blackwell RTX GPU, an 18-core Grace CPU, and 24GB to 32GB of unified memory.",
+      "Laptops featuring the N1X will be launched by brands including Asus, Dell, HP, Lenovo, Microsoft, and MSI."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-03T18:57:00+00:00"
+  },
+  {
     "id": "25342fc9edd631595b900bb3",
     "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
     "source": "The Verge",
@@ -2294,28 +2317,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-24T03:44:14+00:00"
-  },
-  {
-    "id": "945add1f5e4cc88e0de51fb0",
-    "title": "Garmin teases August global release for new rugged smartwatches with seawater resistance",
-    "source": "Notebookcheck",
-    "author": "Alex Alderson",
-    "published_at": "2026-08-23T00:00:00",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/IMG_2391.jpeg",
-    "url": "https://www.notebookcheck.net/Garmin-teases-August-global-release-for-new-rugged-smartwatches-with-seawater-resistance.1375819.0.html",
-    "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTFHTHJCbzd0VlNWUTFFRENwSW94WjBqMUZiUzhLZkxFY2VRRlZnNEhTZUk0WWN0LXpzTUNNblp2THgzUFNkYjFsbkxRUktWVGpsa1dPOHFxNlZERGxSN2txNnY5N0kyQUplVXZ2X0xtMVk4ZU5DZkU1dWJNdjdkUEg2MlE4R01FbURkSGxndHc2dHBCcFkxTHlka3pRMEc5aHNianBEcEFIdlgyV1BvNFZNREQwZ2ZCSHZheWxMNlpwazdNNEN6S3dYeDNsZw?oc=5",
-    "content": "Garmin has finally started hinting about the release of new smartwatches. For context, the Enduro 4, Fenix 9 and Fenix 9 Pro have all appeared in leaks within the last few weeks. While the company has not addressed these directly, it has now confirmed the date of its next livestream.\nAs the video below shows, Garmin will host a ‘Play Harder’ livestream on August 25. Specifically, the event will commence at 11:00 UTC, albeit without a fixed runtime. However, if the launch of the Fenix 8 Pro is anything to go by (curr. $949 on Amazon), then next week’s livestream may only last 15 minutes or so.\n![A brighter version of Garmin's 'Play Harder' teaser.](https://www.notebookcheck.net/fileadmin/_processed_/9/a/csm_garmin-fenix-9-official-teaser-mid_684e733e22.jpg)\nAt this stage, Garmin is giving nothing away about what it plans to unveil on August 25. Instead, it merely shows a surfer wearing some kind of wearable capable of withstanding extended exposure to seawater. Hence, we would expect the company to announce something with superior water resistance than recent Forerunner models like the Forerunner 570 or Forerunner 970. In that sense, a new Fenix or Enduro seems more probable at this stage.\nIn the meantime, a Czech retailer has been spotted listing the Fenix 9 and Fenix 9 Pro ahead of schedule. Incidentally, SkiAndBike have not mentioned the Enduro 4 or a new Fenix E yet. Please see our corresponding article for more details and Fenix 9 series pricing expectations.",
-    "summary": "Garmin has confirmed it will host a 'Play Harder' livestream event on August 25 at 11:00 UTC. Although the company has not explicitly named the upcoming devices, a teaser featuring a surfer wearing a seawater-resistant wearable strongly suggests the launch of new rugged smartwatches, such as the Fenix or Enduro series. Meanwhile, leaks have already surfaced, including early listings for the Fenix 9 and Fenix 9 Pro by a Czech retailer.",
-    "key_points": [
-      "Garmin scheduled a 'Play Harder' livestream event for August 25 at 11:00 UTC.",
-      "A teaser video hints at a new wearable with superior seawater resistance.",
-      "Expected announcements likely include new rugged models from the Fenix or Enduro series.",
-      "The Fenix 9 and Fenix 9 Pro have already been spotted in early retail listings ahead of the official reveal."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-24T02:15:14+00:00"
   }
 ]
