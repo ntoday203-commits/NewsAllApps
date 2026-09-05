@@ -1,5 +1,29 @@
 [
   {
+    "id": "06b3555b238af70b18692bba",
+    "title": "BepiColombo sheds its ride and starts the final glide to Mercury",
+    "source": "The Register",
+    "author": "Richard Speed",
+    "published_at": "2026-09-05T00:00:00",
+    "image": "https://image.theregister.com/1685901.jpg?imageId=1685901&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "url": "https://www.theregister.com/science/2026/09/05/bepicolombo-sheds-its-ride-and-starts-the-final-glide-to-mercury/5294601",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzlDUndUY2pqQUVLN2Zwa0JfczhwaTUzSG1VOGxlLTRiWldORFpTNXBoR2tYcWhGbU9rVFVscUNzeWZodnpLcFZTMkZ5RnpueFdEd05LYkNfajlEbTVxc29jaXRNRWhMb1lmTWNJMHlvek16V1d6TmswVHN0LUtaX2tkS1VWT1h3RmZqTm5ycWNBQnZITXduMDJGOGxmb3o4Tm1ucjNaSFdkUkRiZ0pxVTlvRjl4aUtBcGpv?oc=5",
+    "content": "TOP STORIES\n- \n                        \n                            On-PREM AMD's Threadripper Halo is a local-AI workstation for researchers with deep pocketsAI workstation promises to put up to 576 GB of HBM3e and 16 TB/s of memory bandwidth on your desk\n- \n                        \n                            ai and ml Hugging Face is too important to fall into Nvidia's hands$12.9 billion deal will inevitably cement Nvidia's market dominance and harm competition in the process. Regulators should take note\n- \n                        \n                            ai and ml Zuck's Muse to Spark joy with open weights release 'soon'While you wait, Meta says it’s taught the model to stop wasting tokens and ask for help a bit more often\n- \n                        \n                            ai and ml With Gemini 3.8 Flash, Google reminds everyone it's still in the raceAI model scores well, runs fast, and doesn't cost too much (yet)\n- \n                        \n                            security AI agents carried out every step of this ransomware attack – then left the victim an 80-page security auditAdding insult to injury\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            Canonical shuttering some of its legacy chat channelsThe Ubuntu Pastebin went in June, IRC gets demoted next\n- \n                        \n                            Audacity audio-editing app no longer looks like it's from the early 2000sThe FOSS tool for audio editing has a fresh coat of paint, and new features to boot\n- \n                        \n                            Haiku OS rises / Beta 6 sails open web / Virtual winds fly fastA real alternative to running some kind of FOSS Unix clone\n- \n                        \n                            Offshoots of cancelled TrueNAS Core upgrade to FreeBSD 15Exeunt zVault stage right; enter FreeCORE and BSDnas\n- \n                        \n                            Debian votes to let contributors code with AIDisclosure optional, quality mandatory\n- \n                        \n                            LibreOffice 26.8 is out – local first, and with no AIIt looks a bit clunky, but it does the job – and on your own computer",
+    "summary": "The provided text contains miscellaneous headlines and brief news blurbs spanning various tech topics, including AI workstations, cybersecurity incidents, software updates, and open-source developments. There is no mention of the BepiColombo spacecraft, Mercury, or space missions in the actual article text.",
+    "key_points": [
+      "AMD introduced a Threadripper Halo workstation aimed at AI researchers.",
+      "Hugging Face faces discussions regarding market dominance and Nvidia.",
+      "Microsoft patches failed to fix an on-premises SharePoint zero-day attack.",
+      "Debian voted to allow contributors to code with AI.",
+      "LibreOffice released version 26.8 with a local-first approach and no AI integration."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-09-05T20:47:20+00:00"
+  },
+  {
     "id": "71478efa98cad22fc195a8e1",
     "title": "Functional chimeric mRNAs encode proteins in mammalian immunity - Nature",
     "source": "Nature",
@@ -2294,28 +2318,5 @@
     "topic": "SCIENCE",
     "app": "uknews",
     "collected_at": "2026-08-23T22:09:52+00:00"
-  },
-  {
-    "id": "282dba678dcb14a139e0d742",
-    "title": "Bad weather delays launch of China's historic Chang'e 7 mission to moon's south pole",
-    "source": "Space",
-    "author": "Mike Wall",
-    "published_at": "2026-08-23T00:00:00",
-    "image": "https://cdn.mos.cms.futurecdn.net/AYaggeyx6pzsQeydKm4PvC-2268-80.jpg",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWEJZYzBKbnFIckhoZFBOV0k0YTJyNUVWUzlGSFh1SkVYRmNISHZzSVNqLTZiY1Vqa1hzcnZROWpBaE9ZV3J6V3R4WGNVaUtGMmZKdTM2VjlhTWNJZkFKR0VSemRScVZKQUhGUlo5akVjbUNmWHBPbUNBRlNYVlNKYUxZc1M1XzNSVm96Q3FiTE8tTTUzNEZ3R1hRMUhEWHNpU3hicmtfemZFZHlCZ3BkbzBHUk1rQUNRNWVWQVE3UnZuM0RKY1AyTTVjWl9ROFc2a3ZmeHU5RFI?oc=5",
-    "content": "![China's Chang'e 7 lunar probe and its Long March 5 rocket are transferred to their pad at the Wenchang Spacecraft Launch Site on Aug. 19, 2026 in Wenchang, Hainan Province.](https://cdn.mos.cms.futurecdn.net/AYaggeyx6pzsQeydKm4PvC.jpg) \nPoor weather has delayed the launch of China's latest moon mission.\nAccording to reports, the growth of Tropical Depression Narra in the Gulf of Tonkin has prompted China's space agency to delay the liftoff of Chang'e 7 significantly — possibly until 2027.\n\"China's Chang'e 7 lunar probe does not meet launch conditions, and its launch therefore cannot take place during the planned window this year,\" the state-run Xinhua news agency reported today (Aug. 23), citing the China Manned Space Agency.\nChang'e 7 had originally been scheduled to launch today from the Wenchang Space Launch Site on the island of Hainan. But then Narra started brewing in the Gulf of Tonkin, just to the island's west.\nLaunching a rocket into a howling gale is less than ideal. Chinese space officials initially pushed the launch back a day, to Monday (Aug. 24), before concluding that the new target was unattainable as well.\nIt's now unclear when Chang'e 7 might lift off; messaging on the topic has been characteristically murky. (China is fairly tight-lipped about its space activities, revealing far less publicly than, say, NASA or the European Space Agency does. For example, China announces who's flying on its crewed missions just one day before liftoff.)\nThe Chang'e 7 launch requires a certain lineup of Earth and the moon, so it cannot simply occur as soon as the skies around Wenchang clear. Some online reports suggest that Chang'e 7 could lift off as soon as September, while others — including today's Xinua story — have it launching sometime in 2027.\n ![An illustration of a spacecraft covered in gold foil next to the moon in space](https://cdn.mos.cms.futurecdn.net/34Zqz34tvj4zEcozEBx3qB.jpg) \nWhenever it occurs, the liftoff will draw a lot of attention. Chang'e 7 is an ambitious and exciting mission, and it could have serious implications for lunar exploration down the road.\nChang'e 7 consists of an orbiter and a lander, which will likely touch down on the rim of Shackleton Crater, near the moon's south pole (though China has not announced an official landing site).\nThis region is thought to harbor lots of water ice, most of it on crater floors that have not seen the sun for billions of years. Chang'e 7's lander will deploy a rover and a hopping robot to hunt for this precious resource, which could help support human settlements in the area.\nChina aims to build such an outpost in the coming years, as does the United States, via NASA's Artemis program. U.S. officials have stressed the need for the nation to win this new space race so that it can establish the norms for living and working on Earth's nearest neighbor.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n![Mike Wall](https://cdn.mos.cms.futurecdn.net/ko9uBeoLfpGrWgq3eDjap3.jpg)\nMichael Wall is the Spaceflight and Tech Editor for Space.com and joined the team in 2010. He primarily covers human and robotic spaceflight, military space, and exoplanets, but has been known to dabble in the space art beat. His book about the search for alien life, \"Out There,\" was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.",
-    "summary": "Poor weather caused by Tropical Depression Narra has forced China to delay the historic launch of its Chang'e 7 lunar mission. The spacecraft, which was scheduled to lift off from the Wenchang Space Launch Site, may now be postponed until 2027 due to specific Earth-moon alignment requirements. The mission aims to explore the moon's south pole with an orbiter, lander, rover, and hopping robot to search for water ice.",
-    "key_points": [
-      "Tropical Depression Narra in the Gulf of Tonkin prompted the launch delay.",
-      "Chang'e 7 was originally scheduled to launch from the Wenchang Space Launch Site on Hainan island.",
-      "The mission could be delayed until 2027 because it requires a specific lineup of Earth and the moon.",
-      "The mission consists of an orbiter and a lander that will deploy a rover and a hopping robot to search for water ice near the moon's south pole."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "SCIENCE",
-    "app": "uknews",
-    "collected_at": "2026-08-23T21:10:28+00:00"
   }
 ]
