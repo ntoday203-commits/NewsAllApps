@@ -1,5 +1,28 @@
 [
   {
+    "id": "622f240f1086c8d3b089fb9b",
+    "title": "Time lords prepare to kick leap seconds into the next millennium",
+    "source": "The Register",
+    "author": "Lindsay Clark",
+    "published_at": "2026-09-06T00:00:00",
+    "image": "https://image.theregister.com/5262298.jpg?imageId=5262298&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "url": "https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjFqX3djek53SS04XzVzNGpaQWRqWGpTRU9YdXpJMl9YZDdSVHE0WGdvZTVEcmdRWkxrVG9sclZCMWRUODFtMXNxOWtmRVRKdzFxSThlTnROVzNhM3JNMk9SZ09Nem1JUzZBWGUzajJuVkFpWHE2Szd5Q1Z5M09lWC1NSjVPRnZrbWRfX3NvbmtjQlNQcVJqSk8tcXh4YVRMX2IyRWZIX2xuRGR1b2RGdWZYbWlSMlFXZXk4?oc=5",
+    "content": "TOP STORIES\n- \n                        \n                            On-PREM AMD's Threadripper Halo is a local-AI workstation for researchers with deep pocketsAI workstation promises to put up to 576 GB of HBM3e and 16 TB/s of memory bandwidth on your desk\n- \n                        \n                            ai and ml Hugging Face is too important to fall into Nvidia's hands$12.9 billion deal will inevitably cement Nvidia's market dominance and harm competition in the process. Regulators should take note\n- \n                        \n                            ai and ml Zuck's Muse to Spark joy with open weights release 'soon'While you wait, Meta says it’s taught the model to stop wasting tokens and ask for help a bit more often\n- \n                        \n                            ai and ml With Gemini 3.8 Flash, Google reminds everyone it's still in the raceAI model scores well, runs fast, and doesn't cost too much (yet)\n- \n                        \n                            security AI agents carried out every step of this ransomware attack – then left the victim an 80-page security auditAdding insult to injury\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            Canonical shuttering some of its legacy chat channelsThe Ubuntu Pastebin went in June, IRC gets demoted next\n- \n                        \n                            Audacity audio-editing app no longer looks like it's from the early 2000sThe FOSS tool for audio editing has a fresh coat of paint, and new features to boot\n- \n                        \n                            Haiku OS rises / Beta 6 sails open web / Virtual winds fly fastA real alternative to running some kind of FOSS Unix clone\n- \n                        \n                            Offshoots of cancelled TrueNAS Core upgrade to FreeBSD 15Exeunt zVault stage right; enter FreeCORE and BSDnas\n- \n                        \n                            Debian votes to let contributors code with AIDisclosure optional, quality mandatory\n- \n                        \n                            LibreOffice 26.8 is out – local first, and with no AIIt looks a bit clunky, but it does the job – and on your own computer",
+    "summary": "The provided text is a collection of technology news headlines and brief summaries covering various topics such as AI developments, cybersecurity incidents, software updates, and corporate acquisitions. It includes updates on AMD workstations, Hugging Face, Microsoft SharePoint vulnerabilities, and Debian's voting policy on AI-assisted coding.",
+    "key_points": [
+      "AMD announced a Threadripper Halo local-AI workstation for researchers.",
+      "Microsoft patches failed to fix on-premises SharePoint, leading to zero-day attacks.",
+      "Debian voted to allow contributors to code with AI under mandatory quality standards.",
+      "LibreOffice released version 26.8 with a local-first approach and no AI integration."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-09-06T18:43:51+00:00"
+  },
+  {
     "id": "4a7507ae07029f11732d0c2f",
     "title": "The common heart condition midlife cyclists fear – and why it doesn't spell the end for your riding ambitions | BikeRadar",
     "source": "bikeradar.com",
@@ -2294,28 +2317,5 @@
     "topic": "SCIENCE",
     "app": "uknews",
     "collected_at": "2026-08-24T08:34:03+00:00"
-  },
-  {
-    "id": "3ba41d6dfa715b45710c63f7",
-    "title": "Starwatch: Lunar eclipse to reward early risers in UK and Europe",
-    "source": "The Guardian",
-    "author": "Stuart Clark",
-    "published_at": "2026-08-24T00:00:00",
-    "image": "https://i.guim.co.uk/img/media/2615872ce22a8c05894e56f5904915cafc292340/3361_0_1115_892/master/1115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2d2afa8ec59d3817da7e6e8e95e3744",
-    "url": "https://www.theguardian.com/science/2026/aug/24/starwatch-lunar-eclipse-to-reward-early-risers-uk-europe",
-    "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUlHZHVTNzgtSENoRXQtLXZTM0RnMjB1a0FMVGZicDVackNuNUZnUDh0TWVmM042X0ZVYV9xWEdHcUt4WGh0Slc1Z2t2MDRfcklfQ1VqYnBCdDdsR3ZUTVFudVhrdVlvNlM2N1llcVpmd0tZdmJSaGpxN0dQTk92SFBsLVhwTVZFeEhCbDhDdGlkZHJ5c2cteXNGd1BpcWkxcTRDdUdndw?oc=5",
-    "content": "The early hours of Friday 28 August will reward very early risers in the UK, Europe and Africa with a fine lunar eclipse. Though not quite a total eclipse, it will transform the moon into a dramatic sight as dawn approaches.\nThe partial eclipse begins at 3.33am BST, when the moon’s familiar full disc begins to disappear behind the shadow of the Earth. By the time the eclipse reaches its greatest extent, shortly after 5.10am, only a thin sliver of the moon will remain in direct sunlight. The rest is likely to glow a muted coppery red as sunlight bent into the Earth’s shadow and filtered through its atmosphere reaches the lunar surface.\nAs the eclipse unfolds, the moon will be sinking, so find an observation site with an uninterrupted view towards the western horizon, and enjoy the view as the eclipse slips from view while the dawn gathers behind you in the east.\nUnlike a solar eclipse, a lunar eclipse is completely safe to watch with the naked eye. Binoculars will even reveal subtle shades of colour across the moon’s surface.\nObservers across much of the Americas will be able to enjoy the eclipse from beginning to end from late night on Thursday 27 August, while those in New Zealand will catch little more than its closing moments much later on Friday.",
-    "summary": "Early risers in the UK, Europe, and Africa will be able to view a partial lunar eclipse in the early hours of Friday 28 August. During its greatest extent around 5.10am BST, only a thin sliver of the moon will remain in direct sunlight while the rest glows a muted coppery red. Observers in the Americas can view the entire event late Thursday night, while New Zealand viewers will catch only the closing moments.",
-    "key_points": [
-      "The partial lunar eclipse occurs in the early hours of Friday 28 August.",
-      "At its greatest extent shortly after 5.10am BST, a thin sliver of the moon remains in direct sunlight with the rest glowing coppery red.",
-      "Lunar eclipses are completely safe to watch with the naked eye, and binoculars can reveal subtle color shades.",
-      "Observers in the Americas can enjoy the full eclipse late Thursday 27 August, while New Zealand will see only the closing moments."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "SCIENCE",
-    "app": "uknews",
-    "collected_at": "2026-08-24T06:31:43+00:00"
   }
 ]
