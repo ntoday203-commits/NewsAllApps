@@ -1,5 +1,29 @@
 [
   {
+    "id": "7f80929bb66d6b7bbb438895",
+    "title": "‘Cookies’ made from plastic may be on the menu for future astronauts",
+    "source": "The Guardian",
+    "author": "Hannah Devlin",
+    "published_at": "2026-08-24T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/b24e3f87330ac8cf10d6c4391ad92f66fb9b0375/289_0_2990_2392/master/2990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ae1d234980ececad52b5429487f81bd",
+    "url": "https://www.theguardian.com/food/2026/aug/24/cookies-plastic-astronauts-space-food",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGJ4eUcxTWY4SXkwYlVBNHE4bGkySTNyVW5jMTByb0F5YjZzc2FFMWJUdXhSNWJvczlaWmZvZWN1SVF5dnpxRmw4REpCSFhSX21NMXRFM1NlR3hXSE90UjJlMEZjRWxtOEpvTUprNVVxRDVKLTMtZDdGOGJxekRVWUU2T2dYT2lXVXc?oc=5",
+    "content": "Cookies produced from upcycled plastic may sound like something straight out of a dystopian sci-fi plot. But researchers say that they have succeeded in creating such a product as part of a Nasa-funded project aimed at feeding astronauts on future space missions.\nThe technology uses specially designed yeasts to transform plastics and agricultural waste into edible proteins, fats and flavourings. The resulting slurry is pased through a 3D printer to create a disc-shaped “cookie”.\n“My lab works on developing technologies for plastic upcycling,” said Dr Lahiru Jayakody, a microbiologist at the Southern Illinois University Carbondale, who led the project. “We thought, why not look into food? Plastic is carbon and food is carbon.”\nThe team are yet to receive institutional sign-off to taste the plastic-derived cookies but report that they “receive high marks on aroma”.\n“We haven’t eaten them yet because we’re awaiting approval for testing in humans,” said Jayakody, before a presentation of the work on Monday at the meeting of the American Chemical Society in Chicago.\nThe method to transform waste plastic into nutrition was funded as part of Nasa’s Deep Space Food Challenge, which invited scientists to develop new food technologies to solve the problems of feeding astronauts on long voyages.\n“When an astronaut goes to Mars, they have to survive in extreme conditions,” said Jayakody. “The round-trip is three years. You have to use everything you have.”\nIn this case, the researchers took one of the most common forms of plastic, polyethylene terephthalate (PET), which is often the sole ingredient in single-use water bottles. First the PET is “digested” using a process involving water and oxygen at high temperature and pressure to break down tough material into smaller carbon-rich molecules. These are then fed to yeast, which have been genetically reprogrammed to use the plastic-derived molecules as food.\nThe yeast converts the carbon from plastic into new biological molecules, including proteins, fats and other nutrients, which can be mixed with starch and shaped into edible products. A different strain was used to produce vanilla flavouring from plant biomass.\nCurrently the cookies cost $60 a kilogram to produce but improving the yeast’s efficiency and scaling up production are expected to reduce the cost in future.\nThe team suggest that, besides long-distance space travel, the concept might be useful in extreme environments on Earth, such as on submarines or in disaster zones – or even as a mainstream ecological solution to the dual challenges of plastic waste and food production. “Global food demand is expected to rise 35% to 56% by the year 2050, and about 30% of the world population will be at risk of hunger in the future,” said Jayakody. “The way to address that, I believe, is by using microbes.”\nHowever, the team acknowledge that before the cookies gain widespread acceptance the public may need to get used to the concept of eating plastic-derived food.",
+    "summary": "Researchers funded by NASA have developed a method to transform common waste plastics into edible protein, fat, and flavoring using specially designed yeasts. The resulting nutritional slurry is then 3D-printed into disc-shaped \"cookies\" intended to help feed astronauts on long-term space missions like Mars voyages. While the cookies currently cost $60 a kilogram and await human consumption approval, the technology could also potentially address extreme environments and food scarcity on Earth.",
+    "key_points": [
+      "Researchers developed a technology to turn plastic and agricultural waste into edible proteins, fats, and flavorings using engineered yeasts.",
+      "The project is funded by NASA's Deep Space Food Challenge to support astronauts on long-duration missions, such as a three-year round trip to Mars.",
+      "The process breaks down polyethylene terephthalate (PET) plastic into carbon-rich molecules that are consumed by yeast to create nutrients.",
+      "The resulting nutrient slurry is shaped into disc-shaped cookies using a 3D printer and currently costs $60 per kilogram to produce.",
+      "Beyond space travel, the creators suggest the technology could help in disaster zones, on submarines, or to address future food demand on Earth."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-08-24T10:26:07+00:00"
+  },
+  {
     "id": "c178245c492f5c005fc191e2",
     "title": "A gas giant 520 light-years away has equatorial atmospheric motion approaching 33,000 kilometres per hour—around 16 times Neptune’s fastest winds. When announced in January 2025, it was the fastest planetary jet stream yet measured, although an even faster one was reported on another exoplanet just a month later.",
     "source": "Space Daily",
