@@ -1,5 +1,28 @@
 [
   {
+    "id": "bc0874fbaa3a8e7b77376d1f",
+    "title": "DLSS 5 reduced the performance of the RTX 5090 from 114 to 60 FPS in 4K in Forza Horizon 6",
+    "source": "GameGPU",
+    "author": "Evgen Kovalov",
+    "published_at": "2026-09-05T00:00:00",
+    "image": "https://gamegpu.com/images/1_2026/NEWS/Q3/Sent/image_86nf78wnbw908f90w86f78wnb87f8w_g_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q3/Sent/image_86nf78wnbw908f90w86f78wnb87f8w_g_ggpu.webp?width=1920&height=1080",
+    "url": "https://en.gamegpu.com/news/igry/dlss-5-snizil-proizvoditelnost-rtx-5090-so-114-do-60-fps-v-4k-v-forza-horizon-6",
+    "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblZBemtSbGh1S2hSdGd2ZHJXOF84czFiUmp3aGFHOWYyeGhhOHRFU3daTzJ3R3hEMmJtMFhZNjF2OVpqUWtLcmtDR0NDbkQ1YUVQXy04TmVNUFd2LVF5b1hxOWpqeG00OFNmNFRkQU9zdExvanlpLVlaZ0tkc3FZRXBqeDVpYldQUHVPUFNOVFRiWHJuMFgteHpQLVByWmhqbFozVUVDSEFvN25VLUhlU3h3?oc=5",
+    "content": "Experts conducted detailed hardware benchmarking of the NVIDIA DLSS 5 neural network rendering technology in a racing simulator. Forza Horizon 6 at Extreme graphics presets in native 4K resolution with ray tracing enabled. The flagship processor-based configuration was used as a testbed. AMD Ryzen 7 9800X3D with a frequency of 5225 MHz, 32 GB of DDR5 RAM with a frequency of 6000 MHz, and a top-of-the-line NVIDIA GeForce RTX 5090 graphics accelerator. The experts focused primarily on a direct comparison of the video card telemetry before and after activating the cinematic neural network profile.\n![Image e4xwihe4xwihe4xw ggpu](https://gamegpu.com/images/1_2026/NEWS/Q3/Sent/Image_e4xwihe4xwihe4xw_g_ggpu.webp)\nThe benchmark results demonstrated a catastrophic drop in performance for the flagship graphics chip when running heavy post-processing algorithms. Without DLSS 5, the graphics card delivered an average rendering speed of 114 FPS with a frame rate of only 8.6 ms, a core clock of 2820 MHz, and a power consumption of 487.1 W. Enabling DLSS 5 Cinematic mode resulted in an immediate drop in frame rate to 60 FPS, representing a net performance loss of 47%. At the same time, the frame generation time more than doubled to 17.4 ms, rare 1% Low events dropped from 97 FPS to 56 FPS, and 0.1% Low events dropped from 72 FPS to 56 FPS.\n![image 90896y7sebtfwftb8wfrynw97fty89wy ggpu](https://gamegpu.com/images/1_2026/NEWS/Q3/Sent/image_90896y7sebtfwftb8wfrynw97fty89wy_g_ggpu.webp)\nThe colossal computational load from the neural network matrices led to a sharp increase in the operating conditions of the graphics adapter hardware. The graphics card's power consumption increased by 80.3 W and reached an extreme 567.4 W, which led to a rise in the die temperature from 61°C to 67°C and a forced reset of the processor clock rate from 2820 MHz to 2640 MHz. The video buffer remained loaded at 16 GB with a video memory frequency of 14001 MHz, and the GPU utilization increased to a maximum of 99%. Testing clearly demonstrated that, at this stage, the architecture of DLSS 5 algorithms is capable of neutralizing the potential of even the most powerful graphics accelerators on the market.",
+    "summary": "Experts benchmarked NVIDIA's DLSS 5 technology using Forza Horizon 6 in 4K with ray tracing on a high-end system featuring an RTX 5090. Activating the DLSS 5 Cinematic mode caused a catastrophic 47% performance drop, reducing the frame rate from 114 FPS to 60 FPS. The heavy computational load also increased power consumption to 567.4 W, raised the GPU temperature to 67°C, and lowered the core clock rate to 2640 MHz.",
+    "key_points": [
+      "Enabling DLSS 5 Cinematic mode reduced performance from 114 FPS to 60 FPS in native 4K with ray tracing.",
+      "Frame generation time more than doubled from 8.6 ms to 17.4 ms.",
+      "Power consumption increased by 80.3 W to reach an extreme 567.4 W.",
+      "GPU temperature rose from 61°C to 67°C, forcing a clock rate reduction from 2820 MHz to 2640 MHz."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-06T13:13:55+00:00"
+  },
+  {
     "id": "1d655207883869aad3ed0a17",
     "title": "Maldon gardener's giant pumpkin to compete at RHS show",
     "source": "BBC",
@@ -2297,28 +2320,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-24T20:15:57+00:00"
-  },
-  {
-    "id": "c1a4b9fa18701f548331ce6f",
-    "title": "Major Garmin Launch Coming Tomorrow: Garmin Fenix 9 Expected",
-    "source": "Forbes",
-    "author": "Andrew Williams",
-    "published_at": "2026-08-24T00:00:00",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a8c443d66398db74f179569/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "url": "https://www.forbes.com/sites/andrewwilliams/2026/08/24/major-garmin-launch-coming-tomorrow-garmin-fenix-9-expected/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3VlWk5OclpWMmw4eFBfVGd0eTlFSVJQX0d5VUtjcENGRXA4VDhaNERVR1Qwd09Hbmd0Zlh5MXFoYzQ5eUxnVWVnbjZzbktjeVN4czNmelF4NE1MWldjUEVVb1J2eXVVQnFpQ3o2QlBvbHEtYzlTb0U1Q3ZRcWJkc0JPUEVwQU84UllYY3ZnaDhSNU84RjNnSmNQMHowd1J0d0tsWnl6YkpVZGlsU3liSW5vVWI3QQ?oc=5",
-    "content": "Garmin is set to announce something big tomorrow, and you can watch the unveil live. It’s set to stream on YouTube in a new kind of reveal for the brand, and many think this marks the arrival of the Garmin Fenix 9.\nThe YouTube Premiere stream will begin at 7am ET, for what Garmin is calling a “groundbreaking launch event.”\nBut what is it for? Garmin has left just a few clues in the teasers for this launch.\nFirst up, there’s the tagline “your playground is calling. Now’s the time to answer.” It’s a pretty vague tease, but the accompanying image suggests it’s part of the wider running category.\nWe see a young man with a hydration vest running through a scenic chunk of the great outdoors, although the image is a little too low-res to make out what he is wearing on his wrist. The first assumption is, after all, that this “groundbreaking” launch is going to be an update to one the company’s higher profile watch series.\nThe other, not-all-that-useful, hint is seen in the YouTube page’s description, which bears the “BeatYesterday” hashtag.\n“Dedicated to helping people make the most of the time they spend pursuing their passions, we believe every day is an opportunity to innovate and a chance to #BeatYesterday,\" it reads\nGarmin has in the past used this hashtag as part of its advertising campaigns to support its adventuring watches.\nLines in this wider family include Instinct, Enduro, Tactix, Marq and Fenix. This may be hopeful thinking, but taking a bold new approach to the launch may suggest we’re looking at the most anticipated update of the lot here, the Garmin Fenix 9.\nGarmin Fenix 9: What Is Known So Far\nAn FCC filing for what is believed to be the Fenix 9 was spotted earlier this month, suggesting the watch is indeed heading for a release soon.\nThat documentation suggests mobile internet and satellite communication will both be options. A Czech retailer also briefly listed options for the watch, suggesting it will come in 43mm, 47mm and 51mm sizes.\nThis is a pretty standard spread, as seen in the Fenix 8 family too.\nThere’s still a big question mark over what’s new in the Garmin Fenix 9, then, but there may not be long to wait until all is revealed:\nGarmin’s YouTube Premiere page for the announcement is already live — give it a bookmark if you want to witness the reveal as it happens. Garmin Fenix 9, or something else entirely? Place your bets.",
-    "summary": "Garmin is hosting a live YouTube Premiere event tomorrow at 7am ET for what it describes as a groundbreaking launch. Teasers suggest the announcement relates to an adventuring or running watch, with widespread expectations pointing toward the arrival of the Garmin Fenix 9. Recent leaks, including an FCC filing and a brief retailer listing, indicate the new watch may feature mobile internet, satellite communication, and come in 43mm, 47mm, and 51mm sizes.",
-    "key_points": [
-      "Garmin is streaming a groundbreaking launch event on YouTube tomorrow at 7am ET.",
-      "Teaser materials suggest the product belongs to the brand's running and adventuring watch category.",
-      "An FCC filing suggests the upcoming device will include mobile internet and satellite communication options.",
-      "A brief Czech retailer listing indicated the watch will be offered in 43mm, 47mm, and 51mm sizes."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-24T19:20:37+00:00"
   }
 ]
