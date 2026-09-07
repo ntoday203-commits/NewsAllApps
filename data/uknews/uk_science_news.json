@@ -1,5 +1,29 @@
 [
   {
+    "id": "d9d05e041c1ae4897a6db7c2",
+    "title": "Why Hasn't Amazon Launched Its Leo Satellite Internet Service Yet?",
+    "source": "PCMag UK",
+    "author": "Michael Kan",
+    "published_at": "2026-09-04T00:00:00",
+    "image": "https://sm.pcmag.com/t/pcmag_uk/news/w/why-hasnt-/why-hasnt-amazon-launched-its-leo-satellite-internet-service_b1ds.1200.jpg",
+    "url": "https://uk.pcmag.com/networking/167094/why-hasnt-amazon-launched-its-leo-satellite-internet-service-yet",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkphb3NGbDZmamdwZDhLNHFGZm1lM3prYmpxaXBnLVlPVzFFUFlESUlDNGpCaVJ6X05QN3hpTmdweFJXLTB5ZDBtdXdqYUJyRHdtdEZFWk9Gb1I2bWxxMmF1b3d0NDRfdzBtVmw3R0QxaExzMl9BRnVkcUwzS3BzRmRXZzRlZkVJSXpJTklxN091SUpQRktCTDM4d3dnVHNsd2hXTTBn?oc=5",
+    "content": "![](https://sm.pcmag.com/t/pcmag_uk/news/w/why-hasnt-/why-hasnt-amazon-launched-its-leo-satellite-internet-service_b1ds.1920.jpg) (Credit: PCMag/Michael Kan)\nAmazon's Starlink competitor, Leo, was supposed to launch in mid-2026, but it’s now September, and so far, the satellite internet service has been quiet. What’s up?\nThe company tells PCMag it’s still waiting for all the satellites to reach their assigned operating orbits, so Leo will have enough network capacity and coverage when it officially launches.\nIn July, Amazon hit a crucial milestone when it sent another 29 Leo satellites into space, bringing the total deployed in Earth’s orbit to 396. That's enough to kick off \"initial service,\" Chris Weber, VP for Amazon Leo, said at the time. But even after entering space, some of the satellites still need to reach an altitude of around 600 kilometers, where they’ll orbit and beam high-speed internet data to users on the ground.\nTracking from astronomer Jonathan McDowell shows that only 299 of the Leo satellites have reached operational orbit. Another 78 appear to be descending or ascending into position. Meanwhile, a separate group of 14 satellites seems to be relocating and remains close to the operational orbits. (The rest have been or are in the process of being retired.) \n![](https://sm.pcmag.com/pcmag_uk/photo/l/leo-graph/leo-graph_vcwm.jpg)\nMcDowell estimates most of the functioning satellites will reach the operational orbits by November, but some will take longer. “Their protocols may just involve a lot of preliminary testing,\" he told PCMag in an email. \"And Starlinks often take several months to orbit raise, too.”\nAmazon didn't comment on when Leo will begin service or when more satellites will exactly launch. The last one took place two months ago. But the company noted that United Launch Alliance is preparing to launch a batch of satellites using its heavy-lift Vulcan Centaur rocket. Amazon has also shipped another batch to French Guiana for a seperate mission using Arianespace.\nFor now, the Leo constellation is relatively small compared with Starlink, which operates about 10,000 satellites in orbit. Satellite industry analyst Carlos Placido also expects Leo to offer service only in certain areas or latitudes once it launches, citing the limited density of its satellite constellation. ![](https://sm.pcmag.com/pcmag_uk/photo/l/leo-sat/leo-sat_w6ky.jpg)\nThe first-gen Leo constellation is supposed to span 3,232 satellites, and even then, it won’t cover the polar regions. A second-gen network is in the works to add even more capacity and coverage.\nAs it waits for its satellites to reach the right orbits, Amazon says it continues to expand network testing with employees and select enterprise customers in a closed beta. The company plans on sharing more news soon. Pricing hasn't been announced, but Amazon has suggested it’ll be competitive with Starlink, which already has over 13 million customers worldwide.",
+    "summary": "Amazon has delayed the official launch of its Leo satellite internet service while it waits for deployed satellites to reach their assigned operating orbits. Although Amazon has sent 396 satellites into space, astronomer tracking indicates that only 299 have reached operational altitude as of September. Meanwhile, the company is conducting closed-beta network testing with employees and select enterprise customers.",
+    "key_points": [
+      "Amazon's Leo satellite internet service launch has been delayed as the company waits for satellites to reach operating orbits.",
+      "Amazon has deployed 396 satellites into space, but only 299 have reached their operational orbit around 600 kilometers.",
+      "Astronomy tracking and expert estimates suggest most functioning satellites will reach operational orbits by November or later.",
+      "Amazon is currently conducting closed-beta network testing with employees and select enterprise customers.",
+      "The first-generation Leo constellation is planned to include 3,232 satellites, which is significantly smaller than Starlink's constellation."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-09-07T16:09:34+00:00"
+  },
+  {
     "id": "e6deeb25f14cbad222e951a8",
     "title": "How to future proof your wrists",
     "source": "BBC",
@@ -2290,29 +2314,5 @@
     "topic": "SCIENCE",
     "app": "uknews",
     "collected_at": "2026-08-24T19:20:53+00:00"
-  },
-  {
-    "id": "450441fd834adf7ffdbfd0a5",
-    "title": "Funding boost to help restore water vole population in Nottinghamshire",
-    "source": "BBC",
-    "author": "Miya Chahal",
-    "published_at": "2026-08-23T00:00:00",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a916/live/e38990f0-9bdc-11f1-bb4d-1147ef2e78e5.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c204w175e76o",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtdDRVeHM3bUZNYmhjcktrR01KUmhjXzRNZng3UTlyeHFlOExaZXlNdzJFR3l5MTMwalNyR21sQldtV3g2RmM2QWlWaHlHZ0ZfUkpqbkdjVjJwR0J2?oc=5",
-    "content": "![An image of a water vole being held by a wildlife expert.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a916/live/e38990f0-9bdc-11f1-bb4d-1147ef2e78e5.jpg)\nWork is being carried out in Nottinghamshire to bring water voles back to the county's waterways\n- Published\nA wildlife charity hopes funding of Â£760,000 will help the water vole population in Nottinghamshire to \"thrive again\".\nNottinghamshire Wildlife Trust said it had secured government funding for its initiatives to bring back water voles and prepare for the return of beavers to the county.\nPart of the funding will be used to \"eradicate\" non-native mink in Nottinghamshire, which the charity said threatened vole populations.\nA spokesperson for the trust said recovering voles and wild beavers will benefit other plants and animals in the county that depend on healthy wetlands and river systems.\nAccording to the wildlife charity, water vole populations in the county have decreased by about 90% in the past 15 years due to a rise in non-native mink species.\nJanice Bradley, director of recovery at the trust, said it had received more than Â£600,000 for a project to prepare for the return of beavers in the county.\nThere are currently no wild beavers in the county, only enclosed beaver populations, Bradley said.\nIn addition, Â£160,000 has been awarded for a water vole recovery project from Natural England's Species Recovery Programme.\n'Brink of extinction'\nBradley said most of the funding for the recovery of water voles would go towards the charity's goal of eradicating mink by March 2029.\nShe added the work involved deploying traps on rafts which float along the waterways and killing the mink \"humanely, following the highest level of animal welfare standards\".\nDiscussing mink, Bradley said: \"They're a non-native species. It's a shame, they're a lovely animal, but they're not supposed to be here.\n\"They've reduced water voles to the brink of extinction across the country.\n\"In Nottinghamshire, we've literally gone down to a handful of tiny little relic populations of water voles.\n\"I thought the battle against mink was lost...but this funding has given us hope that the water vole population can thrive again.\"\n![An image of a beaver in water, surrounded by grass](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/eeb4/live/74b61720-9d49-11f1-a3dc-c3f8cfe34ff8.jpg)\nBeavers are expected to return to Nottinghamshire waterways within the next 18 months\nThe funding has come from the government's Wild Again: Restoring England's Wildlife initiative, which aims to support actions for the country's threatened plants and animals.\nNottinghamshire Wildlife Trust said it secured support for three projects it was involved with.\nThe trust aims to complete its mink eradication work by March 2029.\nThe new support for the project is expected to help bring wild beavers back to Nottinghamshire within the next 18 months, the trust added.\nThe trust said it would also be a partner in a Natural England-led research project, assessing the genetic structure of reintroduced water vole populations.\nListen to BBC Radio Nottingham on Sounds and follow BBC Nottingham on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.",
-    "summary": "The Nottinghamshire Wildlife Trust has secured £760,000 in government funding to help restore water vole populations and prepare for the return of wild beavers. Water vole numbers in the county have dropped by about 90% over the last 15 years, largely due to predation by non-native mink. Part of the funding will be used to humanely eradicate mink from Nottinghamshire waterways by March 2029.",
-    "key_points": [
-      "Nottinghamshire Wildlife Trust received £760,000 in government funding from the Wild Again: Restoring England's Wildlife initiative.",
-      "Water vole populations in Nottinghamshire have decreased by approximately 90% in the past 15 years.",
-      "Funding includes £160,000 from Natural England's Species Recovery Programme specifically for water vole recovery.",
-      "Over £600,000 has been allocated to a project preparing for the return of wild beavers within the next 18 months.",
-      "The trust aims to eradicate non-native mink by March 2029 using traps on floating rafts."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "SCIENCE",
-    "app": "uknews",
-    "collected_at": "2026-08-24T18:20:49+00:00"
   }
 ]
