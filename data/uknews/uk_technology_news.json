@@ -1,5 +1,29 @@
 [
   {
+    "id": "805d531cc305655513975bdc",
+    "title": "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds",
+    "source": "The Register",
+    "author": "Simon Sharwood",
+    "published_at": "2026-09-07T00:00:00",
+    "image": "https://image.theregister.com/5238260.jpg?imageId=5238260&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "url": "https://www.theregister.com/os-platforms/2026/09/07/might-as-well-blame-ai-for-this-giant-linux-release-candidate-says-linus-torvalds/5294697",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0p2V2ZVV2xWcThNUWdHLXQ2MFhMZ3FvQmN4WXl2S3NpejVxc3YtbU11WkNDcExORHlFWk9VeEJGYmowYlRCUC1UTWNjYjluSFhnMHZXemZWSXo5SWtqbm5RLVBYb1JGbGluaFJQak9EMmdkdkpmNENENV9fdHdILVcwR2RXc1MxZ0Frbk10VkdMaWhWLUItMUhjS3g4MGloSHFXT0NlTDJCOWdmTEdoMndPN3BHeWlYWTJXUWFLS1ZzTjc3dFRrY29IaElEMks5WXJWeTJCd0k?oc=5",
+    "content": "TOP STORIES\n- \n                        \n                            On-PREM AMD's Threadripper Halo is a local-AI workstation for researchers with deep pocketsAI workstation promises to put up to 576 GB of HBM3e and 16 TB/s of memory bandwidth on your desk\n- \n                        \n                            ai and ml Hugging Face is too important to fall into Nvidia's hands$12.9 billion deal will inevitably cement Nvidia's market dominance and harm competition in the process. Regulators should take note\n- \n                        \n                            ai and ml Zuck's Muse to Spark joy with open weights release 'soon'While you wait, Meta says it’s taught the model to stop wasting tokens and ask for help a bit more often\n- \n                        \n                            ai and ml With Gemini 3.8 Flash, Google reminds everyone it's still in the raceAI model scores well, runs fast, and doesn't cost too much (yet)\n- \n                        \n                            security AI agents carried out every step of this ransomware attack – then left the victim an 80-page security auditAdding insult to injury\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            Feel peak Windows was 7? You might like Kumander LinuxDebian and Xfce – solid, sensible choices – with a pretty skin\n- \n                        \n                            Canonical shuttering some of its legacy chat channelsThe Ubuntu Pastebin went in June, IRC gets demoted next\n- \n                        \n                            Audacity audio-editing app no longer looks like it's from the early 2000sThe FOSS tool for audio editing has a fresh coat of paint, and new features to boot\n- \n                        \n                            Haiku OS rises / Beta 6 sails open web / Virtual winds fly fastA real alternative to running some kind of FOSS Unix clone\n- \n                        \n                            Offshoots of cancelled TrueNAS Core upgrade to FreeBSD 15Exeunt zVault stage right; enter FreeCORE and BSDnas\n- \n                        \n                            Debian votes to let contributors code with AIDisclosure optional, quality mandatory",
+    "summary": "Recent tech news highlights various industry developments, including Debian voting to allow contributors to use AI while maintaining mandatory quality standards. Other updates feature new hardware like AMD's Threadripper Halo, updates on AI models from Meta and Google, and cybersecurity concerns ranging from ransomware to phishing attacks.",
+    "key_points": [
+      "Debian voted to allow contributors to code with AI under mandatory quality standards.",
+      "AMD introduced the Threadripper Halo local-AI workstation for researchers.",
+      "Meta announced an upcoming open weights release for its Muse model.",
+      "Microsoft patches failed to fix an on-premises SharePoint zero-day attack.",
+      "Audacity released a major update giving the audio-editing app a fresh visual interface."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-08T06:37:15+00:00"
+  },
+  {
     "id": "76eedcd4c4504203eaf2d4c8",
     "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America",
     "source": "Digital Foundry",
@@ -2295,29 +2319,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-25T09:22:47+00:00"
-  },
-  {
-    "id": "5493bc44868d7b00bbe6a84f",
-    "title": "Warhammer 40k: A Legend Returns — New Space Marine Captain On Bike Revealed",
-    "source": "Bell of Lost Souls",
-    "author": "Simon Berman",
-    "published_at": "2026-08-24T00:00:00",
-    "image": "https://www.belloflostsouls.net/wp-content/uploads/2026/08/wh40k-bike-header.jpg",
-    "url": "https://www.belloflostsouls.net/2026/08/warhammer-40k-a-legend-returns-new-space-marine-captain-on-bike-revealed.html",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXIzZEtzTmhPY3Nkck5Jc0RSWVF4Sk9XM1NwdWpnOHN3aXJLWHYxM1hxUmZlYjBKbUhBQlF6TDBxaE1SLVp2eVZPRXpVbE5kN2Q0TjJFcFRoRVpjM0pNMmRDcnhYM1h6NWZ1bHN6MXlGRy1uVUdaVXpaM1VLdlNMcG1xUHltWl9PT3FqYjZnTGJCZTUtcTU2MTdXSFd4OGZHcHkyNHBKcFo3cXVDeVA5SE05RXkwOXc5?oc=5",
-    "content": "Warhammer 40k: A Legend Returns — New Space Marine Captain On Bike Revealed\n![](https://www.belloflostsouls.net/wp-content/uploads/2026/08/wh40k-bike-header.jpg) \nA brand new kit is here for a venerable 40k hero. Get a closer look at the new Space Marine Captain!\nIt seems, unsurprisingly, that Codex: Space Marines may be near. We can tell from the roar of motors just over the horizon, heralding the return of a classic 40k character: the Space Marine Captain on Bike. Relegated to “Legends” status last edition, he’s back astride a new hog to join the recently revealed multi-part Outriders squad.\nRevving Engines and Filling Gaps\n![](https://www.belloflostsouls.net/wp-content/uploads/2026/08/wh40k-marine-captain-bike.jpg)\nHe’s back, and he’s, err, he’s just fine. I’m not gonna lie, this is not the most exciting of models. If I was choosing a model to (presumably) kick off the lead-up to the release of the 11th edition Codex: Space Marines, I probably would have picked a model with a little more mustard on it. With that said, it’s a nice enough model and does fill one of very few gaps in the Space Marine model range.\nOutriders have been a big part of the marine aesthetic since the early days of 40k. There’s just something charmingly ridiculous about a guy in power armor racing across the battlefield to decapitate an ork with a chainsword. It’s a nod to medieval knights on horseback and is an appealing part of all Marine chapters to one degree or another.\n![](https://www.belloflostsouls.net/wp-content/uploads/2026/08/wh40k-marine-bikes-photo.jpg)\nSome chapters get more out of this kind of model than others. White Scars, Blood Angels, Dark Angels, and to some degree, Raven Guard all get good use out of the fast assault capabilities of an outrider squad. So, being able to attach a Captain to one unit and a Chaplain to another does offer some pretty mean, fast-moving melee support for any army. He does offer a bonus of Cleave 1 to his attached unit, which does add up to a pretty solid amount of attacks against horde armies like Tyranids or Orks.\nAt the end of the day, this is a “meat and potatoes” character option that’s nice to have back in the range, even if it’s not the most exciting model reveal of the year.\nAstartes Chopper\nNow, where this kit does get interesting is in its options. Like the upcoming Outriders kit, the bike itself has some limited posability. It can be built racing forwards or at rest with the bike tilted as the captain braces his foot and lines up a shot or gestures with his melee weapon.\n![](https://www.belloflostsouls.net/wp-content/uploads/2026/08/wh40k-marine-captain-bike-alts.jpg)\nMore excitingly, the kit includes a variety of weapon options. The Captain’s right hand can wield your choice of power sword, thunder hammer (it’s gonna be this one, isn’t it?), or plasma pistol. As a nice little bonus, if you choose the plasma pistol, the kit includes a sheathed sword for full WYSIWYG goodness.\nThe kit also includes a choice of five heads. Two helmeted and two bare; no matter the aesthetics of your chapter of choice, there’s a strong option here. I’m particularly fond of the one with a bionic eye, myself/\nAll in all, a necessary if not particularly sexy addition to Space Marine armies. It’s nice to see a model return from the oubliette of Legends status, though. I recently painted up a unit of outriders for my Blood Angels and found them fun models to paint, so there’s a non-zero chance I pick up another when the new kit arrives. With two squads of outriders, I suppose I might add a Captain and Chaplain to each. I’m kind of a sucker for extremely specialized detachments, so maybe something cool awaits in the codex?\nWill we see bike-mounted librarians and apothecaries next?\n![Simon Berman](https://www.belloflostsouls.net/wp-content/uploads/2026/04/avatar-simon-berman-300x300-1-150x150.jpg)",
-    "summary": "Games Workshop has revealed a new Space Marine Captain on Bike kit for Warhammer 40k, signaling that a new Codex: Space Marines may be approaching. Although considered a conventional model that is not overly flashy, it successfully fills a previous gap in the miniature range. The new kit features multiple build options, including posable bike configurations, various weapon choices like a thunder hammer or power sword, and a selection of five heads.",
-    "key_points": [
-      "A classic Space Marine Captain on Bike has returned from Legends status with a new kit.",
-      "The model provides fast-moving melee support and grants a Cleave 1 bonus to its attached unit.",
-      "The kit offers limited bike posability, allowing it to be built racing forward or at rest.",
-      "Players can choose from several weapon options including a power sword, thunder hammer, or plasma pistol.",
-      "The box includes a choice of five heads, consisting of helmeted and bare variants."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-25T08:27:25+00:00"
   }
 ]
