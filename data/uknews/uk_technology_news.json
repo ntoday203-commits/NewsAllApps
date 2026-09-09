@@ -1,5 +1,29 @@
 [
   {
+    "id": "9d0b33baabbac2f54fd32e1f",
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "source": "The Verge",
+    "author": "Jay Peters",
+    "published_at": "2026-09-08T00:00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGJBTkE4dDB6MVE5QTBVMWROS0phak5ORm1EU0V6U3JtTE5JcFRoTUNnc0RXMG9KRTR6Zm16V1haSWV6bnM3dXNYYm5YM2pJT1FwclZoVEFLdnhLNFVkZ3BTcjBtcFdMb0xvSnM1SVJ3VlVaSFYySjl1OFJlUHZvM1FsQUdETTJzXzA4bUFCank0YnlKdkE?oc=5",
+    "content": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch.\nChatGPT Sketch turns your bad drawings into detailed AI images\nOpenAI’s updated image generation tools in ChatGPT let you use a doodle as part of your prompt.\n![ai-label (1)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n![ai-label (1)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nYou can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing. I briefly tested it, and it successfully turned my bad doodle of a cat that I drew with my computer mouse into a realistic photo, per my instructions. You can also now leave comments directly on parts of images that you want changed, which I used to make the cat’s eyes green instead of blue.\n![Screenshots of ChatGPT making a cat image based off of a sketch.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-08-at-1.08.36-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nAs for ChatGPT Images 2.5, OpenAI says that it makes images with “more natural lighting and richer textures,” is better at following your editing instructions “across multiple turns,” and that image generation latency has been reduced by “up to 50% compared with Images 2.0.” ChatGPT Images 2.5 is out now for ChatGPT, ChatGPT Work, and Codex users on desktop, mobile, and web, according to OpenAI.",
+    "summary": "OpenAI has announced ChatGPT Images 2.5 and introduced a new feature called Sketch, which allows users to generate detailed AI images using a doodle as part of their prompt. Users can activate Sketch by typing @Sketch in the chat box, and they can also leave comments directly on generated images to request specific changes. The updated Images 2.5 model features more natural lighting, richer textures, improved multi-turn editing, and up to 50 percent lower latency.",
+    "key_points": [
+      "OpenAI announced ChatGPT Images 2.5 and the Sketch feature.",
+      "Sketch allows users to draw a doodle inside ChatGPT and use it as a prompt to generate detailed AI images.",
+      "Users can type @Sketch to open the drawing window.",
+      "Users can leave direct comments on specific parts of images to request edits, such as changing eye color.",
+      "ChatGPT Images 2.5 delivers more natural lighting, richer textures, and up to 50 percent reduced latency compared to Images 2.0."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-09T00:46:40+00:00"
+  },
+  {
     "id": "1d2a5d9f7182ff5d35442541",
     "title": "OpenAI releases ChatGPT Images 2.5 with 'sharper details' and 'more precise editing' - 9to5Mac",
     "source": "9to5Mac",
@@ -2297,28 +2321,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-25T14:35:30+00:00"
-  },
-  {
-    "id": "255c319d455ac3f5ac757e0d",
-    "title": "Apple's 20th anniversary iPhone could take some inspiration from Android phones",
-    "source": "Android Authority",
-    "author": "Chethan Rao",
-    "published_at": "2026-08-24T00:00:00",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-iPhone-Air_9-scaled-e1761389770799.jpg",
-    "url": "https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd3NGb0JkaVFFVGc1aENhWGVsTkdWVExKbUVLQUhaTDhnVUdfSjRHWTQwc01ES1l4X3E2TXVqQTlrWExJd1VYMENORmhXTGlOTUp6dURvWUhPUzBzOHdJSzZRb1JELVlZWXBiQjRhbDJzYW9HNS1JRFBvODA0TmhRT2E1UnlOQQ?oc=5",
-    "content": "Apple's 20th anniversary iPhone could take some inspiration from Android phones\nAug 24, 2026 — 2:13 PM ET\n![Apple iPhone Air 9 Apple iPhone Air 9](https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-iPhone-Air_9-scaled-e1761389770799.jpg)\n- Apple may be prepping radical design changes for the 20th anniversary iPhone, according to a new leak.\n- The leaked renders show curved glass on the front and back with two horizontally placed cameras at the back.\n- We’re also seeing what appears to be a hole-punch selfie camera on the screen, reminiscent of present-day Android phones.\nThe iPhone is expected to see a radical shakeup this year, with Apple’s first-ever foldable likely to be revealed during the fall event next month. However, the company will reach a bigger milestone in 2027, marking 20 years since the first iPhone was revealed in 2007. A new leak is giving us our first potential look at the next-gen iPhone model Apple could introduce to celebrate.\nLeaker Yogesh Brar shares a couple of images on X that appear to show the 20th anniversary iPhone from multiple angles, including a clear view of its sides. It also appears to show a quad curved display on the front and a similarly curved glass on the rear panel. The images reveal dual rear cameras positioned horizontally, rather than vertically as on the iPhone 17. But for as interesting as all that is, it’s also hard to ignore some of the discrepancies in this particular leak.\n![20th anniversary iphone yb 2 20th anniversary iphone yb 2](https://www.androidauthority.com/wp-content/uploads/2026/08/20th-anniversary-iphone-yb-2.jpeg)\nThe image above, seemingly depicting the front and back profiles of the 20th anniversary iPhone model, appears to be missing the Camera Control button, which is typically placed on the right side of the iPhone, sitting some distance below the power button.\n![20th anniversary iphone yb 3 20th anniversary iphone yb 3](https://www.androidauthority.com/wp-content/uploads/2026/08/20th-anniversary-iphone-yb-3.jpeg)\nMeanwhile, the second set of supposed 20th anniversary iPhone renders shows a randomly placed key on the left-hand side of the device, with no volume rocker or the Action button visible. These mismatches might suggest that some form of generative AI tool was used to make these images, potentially using a simple description from supply chain sources, though we cannot independently confirm this.\nAnother notable aspect of these leaked images is the front camera. Per these images, Apple may ditch the Dynamic Island altogether and use a more conventional hole-punch front camera instead. It’s unclear where the sensors for Apple’s Face ID tech will be positioned, however.\nGiven how essential Dynamic Island is for the iPhone, we would be surprised if Apple took this step. However, if the company does go in that direction and adopts a hole-punch selfie camera, it would be borrowing a common design attribute from Android phones.\nGiven some of the inconsistencies we mentioned above, we’d recommend taking this leak with a grain of salt. Hopefully, we’ll get a better idea of the 20th anniversary iPhone model as we head into 2027. For now, Apple’s focus will be firmly on next month’s iPhone 18 launch event, which should also play host to the iPhone Ultra foldable.\nReports say Apple may skip the iPhone 19 altogether and jump straight to the iPhone 20 (XX) next year. This wouldn’t be a first for the company, given that it released the iPhone X in 2017 to mark the 10th anniversary of iPhones, alongside the iPhone 8 and 8 Plus.",
-    "summary": "A recent leak suggests Apple's 20th anniversary iPhone in 2027 could feature radical design changes, including curved glass and a hole-punch selfie camera similar to Android phones. The leaked renders show inconsistencies like missing or misplaced physical buttons, indicating the images may have been generated using AI based on supply chain descriptions. Observers recommend taking the leak with skepticism as Apple prepares for its upcoming fall events.",
-    "key_points": [
-      "A new leak reveals potential renders of Apple's 20th anniversary iPhone.",
-      "The leaked design features curved glass on both the front and back, alongside a hole-punch selfie camera.",
-      "Inconsistencies with physical buttons suggest the images may have been created using generative AI.",
-      "Adopting a hole-punch camera would mean Apple might ditch the Dynamic Island, mirroring a common Android design."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-25T13:44:27+00:00"
   }
 ]
