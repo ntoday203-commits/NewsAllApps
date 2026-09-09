@@ -1,5 +1,29 @@
 [
   {
+    "id": "8219ff5e1c17161fcf502e38",
+    "title": "Apple Launches The M6 2nm 12-core CPU, Quad-Die M5 Ultra",
+    "source": "Phoronix",
+    "author": "Michael Larabel",
+    "published_at": "2026-08-01T00:00:00",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=apple_m6",
+    "url": "https://www.phoronix.com/news/Apple-M6-M5-Ultra",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51Wnp5ZC14dlhvbUVhb0tuanhGTEpjcmlsaC1NeXJjMF95VDlpckRDNjl6bktpYzFnTTVlbFhKTlNwdTNMSmc1X21xLWhHeEdCazFiaHdiSjJkMkk?oc=5",
+    "content": "Apple Launches The M6 2nm 12-core CPU, Quad-Die M5 Ultra\n![APPLE](https://www.phoronix.com/assets/categories/apple.webp)\nThe Apple M6 base model launched today for the new Mac Mini. The Apple M6 is their first TSMC 2nm chip and features a 12-core CPU, 12-core GPU, and dual 16-core neural engine. The M6 supports up to 170GB/s of unified memory bandwidth.\nTwelve cores with the M6 is two more than the M5 and is a combination of two super cores, four performance cores, and six efficiency cores. The M6 is said to provide \"the world's fastest single-threaded performance\" and up to 1.2x the multi-threaded performance of the M5 or now up to 2.4x faster than the original M1.\nThe M5 Ultra debuted alongside the M6 with being their first quad-die architecture and most powerful Apple Silicon design ever for AI and professional workloads. The M5 Ultra supports up to 36 CPU cores, up to an 80 core GPU, and 1.2TB/s of unified memory bandwidth.\nMore details on the Apple M6 with the new Mac Mini along with the M5 Ultra debuting in the new Mac Studio can be found via the announcement this morning on Apple.com.\nWith the launch of the M5 Ultra and M6, yet more work piles up for Asahi Linux and those bringing Apple Silicon support to Linux and the BSDs.With Linux 7.3 they are up to very basic support for the M3 Pro / Max / Ultra for at least booting to a console but not yet any GPU acceleration or other features needed to daily use Apple M3 products on Linux.",
+    "summary": "Apple has launched the M6 base model chip for the new Mac Mini, featuring a 2nm process, a 12-core CPU, and improved performance. Alongside the M6, Apple introduced the M5 Ultra, its first quad-die architecture chip designed for the new Mac Studio. These new releases continue to present ongoing development challenges for bringing Apple Silicon support to Linux and BSD.",
+    "key_points": [
+      "The Apple M6 is the company's first TSMC 2nm chip, featuring a 12-core CPU, 12-core GPU, and dual 16-core neural engine.",
+      "The M6 CPU configuration consists of two super cores, four performance cores, and six efficiency cores.",
+      "The M5 Ultra debuted as Apple's first quad-die architecture, supporting up to 36 CPU cores and an 80-core GPU.",
+      "The M6 launches with the new Mac Mini, while the M5 Ultra debuts in the new Mac Studio.",
+      "The new chip launches add to the workload for developers bringing Apple Silicon support to Linux and the BSDs."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-25T17:21:43+00:00"
+  },
+  {
     "id": "09f24fbae19044a15f459da6",
     "title": "New Garmin Fenix 9 is built to help you “perform better and venture farther” | BikeRadar",
     "source": "BikeRadar",
