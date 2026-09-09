@@ -1,5 +1,29 @@
 [
   {
+    "id": "24c6789d224a960a640a6fd4",
+    "title": "Google, take note: This phone maker's new chipset looks like an absolute beast",
+    "source": "Android Authority",
+    "author": "Hadlee Simons",
+    "published_at": "2026-08-24T00:00:00",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Xiaomi-17-Ultra-homescreen-on-table.jpg",
+    "url": "https://www.androidauthority.com/xiaomi-xring-03-3702037/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MMElGeF9CUEY4V2VkZ1RDd2dIaHVEazV2QWRXU3BteXdUMHpPTDIyTjR1RThUdVpXajBsM0szOE1pVzEtY2dvMXVPcmR1d05ydUF1aUZSMDl4Z2JCMkhONHhuNnFfazQ5?oc=5",
+    "content": "Google, take note: This phone maker's new chipset looks like an absolute beast\nAug 24, 2026 — 6:14 AM ET\n- Xiaomi has announced the XRing 03 smartphone chipset.\n- This chipset has an unannounced Arm G2-Ultra NX GPU and a 10-core CPU with no little cores.\n- The chip will debut in the Xiaomi 18 Fold, which is scheduled to launch next month.\nGoogle has just launched the Pixel 11 series, and our own benchmarks show that the Tensor G6 chip is a significant step down from rival chips. Now, Xiaomi has revealed its XRing 03 processor, and it seemingly obliterates Google’s silicon on paper.\nXiaomi revealed XRing 03 details on Weibo, and it packs a 3nm design from an unspecified foundry. However, what’s particularly interesting is that it comes with an unannounced Arm G2-Ultra NX GPU. Expect 16 cores, eight NX neural accelerators, and AI-based super-resolution/frame interpolation. In fact, Xiaomi claims that this GPU is 85% faster than last year’s XRing 01, 64% more efficient, and 182% faster at ray tracing. For what it’s worth, the XRing 01 had an Immortalis G925 MC16 GPU. Either way, this seems far more impressive than the Tensor G6’s PowerVR CXTP-48-1536 GPU.\nThe company didn’t reveal the exact CPU cores, but noted that you can expect a decacore layout with six “super” cores, four “large” cores, and a 4.35GHz peak clock speed. Xiaomi says the CPU has “dual” SME2 acceleration units for AI tasks. SME is particularly important for AI workloads that aren’t optimized for the NPU. Otherwise, you should expect 60% faster performance than the XRing 01 and up to 25% lower power consumption. Xiaomi’s previous chipset packed a 10-core CPU consisting of two Cortex-X925 cores, six Cortex-A725 cores, and two Cortex-A520 cores.\nOtherwise, Xiaomi says you can expect a four-core NPU with 45% faster local AI performance, 200 TOPS of tensor computing power, and a claimed 3.3 teraflops of vector processing power. We’re not sure how this compares to Google and Qualcomm’s latest chips, but the MediaTek Dimensity 9500 apparently packs an NPU with 100 TOPS of power. So it looks like Xiaomi is bringing a ton of AI horsepower here. You can also expect support for LPDDR6 RAM.\nOn the multimedia front, the Xiaomi XRing 03 supports a single 432MP camera. This dwarfs MediaTek and Qualcomm’s 320MP single camera capabilities. Then again, we haven’t even seen any 320MP smartphone cameras just yet. However, Xiaomi’s chipset also supports H.266 (VVC) video decoding for higher quality video at a reduced file size. This comes after Android 17 rolled out VVC support as well. You should also expect 4K/60fps capture and noise reduction for night video.\nXiaomi has confirmed that the XRing 03 will debut in its Xiaomi 18 Fold, which is officially scheduled to launch next month. Either way, this tentatively looks like an impressive smartphone processor. We’re not sure about the CPU, but that GPU specs definitely suggest that Xiaomi phones with this chip will easily outperform the Pixel 11 series in games. And you probably won’t run into severe issues running Genshin Impact.",
+    "summary": "Xiaomi has announced its new XRing 03 smartphone chipset, featuring a powerful 3nm design, an unannounced Arm G2-Ultra NX GPU, and a 10-core CPU with no efficiency cores. The processor boasts significant performance and efficiency improvements over its predecessor, including advanced AI capabilities and support for LPDDR6 RAM. The XRing 03 is scheduled to make its debut next month in the upcoming Xiaomi 18 Fold.",
+    "key_points": [
+      "Xiaomi announced the XRing 03 smartphone chipset, which features a 3nm design.",
+      "The chipset includes a 10-core CPU with a peak clock speed of 4.35GHz and no little cores.",
+      "The unannounced Arm G2-Ultra NX GPU offers significant performance, efficiency, and ray tracing upgrades.",
+      "The XRing 03 supports a single 432MP camera and H.266 video decoding.",
+      "The new processor will debut next month in the Xiaomi 18 Fold."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-25T14:35:30+00:00"
+  },
+  {
     "id": "255c319d455ac3f5ac757e0d",
     "title": "Apple's 20th anniversary iPhone could take some inspiration from Android phones",
     "source": "Android Authority",
