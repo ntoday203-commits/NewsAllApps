@@ -1,5 +1,28 @@
 [
   {
+    "id": "a25b8887f11794c4a3332942",
+    "title": "Apple Unveils 2nm M6, Quad-Die M5 Ultra Chips with New Mac Mini and Mac Studio",
+    "source": "Digital Foundry",
+    "author": "Digital Foundry; William Judd",
+    "published_at": "2026-08-25T00:00:00",
+    "image": "https://images.digitalfoundry.net/3f41b2d89821a/large.jpg",
+    "url": "https://www.digitalfoundry.net/news/2026/08/apple-unveils-2nm-m6-quad-die-m5-ultra-chips-with-new-mac-mini-and-mac-studio",
+    "google_news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVdhX0lxMTJaaDk0c19FT3FYbXNEbms4SGlZWndCZTBZaWhwd3E5WVpGdFVNdG91ZUVTczUzZlpodjRzcDdZb2lvNGVTUFlxdW1GTjNmMU5MZ0tGRjNKNFBkVkVVdmNobGRkREJBRzR4YXBlaXFXTHh5RnJiNzBaazBjVG1ZODZTSVg2RHNfSU1YbXhodDIxZ0hEdmxlLTVXU29YTnRid3Bla0wwRUlvTWpXNHBISnFZaHROVGRn?oc=5",
+    "content": "![Apple Silicon M6 and M5 Ultra chips](https://images.digitalfoundry.net/3f41b2d89821a/apple-silicon-m6-and-m5-ultra-chips.970x.jpg)\nApple continues to set a blistering pace in adopting new processes for its Apple Silicon chips, with the Californian company today unveiling its first 2nm part, the M6, and its first quad-die chip, the M5 Ultra. The two new APUs are used in the latest generation of Mac computers, specifically the M6 Mac Mini and the M5 Ultra Mac Studio.\nThe M6 system-on-chip includes a 12-core CPU with two super cores, four performance cores and six efficiency cores, plus a 12-core GPU and dual 16-core Neural Engine. The M6 supports up to 170GB/s of memory bandwidth.\nMeanwhile, the M5 Ultra is formed from two M5 Max chips, for a total of four dies joined via an \"UltraFusion\" interconnect. That allows for the APU to max out at 36 CPU cores (12 super, 24 performance) and 80 GPU cores with neural accelerators, with 1.2TB/s of memory bandwidth. Apple is quoting a 25 percent gain in single-core performance, a 30 percent gain in multi-core performance and a 50 gain in memory bandwidth versus the M3 Ultra chip that arrived nearly 18 months ago.\n![mac models compared m6 mac mini m5 ultra mac studio](https://images.digitalfoundry.net/eda828b339485/mac-models-compared-m6-mac-mini-m5-ultra-mac-studio.970x.jpg)\nAs you might guess, all of this comes at a steep cost, with the M6 Mac Mini starting at £899/$899 and the faster M5 Pro equipped model coming it at nearly double, £1,899/$1,699. The M6 model includes 16GB of memory by default, with 24GB costing an extra £200/$200 or 32GB costing an extra £400/$400. If you want to upgrade the 256GB of storage, you're looking at a £200/$200 premium for a 512GB drive, a £500/$500 premium for a 1TB size and a £1000/$1000 premium for a 2TB model.\nThat's pocket change compared to the Mac Studio, with the M5 Max model starting at £2,499/$2,499 and the top-end M5 Ultra chip starting at $5,499/£5,499. If you tick every option on the Mac Studio, you're looking at a 36-core CPU, 80-core GPU, 256GB of unified memory and 16TB of storage for just $18,299/£18,299.\nOf course, while Apple is certainly charging a healthy premium for these upgrades, it is worth pointing out that prices have risen in the PC industry across the board due to the insane demand AI industries are putting on flash memory manufacturing, with SSDs and RAM being the most significantly affected components. Presumably, these prices take into account the supply situation in the future instead of right now, and things are only expected to get worse.\nStill, it's interesting to see some new tech, and I'll be fascinated to see what the new Macs are capable of when it comes to gaming - even if local AI workloads and creative endeavours are very much the focus here.",
+    "summary": "Apple has announced its first 2nm chip, the M6, and its first quad-die chip, the M5 Ultra, powering the latest Mac Mini and Mac Studio models. The M6 features a 12-core CPU and 12-core GPU, while the M5 Ultra combines four dies using an UltraFusion interconnect to offer up to 36 CPU cores and 80 GPU cores. These new computers come at a steep cost, with base prices starting at $899 for the Mac Mini and reaching up to $18,299 for a fully upgraded Mac Studio.",
+    "key_points": [
+      "Apple unveiled its first 2nm chip (M6) and first quad-die chip (M5 Ultra).",
+      "The M6 chip powers the new Mac Mini, featuring a 12-core CPU, 12-core GPU, and dual 16-core Neural Engine.",
+      "The M5 Ultra powers the new Mac Studio, offering up to 36 CPU cores, 80 GPU cores, and 1.2TB/s of memory bandwidth.",
+      "The M6 Mac Mini starts at $899, while the top-end M5 Ultra Mac Studio starts at $5,499 and can reach $18,299 fully upgraded."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-26T00:32:02+00:00"
+  },
+  {
     "id": "9062b1677f9336b904727a60",
     "title": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered",
     "source": "XBOX Wire",
