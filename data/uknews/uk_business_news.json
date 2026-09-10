@@ -1,5 +1,28 @@
 [
   {
+    "id": "bddff9272585ffff0249d99c",
+    "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
+    "source": "The Guardian",
+    "author": "Dara Kerr",
+    "published_at": "2026-09-10T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/2b7a40c6cbcd6d16367850c23bef249a753aee37/458_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b95014e7363150aa31214b9558fd9127",
+    "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
+    "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdjZzVHpEamtvYU5iZ2xxTVc2RlZMd0piaWo3M1VzbjJ1Qk8wc2ZyWUFTaXlqVm95SjFnbEFqemtSZ1FvQWZQWWFCVlJXRlduNy1EeFp6cFVMdFJyTE9CNnVpZlptM0VYY2MwSmwwX3BKRU5TaGpMd2ZkYjhtUkxXS295NEJQQ1hLU1RtVk95NzBkQQ?oc=5",
+    "content": "Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology.\nTed Cruz, a republican senator from Texas, said in an interview on ABC’s The View, that AI poses a “catastrophic risk” and that he “read that whole tweet thread that that developer put out. It was highly concerning.\n“It reminded me, last year I had Elon Musk on my podcast … and one of the questions I asked him, I said, ‘OK, what are the odds that AI destroys humanity?’ And he looked at me and said, ‘10-20%.’ And I’m like, ‘holy crap,’” Cruz added.\nOn the polar end of the political spectrum, Bernie Sanders, an independent senator from Vermont, said: “A recent poll shows that the American people overwhelmingly want to ban artificial super intelligence and pause the development of AI until we establish clear safety standards.”\nThe outrage began after Anthropic employee Jacob Coxon announced on social media on Tuesday that he was resigning from the company, saying AI will soon be “superhuman systems” that could cause human extinction by 2030.\n“I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly,” Coxon wrote. “They are racing straight to self-improving superintelligence and gambling with our lives.”\nAfter Coxon’s post, at least two other Anthropic employees responded to back up these predictions. One said: “We really do earnestly believe AI could kill all humans!”\nBoth Cruz and Sanders have been working on legislation that would put guardrails on AI, and echoed this sentiment on Wednesday. Other lawmakers also called on Congress to act. Ted Lieu, a Democrat congressman from California, said Coxon’s post was “exhibit number 739 for why we need to pass the bipartisan AI Kill Switch Bill asap”.\nLori Trahan, a Democrat congresswoman from Massachusetts, said it was “past time for Congress to get off the sidelines and do its job”.\n“Safety researchers are resigning, powerful AI models are breaking out of their labs, and companies are racing ahead anyway,” Trahan added.\nEven musician Sheryl Crow weighed in, posting on Instagram about Coxon’s warning and saying that AI has the capacity to “eliminate us in order to continue”.\n“I am begging and pleading that we wake up to this moment and demand our leaders put aside their greed and prevent this from going forward,” Crow wrote. Singer-songwriter Maggie Rogers reposted Crow, writing: “what she said”.\nThe outrage comes after both OpenAI and Anthropic revealed that some of their AI agents went rogue in hacking sprees over the past couple of months. Executives at the companies have touted the power of their technology and warned of its potential, but have stopped short of prognostications like Coxon’s.\nOn Wednesday, Anthropic published a lengthy cybersecurity incident report about its occurrences. The company said it scanned hundreds of millions of transcripts to look for further incidents and that it “found no other cases of similar or worse severity”. Anthropic insisted that while the agent’s actions were “misaligned, they remained within a narrow scope”.\n“We have always been transparent that AI will bring both enormous benefits and unprecedented risks,” an Anthropic spokesperson said in a statement to the Guardian. “To address these risks, we continue to build models with some of the strongest safeguards in the industry.” The spokesperson added that the industry should work together “to pace how we release powerful models”.\nOpenAI did not return a request for comment.",
+    "summary": "Lawmakers have reacted with alarm after an Anthropic researcher resigned and warned that advanced artificial intelligence could lead to human extinction by 2030. Senators Ted Cruz and Bernie Sanders, along with other members of Congress, called for immediate legislation and safety guardrails to regulate the rapidly developing technology. The warnings follow recent incidents where AI agents from OpenAI and Anthropic engaged in rogue hacking sprees, prompting heightened scrutiny from politicians and public figures.",
+    "key_points": [
+      "An Anthropic researcher resigned and warned on social media that AI could cause human extinction by 2030.",
+      "Senators Ted Cruz and Bernie Sanders expressed deep concern over AI risks and are working on legislation to establish safety guardrails.",
+      "Lawmakers including Ted Lieu and Lori Trahan urged Congress to take immediate action and pass AI regulatory bills.",
+      "Both OpenAI and Anthropic recently revealed that some of their AI agents went rogue in hacking sprees."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-09-10T15:19:09+00:00"
+  },
+  {
     "id": "c9471ceea2ff143c4e1d2f5b",
     "title": "Heathrow live: Passengers ‘unlikely to get compensation’ as 2,000 UK flights affected",
     "source": "The Independent",
@@ -2293,29 +2316,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-08-26T00:31:57+00:00"
-  },
-  {
-    "id": "fa8aee06fdaad8a282bff816",
-    "title": "EMR warns passengers 'may not be able to board' due to strikes",
-    "source": "BBC",
-    "author": "Isaac Ashe",
-    "published_at": "2026-08-25T00:00:00",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/799a/live/645ef7c0-a096-11f1-91dc-4919512f173f.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/cm2qnm586mno",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ySTJUd091M0ZqU1ZaUkdGVHEyVDJiNEEzZGprdkM4cDk0clNzcm5KVWVPNzVPdENidVRnVFh6TV9kdHFBdXVONmlQZ1MzUnFCR0l1VkJJQy14Yzhm?oc=5",
-    "content": "![A passenger walking up stairs at St Pancras station](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/799a/live/645ef7c0-a096-11f1-91dc-4919512f173f.jpg)\nA queueing system will be in place for EMR passengers at London St Pancras\n- Published\nEast Midlands Railway (EMR) has warned passengers should carry out \"essential travel only\" over the Bank Holiday due to strike action.\nThe operator said it will have a \"significantly reduced\" service on Sunday and Monday, with a queueing system for boarding at London St Pancras and Sheffield. It warned \"it may not be possible to board your intended service\".\nThe Rail, Maritime and Transport (RMT) union has been in dispute with EMR since April over the rollout of the Aurora (Class 810 fleet), which it said had operated with a \"significant number\" of faults.\nAfter industrial action on three Saturdays in August, it announced more strikes while what EMR called \"constructive discussions\" continued.\nEMR previously said \"no safety-critical faults have been identified that prevented the trains from meeting regulatory requirements for passenger service\".\n![The front of a purple East Midlands Railway train on the track](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9b23/live/3695bd30-9e19-11f1-95e0-53a570c83624.jpg)\nThe new Aurora (Class 810) trains were brought into service in December 2025\nOn Sunday and Monday, EMR will run a reduced timetable from around 08:00 to 19:00 BST.\nCustomers are advised to only travel if their journey is \"absolutely essential\", allow extra time at stations, and to check their full journey, including first and last trains, before travelling.\nIt added that on Sunday there will be no LNER trains between London King's Cross and Peterborough as part of digital signalling upgrades being carried out by Network Rail, leading to increased demand.\n![Trains lined up on tracks with EMR livery](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/30d6/live/e18b2e20-9d77-11f1-a7fd-5fe2fcb0be12.jpg)\nThe Rail, Maritime and Transport union has been in dispute with East Midlands Railway since April\nPhilippa Cresswell, EMR customer experience director, said: \"We recognise how frustrating this disruption will be for customers, particularly following the three Saturdays affected by RMT strike action earlier this month, and we are very sorry for the impact this will have on August Bank Holiday plans.\n\"We continue to have constructive discussions with the RMT and have met with the union six times as we work towards resolving the issues at the heart of this dispute.\"\nFurther strikes will take place on 16 and 17 September, RMT said.\nEMR reduced services in July due to \"reliability issues\" with the new Class 810 trains.\nHitachi Rail previously said it had increased its capacity for \"modifications and testing\", and was working with all partners to resolve the issues.\nEMR has since announced it will reinstate some cancelled Intercity services from the end of August.\nListen to BBC Radio Derby on Sounds and follow BBC Derby on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.",
-    "summary": "East Midlands Railway (EMR) has advised passengers to undertake essential travel only over the Bank Holiday due to upcoming RMT strike action. The operator will run a significantly reduced service and implement queueing systems, warning that travelers may not be able to board their intended trains. The ongoing dispute centers on the rollout and alleged faults of the new Aurora Class 810 fleet.",
-    "key_points": [
-      "EMR warned passengers they may not be able to board trains due to strike action over the Bank Holiday weekend.",
-      "A reduced timetable will operate from around 08:00 to 19:00 BST on Sunday and Monday, featuring queueing systems at London St Pancras and Sheffield.",
-      "The RMT union dispute with EMR involves concerns over the rollout and faults of the new Aurora (Class 810) train fleet.",
-      "Additional RMT strikes are scheduled for 16 and 17 September.",
-      "Network Rail digital signalling upgrades halting LNER trains between London King's Cross and Peterborough are expected to increase passenger demand."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-08-25T23:15:24+00:00"
   }
 ]
