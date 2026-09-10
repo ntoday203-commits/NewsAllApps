@@ -1,5 +1,29 @@
 [
   {
+    "id": "97571935d7c661c24bb351b1",
+    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+    "source": "theverge.com",
+    "author": "Emma Roth",
+    "published_at": "2026-09-09T00:00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+    "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZDktdlh4UHk1cGJ1YW5zMWtlVmQ0emVza0pyWXRsQUo5ZjlKYXNQdklWZUdiOXJaTEFSalNnc0dsOHVSZm81LWt1Um5zWmo4MV83bnFIWlNnYnFnWXF6cUJ5TWZFVWo4SGJOeVJiR3l2anQwUVVQTGxUQVg?oc=5",
+    "content": "Apple is launching a new way to prove that the picture you took isn’t manipulated by AI. A new feature, called “Reference Image,” will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device’s new camera sensor to “sign every pixel it sees.”\nApple’s new iPhone camera mode promises to prove your photo isn’t AI\nA new sensor in the iPhone 18 Pro will authenticate photos captured in Reference mode.\n![268734_iPhone_2026_event_handson_ADiBenedetto_0023](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n![268734_iPhone_2026_event_handson_ADiBenedetto_0023](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe iPhone 18 Pro and Pro Max will only authenticate photos when placed into Reference mode. Once the camera captures signed sensor data, Apple says its Private Cloud Compute will develop it “into an unalterable reference image” that can be viewed in the Photos app. You’ll be able to compare the reference image with other versions of the photo to see if any edits were made.\n![You can compare the Reference Image to other versions of the photo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/reference-image.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nAs AI-generated images and videos become more realistic, several new standards have emerged to label images not created by a human, such as SynthID, C2PA, and Meta’s Content Seal. Apple is putting a twist on these methods by building authentication directly into its hardware.\nApple is letting developers access a Reference Image API across iOS, iPadOS, and macOS, which could eventually allow users to inspect these digitally signed photos in third-party apps. The company says the iPhone 18 Pro lineup won’t come with its Reference Image feature at launch in the European Union, but it says users in the region will still be able to “develop and view” them in iOS 27, iPadOS 27, and macOS 27.",
+    "summary": "Apple is introducing a new camera feature called \"Reference Image\" for the iPhone 18 Pro lineup to prove photos are genuine and unmanipulated by AI. The tool utilizes a new camera sensor to sign captured pixel data, which Apple's Private Cloud Compute then develops into an unalterable reference image for comparison. Developers will also gain access to a Reference Image API to support inspection of these digitally signed photos in third-party applications across Apple's operating systems.",
+    "key_points": [
+      "Apple is launching the Reference Image feature with the iPhone 18 Pro lineup to authenticate authentic photos.",
+      "The new feature uses a device sensor to sign pixel data and processes it via Private Cloud Compute into an unalterable image.",
+      "Users can compare the reference image with other versions of a photo to detect edits or AI manipulation.",
+      "A Reference Image API will be available to developers for iOS, iPadOS, and macOS.",
+      "The feature will not be available at launch in the European Union, though users there can still develop and view reference images in future OS versions."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-10T23:29:00+00:00"
+  },
+  {
     "id": "818ef49f591225444b65a4be",
     "title": "The V8 is back – meet Mercedes' mad new 637bhp CLE | Autocar",
     "source": "Autocar",
@@ -2298,28 +2322,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-26T04:28:21+00:00"
-  },
-  {
-    "id": "2c3eb7214e36ea85ab54c8ed",
-    "title": "WhatsApp announces three ways to make accounts more secure - 9to5Mac",
-    "source": "9to5Mac",
-    "author": "Marcus Mendes",
-    "published_at": "2026-08-25T00:00:00",
-    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/whatsapp-security.jpg?quality=82&strip=all&resize=1200,628",
-    "url": "https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHBONG1EQWU2SmI3RnFnRTBpZEJocG4tSXJmSkM2WF9CY2dEQzJad3pvc3JyMi1EdXQ4TUZQem14b0tZSU1MM0JibHNGU0hMU1ZxZGhHSWJIXzJnTVI2R29ralNDVF9qOEJ2V045SjBBa1l3TEx2R096LV83enZZT0dkRHBqbEtmTGpYR1RhN0F0clhR?oc=5",
-    "content": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/08/whatsapp-security.jpg?quality=82&strip=all&w=1600) \nMeta today announced a set of new security features for WhatsApp, including expanded passkey support and stronger two-step verification. Here are the details.\nWhatsApp announces account security features\nMeta today announced that WhatsApp now supports more than one passkey for the same account, a welcome feature for users who use both iOS and Android devices.\nWhatsApp says more than 1 billion people now use passkeys to log back into their accounts with Face ID, Touch ID, or a screen lock code. The company first introduced passkey support on Android in October 2023 and expanded it to iPhone the following April.\nAdditionally, WhatsApp announced today that its two-step verification feature is expanding beyond a six-digit PIN to support full alphanumeric passwords, including special characters.\nAs WhatsApp explains, “two-step verification is an extra protection layer that helps prevent someone from taking over your account, even if they get hold of your one-time passcode,” and you can learn more about that here.\nFinally, alas, this last feature is only available on Android for now, WhatsApp is adding a feature designed to make calls from unknown contacts safer to pick up.\nFrom the press release:\nWhen you get a call from someone not saved in your contacts, a little context can help you decide whether to pick up. On Android, you’ll now see more information about a non-contact caller, like whether the number is from a different country and if you have any groups in common. Scammers rely on urgency – now you can take a beat with some more info before answering.\nIt is worth mentioning that iPhone users can rely on a similar feature for traditional phone calls. Apple’s Call Screening feature, available on iPhones running iOS 26, automatically asks unknown callers for their name and reason for calling before the iPhone rings. Although it does not work with WhatsApp calls, you can learn more about it here.\nTo learn more about the security features WhatsApp announced today, follow this link.\nWorth checking out on Amazon\n![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png) \n![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png) ",
-    "summary": "Meta has announced new security features for WhatsApp, including expanded passkey support and enhanced two-step verification options. Users can now register more than one passkey per account to accommodate multiple devices, and two-step verification now supports alphanumeric passwords. Additionally, Android users are receiving a new feature that provides extra context when receiving calls from unknown numbers.",
-    "key_points": [
-      "WhatsApp now supports multiple passkeys for the same account across iOS and Android devices.",
-      "Two-step verification has been upgraded from a six-digit PIN to support full alphanumeric passwords and special characters.",
-      "Android users can now see additional context for calls from unknown contacts, such as country origin and shared groups.",
-      "More than 1 billion people currently use passkeys to log back into their WhatsApp accounts."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-26T03:42:47+00:00"
   }
 ]
