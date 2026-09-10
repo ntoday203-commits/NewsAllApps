@@ -1,5 +1,29 @@
 [
   {
+    "id": "0b8de7fdaffa63f9e448ac32",
+    "title": "Several dead as Dutch tourist coach overturns in Switzerland",
+    "source": "Euronews.com",
+    "author": "Simon Ormiston",
+    "published_at": "2026-09-10T00:00:00",
+    "image": "https://images.euronews.com/articles/stories/09/90/93/13/1200x675_cmsv2_72d5cddb-0fb1-5589-a933-3f674c8ee0bc-9909313.jpg",
+    "url": "https://www.euronews.com/my-europe/2026/09/10/several-dead-as-tourist-coach-overturns-in-eastern-switzerland",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenNHNExtRm04RFZFX1ZSTmZvU0NQVkhXMXdDV0ZhS1B4NERnYnVMMXlZVWRjYzExdENiRkNUemxtNy1DWWRTb3d4M3E4MmpWV0FqbjVGZEl1U25VNjVNUUdpU09qSHFuWWZ4Z0JrRmpORzBvNG5XQmRsbFV1TkM5Um1CcjVsMVB6YzY4dkVmMkJZTGNXYzFGNEZYcGVBWVZoS3lzZFNNaHRlb2Q5?oc=5",
+    "content": "A coach believed to be carrying tourists through one of Switzerland's most scenic Alpine valleys has overturned near the entrance to the country's national park.\nA tour coach has overturned on a mountain road in the eastern Swiss canton of Graubünden, leaving several people dead and a number of others injured, authorities have confirmed.\nThe crash took place on Thursday on the stretch of road linking the villages of Susch and Zernez, deep in the Engadine valley.\nLocal police confirmed the fatalities via a post on X, though they have not yet released the number of victims, their nationalities, or any explanation for what caused the vehicle to leave the road.\nThe Dutch Federation of Travel Agencies (ANVR) told AFP that the coach belonged to the tour company Oad and was carrying 48 passengers, all of them from the Netherlands.\nTelevision footage from Swiss broadcasters showed emergency crews swarming the scene, working around the coach as it lay overturned on an embankment beside the carriageway. Helicopters were seen landing nearby to assist with the response.\nA police spokesman told AFP that the force did not wish to provide a more detailed toll until the victims' families had been informed.\nAccording to the ANVR, the coach left the Netherlands on Monday and was on a day trip to Switzerland from Austria when the crash happened.\nZernez sits at the gateway to the Swiss National Park, a rugged Alpine reserve covering more than 100 square kilometres across the Engadine region, and is a popular starting point for visitors exploring the region.\nPolice say the investigation into the cause of the crash is ongoing.",
+    "summary": "A tour coach carrying 48 Dutch passengers overturned on a mountain road in the eastern Swiss canton of Graubünden, resulting in several fatalities and multiple injuries. The crash occurred on Thursday on a stretch of road between Susch and Zernez in the Engadine valley while the vehicle was on a day trip from Austria. Local authorities and police are investigating the cause of the accident, with the exact death toll being withheld until families are notified.",
+    "key_points": [
+      "A coach carrying 48 passengers from the Netherlands overturned on a mountain road in eastern Switzerland.",
+      "The crash occurred on Thursday between the villages of Susch and Zernez in the Engadine valley.",
+      "Authorities confirmed multiple fatalities and injuries, but withheld exact numbers pending family notifications.",
+      "The vehicle belonged to the Dutch tour company Oad and was on a day trip from Austria.",
+      "Police have launched an ongoing investigation into the cause of the accident."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "WORLD",
+    "app": "uknews",
+    "collected_at": "2026-09-10T21:15:34+00:00"
+  },
+  {
     "id": "6e38ade037f40fe52090d096",
     "title": "Trump promise of $5,000 for US citizens after midterms decried as ‘bribery’",
     "source": "The Guardian",
@@ -2295,28 +2319,5 @@
     "topic": "WORLD",
     "app": "uknews",
     "collected_at": "2026-08-26T07:35:46+00:00"
-  },
-  {
-    "id": "b1fe205ccd30d5b848d223c5",
-    "title": "Pakistan PIMS: Live updates after fire breaks out at maternity ward in hospital",
-    "source": "BBC",
-    "author": "Live Reporting Edited by Yvette Tan; Usman Zahid; BBC Urdu",
-    "published_at": "2026-08-26T00:00:00",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aeb2/live/0740da50-a112-11f1-a291-b542ee92de7c.jpg",
-    "url": "https://www.bbc.co.uk/news/live/cwnvne65863zt",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1a0JRdGpiaVRONGlibDJnQWlDdFJfaXAtZ191ZjNiNklTeDhEMEVOWUZHNnhOT2gtamxrUUZxT2Vibk1JN19DektLRVFpcjR6QVhrc3RGdDA?oc=5",
-    "content": "We're slowly getting a picture of what happened inside the hospital.\nBBC Urdu quotes a spokesperson for the hospital as saying that the fire broke out in an air-conditioning unit and was quickly ignited by oxygen connections.\nThe infants in the fire-hit ward were either in incubators or hooked on oxygen equipment, Health Minister Mustafa Kamal tells Geo News.\nAccording to a hospital spokesperson interviewed by The Dawn, the newborn who survived was rescued by a doctor.\nFor context: Oxygen is not flammable on its own, but it is reactive and can accelerate a fire, making materials burn hotter and faster.",
-    "summary": "A fire broke out in the maternity ward of Pakistan Institute of Medical Sciences (PIMS) after an air-conditioning unit caught fire and was ignited by oxygen connections. Infants in the ward were in incubators or hooked up to oxygen equipment, and the only surviving newborn was rescued by a doctor. Officials noted that while oxygen is not flammable on its own, it accelerates fires and makes materials burn faster.",
-    "key_points": [
-      "A fire broke out in the maternity ward air-conditioning unit at PIMS hospital.",
-      "Oxygen connections in the ward quickly ignited and accelerated the fire.",
-      "Infants in the ward were using incubators and oxygen equipment.",
-      "A doctor successfully rescued the newborn who survived."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "WORLD",
-    "app": "uknews",
-    "collected_at": "2026-08-26T06:24:55+00:00"
   }
 ]
