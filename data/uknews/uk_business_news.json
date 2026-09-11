@@ -1,5 +1,29 @@
 [
   {
+    "id": "68ab2909247587a959ff8ff3",
+    "title": "Speed up electricity grid upgrade or else face higher bills, warns UK watchdog",
+    "source": "The Guardian",
+    "author": "Alex Daniel",
+    "published_at": "2026-09-11T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/ec84aa3de6a6a973af498257a475d74497620129/65_0_3358_2687/master/3358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abb7148b0468b4f0224af014417c7fd2",
+    "url": "https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog",
+    "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWFXU0EwbXRockNvc2dHbHRRcmRVQzV6X2ZCSDNDMlRsYnIxb3YtcF9yWHpYSDJyWmFlbjhEX00xcTlhNW9SN3Bvdkc3N0J3NUpQWTV2VmhaZWozRUgwYXlrVXhWUEJDUk9vUWJXN3NNYXpaZFRDVXpBa2RmSU43Q1RXQXJFOG1MM1VuOTF3M2FFaHg3T056T0RmVWhNOGxpNDBieXZhc1ZOQ0pUVmQ4QmNkcXM0YXUteFNkTkFBUjIwUDhx?oc=5",
+    "content": "Consumers will pay higher energy bills unless the UK government speeds up work on a vast programme of upgrades to the electricity grid to enable the switch to renewables, the public spending watchdog has warned.\nThe National Audit Office (NAO) said that without faster action the extra costs associated with managing the ageing power network, which are ultimately passed on to the public, could reach £7.8bn a year by 2030.\nA £70bn programme is under way to modernise Great Britain’s network of pylons, overhead lines and substations so that more power can be carried from wind and solar farms and other clean energy sources to homes.\nLabour has said its plan to decarbonise the grid by 2030 will keep consumer bills lower than they would otherwise be, but the NAO said that if the planned upgrades did not happen fast enough then bills could rise instead.\nOf the 80 projects it said were needed to meet the target, just 16 are finished and most are in their early stages.\nGareth Davies, head of the NAO, said the planned upgrades would “test systems not designed for activity at this pace or scale”.\nHe added “Value for money now depends on delivery. Failure to implement these necessary grid upgrades will hamper economic growth as well as increase consumer bills.”\nWhen the grid cannot carry enough electricity from where it is generated to where it is needed, the system operator pays windfarms to switch off and gas plants to switch on elsewhere to meet the demand. These so-called constraint costs are added to bills, and reached £1.9bn in 2025-26. Without faster upgrades, the NAO said, they could climb as high as £7.8bn by 2030.\nMeanwhile, the £70bn investment will require transmission owners – the private companies that build and manage the network – to more than quadruple their annual spending on upgrades, from £2.5bn in 2025-26 to more than £11bn by 2027-28.\nOfgem, the industry regulator, believes households would be about £30 a year better off if the upgrades happen at the required pace because of the reduced curtailment costs. But the NAO said meeting that schedule would be “very challenging”.\nIt said some of the projects were already forecast to run beyond 2030, meaning “some new generation” was likely to connect before necessary grid upgrades were completed.\n“It is important to minimise this gap, as delays will increase project and constraint costs and postpone the benefit of achieving clean power,” the NAO said.\nIt added that neither Ofgem, the National Energy System Operator (Neso), which balances the grid, nor the government publishes enough data on the cost and progress of projects, and called for more transparency.\nGeoffrey Clifton-Brown, the chair of parliament’s spending watchdog, the public accounts committee, said: “Renewables now generate the majority of the UK’s electricity, but the grid has failed to keep pace and is in dire need of upgrading to support the transition to clean energy.\nafter newsletter promotion\n“As one of our most important pieces of infrastructure, the grid must be capable of meeting rising demand whether that is from new homes or datacentres.\n“[The Department for Energy Security and Net Zero], Ofgem and Neso must deliver critical projects on time and provide transparent reporting so parliament and the public can hold them to account.”\nOfgem welcomed the recommendations, adding that the planned upgrades would “reduce costly constraints on the system and help shield consumers from volatile international gas prices”.\n“Protecting consumers and driving down costs remains our priority,” a spokesperson said. “Funding is released in stages, costs are rigorously scrutinised and companies face financial penalties if they fail to deliver.”\nThe energy minister Michael Shanks said: “This report is another stark reminder of the cost of years of historic underinvestment in the grid … Our once-in-a-generation reforms are finally building the infrastructure we need: reducing our dependence on the fossil fuels that leave households exposed to price spikes and helping lower people’s bills for good.”\nNeso also welcomed the NAO findings. A spokesperson said: “We are doing everything within our control to keep balancing costs down while maintaining security of supply and will continue working with government, Ofgem and network companies on the strategic planning needed to support delivery across the system.”",
+    "summary": "The National Audit Office has warned that UK consumers face higher energy bills unless the government accelerates a £70bn programme to upgrade the electricity grid for renewable energy. Without faster modernization, costs associated with managing the ageing network could reach £7.8bn annually by 2030 due to constraints. Out of 80 required projects, only 16 are completed, and meeting the necessary delivery schedule remains a very challenging task.",
+    "key_points": [
+      "Consumer energy bills could rise if grid upgrades do not keep pace with the transition to renewables.",
+      "Management costs for the ageing power network could reach £7.8bn a year by 2030 without faster modernization.",
+      "Only 16 out of the 80 necessary grid projects have been completed.",
+      "Private transmission companies must more than quadruple annual spending on upgrades to meet targets.",
+      "The NAO called for greater transparency and more data reporting on the cost and progress of projects."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-09-11T15:22:37+00:00"
+  },
+  {
     "id": "7812fe3861d7a68bd84d68a4",
     "title": "Burnham delays crucial North Sea drilling decision",
     "source": "The Telegraph",
@@ -2294,28 +2318,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-08-26T07:35:50+00:00"
-  },
-  {
-    "id": "6ad5eff81197158fef4a5c50",
-    "title": "Billionaire investor says he used AI to write critique of former mentee Scott Bessent",
-    "source": "The Guardian",
-    "author": "Uwa Ede-Osifo",
-    "published_at": "2026-08-26T00:00:00",
-    "image": "https://i.guim.co.uk/img/media/6b01fb3eb37cae07f49af38f9fecf97dd8606915/0_0_5270_4219/master/5270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5fda542c276ad4a91437d747854c575",
-    "url": "https://www.theguardian.com/us-news/2026/aug/25/scott-bessent-stanley-druckenmiller-ai",
-    "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlB0TWU0aHMzdXJKekcyS3RmS3d5d05RWEJfWHlOVU1FM2U5U0lCTGNLQVZMYXV6bUZ3YS1UQXlqWG1sdVItZWNRMldPckdWRjlfdEhJN0JzVFpFODdCYmRJa2l4VWcxWXN2R1FTYVJsS2l3SndZTjVqc3FjcDQxXzNWUVczWTVxZkhOQVVWQQ?oc=5",
-    "content": "Stanley Druckenmiller, a billionaire investor, said he used artificial intelligence to pen his viral Wall Street Journal op-ed in which he sharply criticized the interference of Scott Bessent, the US treasury secretary, in the US bond market.\nMany news outlets, including the Guardian, covered the editorial, highlighting Druckenmiller’s rebuke of his former mentee, Bessent. As the story circulated online, some readers questioned rhetorical choices that resembled AI-generated text.\nOn Tuesday, Druckenmiller admitted to using the technology.\n“I’m not embarrassed by it,” he told Notus.\nThe Wall Street Journal’s editorial page editor, Paul Gigot, defended Druckenmiller in a statement.\n“The question for us is whether what we publish from contributors reflects an author’s original argument, and if the author has the standing and credibility to make it. In Stan Druckenmiller’s case, we have had a relationship with him for many years, and nobody can doubt that his op-ed is his genuine opinion,” Gigot said.\nHe also called AI “a fact of modern life”.\nDruckenmiller further defended the choice in an interview with the Wall Street Journal. “At 73 I’m kind of proud of using it,” he said, also telling the paper: “These are my ideas and I’ve been speaking about them for over 15 years, as anyone who knows me knows. Would I prefer that I was a great writer? Yes, but that’s not who I am.”\nDruckenmiller, in his op-ed, opposed the US treasury doubling the size of its government debt buybacks.\nThe controversy comes as the media industry continues to grapple with its parameters around AI use.\nA UC Berkeley math professor came under heat this month for using AI to edit an op-ed in the San Francisco Standard. Zvezdelina Stankova maintained the piece, which argued that test-blind college admissions has resulted in under-prepared students, was the result of “intensive human work”. The Standard said, to their understanding, the piece reflected the “original analysis” of Stankova and her colleagues.\nIn March, the New York Times cut ties with a freelance journalist, whose use of AI resulted in plagiarism from a Guardian book review. The Times added an editor’s note to the journalist’s book review, noting a violation of its standards.",
-    "summary": "Billionaire investor Stanley Druckenmiller admitted to using artificial intelligence to help write his recent Wall Street Journal op-ed criticizing former mentee and US Treasury Secretary Scott Bessent. While readers questioned the text's rhetorical style, Druckenmiller and WSJ editors defended the choice, emphasizing that the ideas and opinions were entirely his own. The incident highlights ongoing media industry debates regarding the appropriate use of AI tools in published commentary.",
-    "key_points": [
-      "Billionaire investor Stanley Druckenmiller used AI to write a viral Wall Street Journal op-ed criticizing US Treasury Secretary Scott Bessent.",
-      "Druckenmiller and WSJ editorial page editor Paul Gigot defended the use of AI, stating the ideas and genuine opinions belonged to Druckenmiller.",
-      "Druckenmiller stated he is proud of using the technology at age 73 to help express arguments he has made for over 15 years.",
-      "The controversy adds to recent media industry discussions regarding ethical boundaries and standards for AI use in published articles."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-08-26T06:24:58+00:00"
   }
 ]
