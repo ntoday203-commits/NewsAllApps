@@ -1,5 +1,29 @@
 [
   {
+    "id": "aed98b69933719a9be7ccd04",
+    "title": "Sony reportedly ditched Hideo Kojima's Physint following missed deadlines, bloated budgets, and Death Stranding 1&2 missing sales expectations",
+    "source": "Eurogamer.net",
+    "author": "Connor Makar",
+    "published_at": "2026-09-11T00:00:00",
+    "image": "https://assetsio.gnwcdn.com/Physint-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "url": "https://www.eurogamer.net/sony-cancelled-physint-budget-profitability-exclusivity-missed-deadlines",
+    "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVV1NWtMZ0ZyeFZNMklhOFR6WWR3M3cxMDZoZFR5V3ZFcHB0cWMyYmlSTFY0MTJQU1JhM3JLSG5waGljM1hIeGlJY1lUc0hFZ2tETDdneFdhWmk1WUl6Y3VCTlJwQ3lvVXZwNkVyYjExV1lEZ1JldHdUbzZZOFphMk1WMWhDZ2pWb2d0aDRoU1dCaGRUMVBqclZieExmSWc?oc=5",
+    "content": "Following Sony's announcement earlier this week that it had \"stepped away\" from Kojima Production's previously PlayStation-exclusive \"action espionage\" Physint, a new report has claimed Sony's decision was the result of concerns over \"budget, potential profitability and exclusivity.\"\nSpeaking to Bloomberg, sources familiar with the project said a major factor behind the decision was the commercial performance of Hidea Kojima's prior two games, Death Stranding and Death Stranding 2. While both were critically acclaimed, they reportedly did not pull in the revenue Sony expected.\n![Cover image for YouTube video](https://i.ytimg.com/vi/FGa58WkfmYU/hqdefault.jpg) Physint - Kojima Productions Announcement | State of Play 2024\nIt's also claimed Physint was over budget, and had missed deadlines despite \"being years away from release.\" The game was also set to be published on other platforms aside from the PlayStation, and Sony was \"reluctant\" to invest hundreds of millions of dollars into a project that wouldn't be exclusive to its console ecosystem.\nThis follows reports earlier this year that Sony has abandoned its previous multi-format approach, and would no longer release its single-player PlayStation games on PC, instead keeping them PS5-exclusive. Physint, as an IP owned by Kojima Productions, would have run against this strategy. Bloomberg also notes that while Hideo Kojima and Sony have had a tight business relationship for decades, the PlayStation executives close to Kojima have left in recent years.\nSony has also faced significant software-related troubles in recent years, including 2024's Concord flop and Marathon's continued struggles, which has led the company to implement stricter production milestones, according to Bloomberg. This, in turn, has resulted in several game cancellations.\nAdditionally, Bloomberg notes the hardware cost crisis caused by the generative AI industry has made consoles more expensive, both for consumers to buy and for Sony to produce. As a result, the company is now focused on maximising revenue from its existing userbase, rather than pushing to grow its audience.\nEnter Xbox, which swooped in to pick up Physint following Sony's departure from the project. Microsoft's gaming arm has struggled with its own share of controversies in recent times, including sweeping layoffs and the ongoing impact of BTS boycotts.\nAccording to Bloomberg, Physint was seen as a good investment by Xbox due to its presence on PC, and its film and television rights, which aligns with prior statements from Xbox CEO Asha Sharma on pushing the company's franchises into different mediums.\nAn Xbox spokesperson even provided Bloomberg a statement when asked, saying, \"Betting on Kojima-san is an easy call. We believe in his team’s ability to build AAA games with groundbreaking, new IP and we believe in OD, Physint, and our growing partnership.\"",
+    "summary": "Sony reportedly walked away from Hideo Kojima's upcoming action espionage game Physint due to concerns over bloated budgets, missed deadlines, and the underwhelming sales performance of Death Stranding 1 and 2. Additionally, Sony was reluctant to fund a non-exclusive project amid a broader shift back toward PlayStation-exclusive software. Following Sony's departure, Xbox stepped in to pick up the project, citing the game's multi-platform presence and its associated film and television rights.",
+    "key_points": [
+      "Sony stepped away from Physint due to missed deadlines, over-budget issues, and profit concerns.",
+      "Death Stranding and Death Stranding 2 reportedly failed to meet Sony's revenue expectations.",
+      "Sony shifted away from multi-format releases, making Physint's non-exclusive status a conflict.",
+      "Xbox picked up the Physint project following Sony's departure.",
+      "Xbox values Physint for its PC presence and potential across film and television mediums."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-11T21:23:41+00:00"
+  },
+  {
     "id": "abd30eb3fd6c5e7cbef93769",
     "title": "Apple on wide Android foldables beating iPhone Duo; 'they got the aspect ratio'",
     "source": "9to5Google",
@@ -2300,28 +2324,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-26T09:29:26+00:00"
-  },
-  {
-    "id": "2a3b8c716437611341d842e8",
-    "title": "WhatsApp tightens account security with stronger two-step verification and more | TechCrunch",
-    "source": "TechCrunch",
-    "author": "Aisha Malik",
-    "published_at": "2026-08-25T00:00:00",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-    "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1R4bFlBSlFSY3QtbDcwQWwxbG1CVTZ1TGQtd1AtaVYzUkVjZzQyazlIVHB0TzVwMTAtMGtvT3BoRjFDa3ZDNGN3bWtHa19neGE0MFBtVy1NR3Vsdm1FUTVWUTVRYUdRQ0J5MkpFNTFWcGx4bndIWmNTUFJqMGVDWnJwY080dnc2ZVIxLVE2WDk4OHBzR2JEZUNKUG1sTjJ4VHd6bmNtZWRzclZ2ZjVRVGQ5T2U?oc=5",
-    "content": "WhatsApp announced Tuesday that it’s launching new security features and updates to help users keep their accounts secure, including stronger two-step verification and the ability to add more than one passkey to your account. The Meta-owned app is also adding context to calls from unknown numbers.\nThe updates come as WhatsApp and other messaging apps, such as Signal and Telegram, look to make account security easier and more accessible for everyday users, especially as phishing and hacking attempts have become more sophisticated over the years.\nUntil now, WhatsApp’s two-step verification has used a six-digit PIN as an extra layer of protection to prevent someone from taking over an account even if they’re able to obtain the user’s one-time passcode. Now, users can choose a longer, alphanumeric password with special characters to make the PIN harder to guess.\nAs for passkeys, users can now add more than one passkey to their account, which WhatsApps says will be useful if a person uses both iOS and Android.\n![](https://techcrunch.com/wp-content/uploads/2026/08/image_0acc47.png?w=680)\nPasskeys, which WhatsApp launched support for in 2024, are far stronger than passwords and allow users to log in to their accounts using Face ID or their fingerprint. Passkeys remove the need to rely on username and password combinations, which are ordinarily susceptible to phishing attacks. Passkey logins make it harder for bad actors to remotely access your accounts, as an attacker would need physical access to a person’s device that stores the user’s part of the passkey.\nAdditionally, Android users will now see more information when they’re getting a call from someone who isn’t in their contacts, like whether the number is from a different country and if they have any groups in common with the caller.\nThe latest features join the growing list of updates WhatsApp has rolled out in recent months. The company launched usernames in late June to allow people to share their profiles without disclosing their phone number. In late May, Meta launched a subscription plan for the messaging app that unlocks extra features, like profile customization, super reactions, story insights, and more.\nThe WhatsApp Plus plan launched alongside similar “Plus” offerings for Instagram and Facebook.",
-    "summary": "WhatsApp is rolling out new security features, including stronger alphanumeric two-step verification and support for multiple passkeys to make accounts more secure against phishing. The Meta-owned app is also providing Android users with more context when receiving calls from unknown numbers. These updates arrive alongside other recent platform additions, such as usernames and a paid WhatsApp Plus subscription plan.",
-    "key_points": [
-      "WhatsApp users can now choose longer, alphanumeric passwords with special characters for two-step verification.",
-      "Users are now able to add more than one passkey to their account, which is useful for people using both iOS and Android.",
-      "Android users will now see additional information, such as country origin and mutual groups, when receiving calls from unknown numbers.",
-      "WhatsApp recently launched usernames in June to let users share profiles without disclosing their phone numbers."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-26T08:27:50+00:00"
   }
 ]
