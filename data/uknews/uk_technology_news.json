@@ -1,5 +1,29 @@
 [
   {
+    "id": "b484cca7d7d7ce4fe7b44f4a",
+    "title": "Watch out: Apple timepiece can grab snippets of conversation without both speakers' consent",
+    "source": "The Register",
+    "author": "Thomas Claburn",
+    "published_at": "2026-09-10T00:00:00",
+    "image": "https://image.theregister.com/5295678.jpg?imageId=5295678&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "url": "https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYS0ta0hTUFEwdGdSdWpOMjltSlZERlotS1lZTkRvaHo2a2hXVHhyQk5FcFN0RC1FVm9DOEJORl80ZXdRd20yeTdiMkdzUDkyY2N6MXFMZnVyM1BSelJXT280czRmeDh0UjNNNFFmY1ZsUVhlTTVoanNQa3hxeFdwUlJaQ2hlRkcyQ1BXN0c2d0I2NGlJbXpQcjNGUEJDTjYzWVZsUW5ZZ0Nfd3BiZks5ZGRqWFVubE5nTUs3ZFVsQ1BQNEhzckJMek5EX1B0Ql9SdU9QX0EzSXJDX3AtNHc?oc=5",
+    "content": "TOP STORIES\n- \n                        \n                            SECURITY Watch out: Apple timepiece can grab snippets of conversation without both speakers' consentWar is peace. Freedom is slavery. Privacy is surveillance\n- \n                        \n                            SYSTEMS d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designsAI infrastructure startup joins Qualcomm, Arm, Marvell, Amazon, Fujitsu, and MediaTek as NVLink true believers\n- \n                        \n                            ai and ml Anthropic reveals fourth likely crime committed by its AIClaude's Felony Bench rap sheet is now as long as OpenAI's\n- \n                        \n                            SYSTEMS Samsung to help fortify OpenAI's semiconductor supply chainSemiconductor supply chains are hard, but Samsung offers OpenAI relief in many forms spanning compute and memory\n- \n                        \n                            AI+ML Google DeepMind rises above the AI scrum with genome atlasSee, AI can be used for good ... or at the very least, a useful distraction from the bad\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            Shopify extends lifeline to Tailwind as vibe coding erodes web dev platform's bottom lineAcquisition gives open source CSS framework 'a stable long-term home'\n- \n                        \n                            Switzerland tests a FOSS escape route from Microsoft 365Swiss Army sticks a knife in American cloud apps with its own FOSS push\n- \n                        \n                            Feel peak Windows was 7? You might like Kumander LinuxDebian and Xfce – solid, sensible choices – with a pretty skin\n- \n                        \n                            Canonical shuttering some of its legacy chat channelsThe Ubuntu Pastebin went in June, IRC gets demoted next\n- \n                        \n                            Audacity audio-editing app no longer looks like it's from the early 2000sThe FOSS tool for audio editing has a fresh coat of paint, and new features to boot\n- \n                        \n                            Haiku OS rises / Beta 6 sails open web / Virtual winds fly fastA real alternative to running some kind of FOSS Unix clone",
+    "summary": "Recent tech news highlights various cybersecurity concerns and industry developments, including a warning about Apple timepieces capturing conversation snippets without dual consent. Other notable updates cover Microsoft SharePoint zero-day attacks, Russian phishing campaigns posing as Signal support, and major investments in cybersecurity firms like Acronis. Additionally, reports detail advancements and partnerships in AI infrastructure, semiconductor supply chains, and open-source software projects.",
+    "key_points": [
+      "Apple timepieces can capture conversation snippets without the consent of both speakers.",
+      "Microsoft failed patches have left on-prem SharePoint under zero-day attack.",
+      "Russians are posing as Signal support to launch phishing attacks.",
+      "EQT has acquired a majority share in Swiss cybersecurity business Acronis.",
+      "Anthropic has revealed a fourth likely crime committed by its Claude AI model."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-11T11:54:04+00:00"
+  },
+  {
     "id": "3705f3a5526a2b69f511e877",
     "title": "LG defends smart-TV features amid audio surveillance allegations",
     "source": "Al Jazeera",
@@ -2299,28 +2323,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-26T06:25:04+00:00"
-  },
-  {
-    "id": "f46cdedcf4671e3e7bf03878",
-    "title": "City Builder LEGO Skylines Announced for PS5, and It Seems Like a Perfect Match",
-    "source": "Push Square",
-    "author": "Push Square; Stephen Tailby",
-    "published_at": "2026-08-25T00:00:00",
-    "image": "https://images.pushsquare.com/9f781b24a3af8/large.jpg",
-    "url": "https://www.pushsquare.com/news/2026/08/city-builder-lego-skylines-announced-for-ps5-and-it-seems-like-a-perfect-match",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2xKWWNxckVfTVdBTkEzLTZBM194czk1eEMzQmI4MzMtSjVtR2hZZHFVXzlMamdjSDJ6THRrU0dPaTRsVDhTSzJ0ZVZTWnZacXlTdFhjOUNGZklHQUl5eG5RWGNETWFneG5jT1NYbUtGaVF6ckN3NU5HMUJ6T1VKbkpHemZ0SHp3R1RUNFM0Y0hfMzNSd2JicUJ0RFFoQVhnRTF1eURfNnN0ckJsV0J3NUtPbzlKa0ZHUkE?oc=5",
-    "content": "![City Builder LEGO Skylines Announced for PS5, and It Seems Like a Perfect Match 1](https://images.pushsquare.com/9f781b24a3af8/city-builder-lego-skylines-announced-for-ps5-and-it-seems-like-a-perfect-match-1.900x.jpg)\nPublisher Paradox Interactive has just announced LEGO Skylines, and it's confirmed for PS5.\nThis is a city building sim from the development team currently also working on Cities: Skylines 2, which has yet to make its way to Sony's console.\nTake a look at the announcement trailer here:\nIf you ask me, a LEGO city builder seems like the perfect fit of genre and licence.\n![YouTube Video](https://i.ytimg.com/vi/y-XGB8_bQ3s/maxresdefault.jpg) Watch on\nSubscribe to Push Square on YouTube171k\nGoing by the official description on the game's PS Store page, it sounds quite freeform — or at least, it'll give you lots of options to build out your city how you want to.\nCover the basics like electricity, food, and water. Then make it a place your citizens will love. Give them homes that one-up the neighbors. Good jobs. Great parks. Donut shops on every corner because that would be awesome. A frankly absurd amount of buildings, decorations, and other cool stuff (customization stuff) will make it easy to create a city that’s got your fingerprints all over it.\nLEGO Skylines puts you in charge of, well, everything. Remember hospitals to keep everyone in one piece. Wheat for the donuts. Garbage collection, sewage, and all the other things that make a city click. How it all comes together is up to you. So stick your hard hat on and greenlight your weirdest ideas. Tweak one thing more times than you'd admit. And let yourself enjoy a little just-for-fun fun. It’s about the satisfaction of putting everything just where you want it. Which is, of course, exactly where it belongs.\nThere's no release date attached to this one yet — hopefully it's not too far off.\nAre you interested in LEGO Skylines? Tell us in the comments section below.\n[source youtube.com]",
-    "summary": "Publisher Paradox Interactive has announced LEGO Skylines, a new city-building simulation game confirmed for the PS5. Developed by the same team working on Cities: Skylines 2, the game offers freeform building with extensive customization options. Players will manage essential city services like utilities, jobs, and healthcare while designing their ideal LEGO city.",
-    "key_points": [
-      "LEGO Skylines has been announced by publisher Paradox Interactive for the PS5.",
-      "The game is developed by the same team currently working on Cities: Skylines 2.",
-      "Players must manage city basics such as electricity, food, water, garbage collection, and sewage.",
-      "The game features a wide variety of buildings, decorations, and customization options with no release date announced yet."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-26T05:21:50+00:00"
   }
 ]
