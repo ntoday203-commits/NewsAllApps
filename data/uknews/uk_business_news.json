@@ -1,5 +1,29 @@
 [
   {
+    "id": "864708e3a1dd8007660b2271",
+    "title": "UK economy defies forecasts with surprise 0.4% growth in July",
+    "source": "The Guardian",
+    "author": "Heather Stewart",
+    "published_at": "2026-09-11T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/f49d9e9a8437e74e903d1a39fc4f8fe65f8a42e0/312_0_3107_2487/master/3107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfd1af07407092f7bd0e5f6fbae5ea62",
+    "url": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEpKMzA2YmgtS2NQLW52ZURHamFVSmhpMzFyVklHNkRxMGY5UE5qU1dtZXVmdXRYTi1DLS1weVpKOExyVHItYVdaLXI3OElycW9XZ1hZWVBvNzBUMmRWdllxNHhVUXN0d0VJQllQTTVnSlFGRUM2a01pUTJIb0djUGhjRUhJWWFaY21WVk1weUw3YXhqSFJ1U2xoM0xMRFlsbUtWMlU0UkdmamE1?oc=5",
+    "content": "The UK economy grew in July despite the fallout from the Iran war, in welcome news for John Healey ahead of next month’s budget.\nFigures from the Office for National Statistics (ONS) showed a 0.4% increase in gross domestic product (GDP), compared with 0.3% growth in June.\nCity economists had forecast zero growth.\nWith conflict in the Middle East continuing to rattle the global economy, the news comes as the UK government’s borrowing costs have surged to the highest level in almost two decades.\nEconomists warn the rise in the global oil price- to well above $100 a barrel – is likely to stoke higher inflation worldwide.\nBritain recorded the strongest growth in the G7 in the first half of 2026 despite the onset of the conflict.\nEconomists have warned the chancellor could be forced to increase taxes or cut spending at his first budget on 28 October in response to rising interest rates after the war in Iran triggered turmoil in global bond markets.\nMore details to follow …",
+    "summary": "The UK economy grew by a better-than-expected 0.4% in July, outperforming economists' forecasts of zero growth. This positive news comes despite ongoing global economic fallout from the conflict in the Iran war and rising government borrowing costs. However, economists warn that soaring global oil prices and interest rates could force the chancellor to raise taxes or cut spending in the upcoming October budget.",
+    "key_points": [
+      "UK gross domestic product increased by 0.4% in July, following 0.3% growth in June.",
+      "City economists had forecast zero growth for July.",
+      "Britain recorded the strongest growth in the G7 during the first half of 2026.",
+      "Rising global oil prices above $100 a barrel threaten to increase worldwide inflation.",
+      "The chancellor may face pressure to increase taxes or cut spending in the 28 October budget."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-09-11T06:43:08+00:00"
+  },
+  {
     "id": "ad458029cacb4b3324a8015d",
     "title": "More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’",
     "source": "The Guardian",
@@ -2294,27 +2318,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-08-26T05:21:47+00:00"
-  },
-  {
-    "id": "6a2b6ac5ef25be44cf0cb2e6",
-    "title": "Tesla to recall almost three million vehicles over hidden door handles",
-    "source": "The Register",
-    "author": "Richard Speed",
-    "published_at": "2026-08-24T00:00:00",
-    "image": "https://image.theregister.com/5291780.jpg?imageId=5291780&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "url": "https://www.theregister.com/offbeat/2026/08/24/tesla-to-recall-almost-three-million-vehicles-over-hidden-door-handles/5291757",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0FNVmFOVTlVM2tmVkh0dFRfVXEtVGlZSVpVM0lmRTVDYkIxd09uR3I3bE1sUUxPLVVQS20yd1FCaVlxRWQzU1lXRWl5Z2NrME1kTTF1WDZ1bVBiQU5RVnFpdWRCRFk4aXl0SUREb1ItTEcxdm1mU21MRld6VmoxVEFFZ3JsRmRMQWFFTVhLMFQxZmZMdTBwRkQ5TGV1WVRDTi1FWURjR1JkRDg0TEtvWXRVSXY1YkhFQVEwdGFNQUxKOUU?oc=5",
-    "content": "TOP STORIES\n- \n                        \n                            ON-PREM EPA to drop requirement for public notice of polluting datacentersState and local regulators would decide whether the public gets a say on minor-source permits\n- \n                        \n                            SYSTEMS OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast128 chips, 1.7 exaFLOPS, and 27 TB of HBM give Altman and crew a leg up over Blackwell, and maybe even Rubin\n- \n                        \n                            SYSTEMS What Nvidia's first Groq 3 LPU benchmarks tell us about its $20B gambleGemma 4 31B performance tests offer a best-case scenario for next-gen dataflow accelerators\n- \n                        \n                            ON-PREM US datacenters tripled their water footprint in 10 years... and those are figures from the start of the AI boom. It can only be worse now. Silo-ed reporting isn't helping\n- \n                        \n                            ai and ML AI slop is good for business if you know what you're doingYour irresponsibility is someone else's opportunity\n- \n                        \n                            Security Russians are posing as Signal support to launch phishing attacksPLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!\n- \n                        \n                            Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attackPLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more\n- \n                        \n                            Black Hat and DEF CON DEF CON Franklin project enlists hackers to harden critical infrastructureVoting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included\n- \n                        \n                            Security EQT buys majority share in Swiss cybersecurity biz AcronisWent at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified\n- \n                        \n                            Malware Month Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sightOn the plus side, infosec's a good bet for a long, stable career\n- \n                        \n                            Emperor Penguin Linus Torvalds banishes a bug – with a botThe lad himself finds and fixes a tricky one… or does he?\n- \n                        \n                            FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash anotherWord up\n- \n                        \n                            GNOME can look like Windows – and Flashback can do it without extensionsNew 'Simple-taskbar' is an option, but there's a simpler, stabler way\n- \n                        \n                            A moment of silence, please, for the final release of Debian on x86-32New Debian versions hit FOSSland in the form of 13.6 and 12.15\n- \n                        \n                            Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websitesFlaws in iCagenda, Balbooa Forms extensions can impact open source CMS that powers a million sites worldwide\n- \n                        \n                            Frame: A new X11 server – implemented directly in assemblyJoins yserver, Phoenix, and of course XLibre – and outlier Arcan",
-    "summary": "The provided text contains navigation links and unrelated technology headlines, but does not include any article text about Tesla recalling vehicles due to hidden door handles. As a result, no factual summary can be generated from the article text provided.",
-    "key_points": [
-      "The article text provided consists entirely of unrelated headlines and navigation links.",
-      "No information regarding a Tesla vehicle recall is present in the text.",
-      "No facts are available to summarize the headline claim."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-08-26T04:28:18+00:00"
   }
 ]
