@@ -1,5 +1,28 @@
 [
   {
+    "id": "575ac1dfdf81aab514223b4e",
+    "title": "WhatsApp strengthens two-step verification, adds enhanced call information",
+    "source": "GSMArena.com",
+    "author": "Vlad",
+    "published_at": "2026-08-26T00:00:00",
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/08/whatsapp-improved-security/-952x498w6/gsmarena_000.jpg",
+    "url": "https://www.gsmarena.com/whatsapp_strengthens_twostep_verification_adds_enhanced_call_information-news-74338.php",
+    "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVqRnIxMEU1dExyb1Y2OTZXVkNSQ3RSUThWTU00UzdudTRTRmhxMEQ4QzlqOVgyVEUwZVhUcmtaOVB0RVgxN2JldHhQS05yWmptZWVVemJReEdMdFhPMy1fTm5fOVJGU2RvWVpTOTdSdUtxN252TFJTRHl1ZzZTU2RwZmQ0SGxvdmRpcVBSb2xnLXFjeGxZM1Y1NWRNRGxmbDZDVlI2YVE1Q1V4cWQwNlR30gGuAUFVX3lxTE1Ecjg4R19YTExDc3pqNXlxcEo5czB3NXRsbFk2SDlvcUhZTVZzYWdvVGRLeVA0ZW5NWURrd0NWN0Y2aTJ5aHpQeFQyeDZWRDRRR0lsbzE3ZDZTTDVhRmlZcDJ2YzhDYnUzTFV1YTVPeENMU3IyOHVJY0pjVTA1dXc1d3VhZ1VBYkc5NzFYSlAzTFJsdE9kOHd5akpjcHhfZXlXSjFMOGxSMGF0enhZdw?oc=5",
+    "content": "Today WhatsApp has announced some improved security features. First off, two-step verification is getting stronger. Before, it was a six-digit PIN. From now on, it will be a full password - longer, alphanumeric, and with special characters, making it harder to guess.\nNext up, call security. When you pick up a call from someone who isn't in your contacts, you'll see more information about the caller, like whether their number is from a different country, or if you have any groups in common. This will help protect against scammers, hopefully. The bad news is that this feature is only coming to Android for now.\nWhatsApp would also really like you to start using a passkey, which lets you log back into your account with your fingerprint, face, or screen lock code. WhatsApp says it's the \"fastest and most secure way to verify it's really you, with no codes or PINs\". More than a billion people have apparently already set one up, and you can now add more than one passkey to your account - which is useful if you use both Android and iOS devices, for example. Just go to Settings > Account > Passkeys.\nWhat a joke. This is so-called bragging privacy only relatively related to user-user or user-swindler (in some cases). They (wassup) in-house collecting, reading, analyzing everything.",
+    "summary": "WhatsApp has announced updates to its security features, including a stronger alphanumeric password option for two-step verification and enhanced call information for unknown numbers on Android. Additionally, users can now add multiple passkeys to their accounts for biometric login. These updates aim to improve account security and help users identify potential scammers.",
+    "key_points": [
+      "Two-step verification now supports longer, alphanumeric passwords with special characters instead of just a six-digit PIN.",
+      "Android users will see enhanced caller information for unknown contacts, such as country origin and shared groups.",
+      "Users can now add multiple passkeys to their accounts for biometric verification using fingerprints, faces, or screen locks.",
+      "Over a billion people have already set up passkeys on WhatsApp."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-26T16:10:00+00:00"
+  },
+  {
     "id": "d0ab7f7ad2b9bbe905bf2977",
     "title": "ROG Xbox Ally X20 Gets Official Price: $300 Extra for a Bigger OLED Screen, TMR Sticks and Translucent Golden Chassis",
     "source": "Digital Foundry",
