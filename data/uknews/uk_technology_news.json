@@ -1,5 +1,28 @@
 [
   {
+    "id": "d6096e2c6db94b6fd47bbf7c",
+    "title": "LG responds to TV spying allegations",
+    "source": "The Verge",
+    "author": "Terrence O'Brien",
+    "published_at": "2026-09-12T00:00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/LG-B4-Press-Image-3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+    "google_news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TWWlBbnJXMVRPOGdrdGZ3cngzVnRIb0NzVWNyaGZtb2c1YjhvTmF4NkgtZ1lLZGJmS2VNUUphQ1U1Zy1YazEyRllvZ3U2TzNlQ3o2RHk1eVllTlVXZkhzdElveUNURHdINUVjNFBWeEZRUnNmdGZDSGJDem9VQQ?oc=5",
+    "content": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG’s TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that “Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.”\nLG responds to TV spying allegations\nThe company claims reports about its capturing and uploading audio are misleading.\n![LG B4 Press Image 3](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/LG-B4-Press-Image-3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n![LG B4 Press Image 3](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/LG-B4-Press-Image-3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nLG released a statement in which it claims that its “TVs do not continuously record or transmit users’ conversations,” and that wake-word detection is all processed locally. However, the word “continuously” is doing a lot of heavy lifting here as Gamers Nexus demonstrated an LG TV keeping extensive logs of ambient conversations long after one would assume its AI assistant had stopped listening.\nLG also said that its features like “Automatic Content Recognition (ACR), voice recognition, and interest-based advertising are optional,” and “not enabled by default.” The company says that:\nACR uses audio fingerprinting technology using the TV’s internal audio processor (not a speaker) to identify content and does not collect screenshots, screen recordings, video recordings, voice recordings, or other audio recordings from the TV.\nThe company did not address broader concerns about how much data it collects, who it shares it with, the potential for bad actors to exploit its features, or the misleading way in which its privacy options are presented.",
+    "summary": "LG has responded to recent findings by security researchers and tech outlets regarding its smart TVs logging and uploading user data. The company stated that its TVs do not continuously record conversations and that features like voice recognition and Automatic Content Recognition are optional. However, LG did not address broader concerns about overall data collection, data sharing, or how privacy options are presented.",
+    "key_points": [
+      "Security researchers and tech channels detailed alarming data logging practices by LG smart TVs.",
+      "LG denied continuously recording or transmitting conversations, stating wake-word detection is processed locally.",
+      "The company emphasized that features like ACR, voice recognition, and interest-based advertising are optional and not enabled by default.",
+      "LG failed to address broader concerns regarding data collection amounts, third-party sharing, and privacy option presentation."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-12T17:29:21+00:00"
+  },
+  {
     "id": "104e64169793b8d036307c32",
     "title": "Samsung Trolls Apple by Hiring 'Tim Cook' to Endorse Galaxy Z Fold 8",
     "source": "uk.pcmag.com",
@@ -2299,29 +2322,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-26T16:10:00+00:00"
-  },
-  {
-    "id": "d0ab7f7ad2b9bbe905bf2977",
-    "title": "ROG Xbox Ally X20 Gets Official Price: $300 Extra for a Bigger OLED Screen, TMR Sticks and Translucent Golden Chassis",
-    "source": "Digital Foundry",
-    "author": "Digital Foundry; William Judd",
-    "published_at": "2026-08-25T00:00:00",
-    "image": "https://images.digitalfoundry.net/b57cf9693f77e/large.jpg",
-    "url": "https://www.digitalfoundry.net/news/2026/08/rog-xbox-ally-x20-gets-official-price-usd300-extra-for-a-bigger-oled-screen-tmr-sticks-and-translucent-golden-chassis",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON1hxblAtaU9MdzczUWdtT055UDA3aE1rbDRhTUd2b3dWRFFMUmhPQ055U3E4YWJfc2xnN1Q1ZVJneGlLVG13Z1RweFYtdE1BYzl4MlJYbWhicVBfMEFLT1p6cjQtSU8tQjRqazNrOUd1YXBUSWgteW9KaHZ3UEdja3VlMlhoaVdpalRCNWQ3b1NfLWxGeVhueEFaUjBYWklUMVo0bEhoN3dNS05GdnhQb1VydHlkUjBtdEdhMDVfcWlQamkxTERsMXpqYVZmUGprdW11c1NlQWZYY0xDUkk4Z1VKaWdYRl9SQjhLR0YwNk8wbDg?oc=5",
-    "content": "![Asus Xbox Ally X20 price and release date](https://images.digitalfoundry.net/b57cf9693f77e/asus-xbox-ally-x20-price-and-release-date.970x.jpg)\nThe Asus ROG Xbox Ally X20 caused a bit of a stir when it was announced back in June, as it crammed a larger 7.4-inch OLED screen into the Xbox Ally X, solving that handheld's only real weakness. It added some nice-to-haves too, including trendy TMR thumbsticks, MicroSD Express support and an exquisite semi-transparent chassis with golden details. The only issue is that it was intended to be a special Asus 20th anniversary limited edition bundled with expensive XR glasses - something that Asus is now revisiting.\nIn short, the ROG Xbox Ally X20 will be available as a proper standalone product, with an asking price of $1300. That's $300 more than the original Xbox Ally X handheld, but $700 cheaper than the similarly-OLED-equipped Lenovo Legion Go 2.\nThe UK pricing for the X20 is less favourable by comparison, with a £1300 price tag that means it comes at a steep £450 premium versus the original Xbox Ally X at £850.\nYou can also still pick up the X20 with ROG Xreal R1 Edition 20 XR glasses as intended, for a princely sum of $2500 or £2300. That bundle now comes with a dBrand Killswitch case to protect the handheld and a custom pelican case for the whole lot.\nThe standalone and bundle versions ship on October 15th, with pre-orders open now at the Asus US store and Best Buy. We'll update this article once the UK pre-orders are live.\nAre you interested in the handheld, or are you holding all tech purchases while the AI-fuelled component crisis continues? Let me know in the comments below.",
-    "summary": "The Asus ROG Xbox Ally X20 will be released as a standalone handheld on October 15th for $1300, which is $300 more than the original Xbox Ally X. It features a larger 7.4-inch OLED screen, TMR thumbsticks, MicroSD Express support, and a semi-transparent golden chassis. In the UK, the device will cost £1300, and a bundle including XR glasses will also be available for $2500 or £2300.",
-    "key_points": [
-      "The ROG Xbox Ally X20 standalone handheld is priced at $1300 in the US and £1300 in the UK.",
-      "It costs $300 more than the original Xbox Ally X.",
-      "Hardware upgrades include a 7.4-inch OLED screen, TMR thumbsticks, MicroSD Express support, and a translucent golden chassis.",
-      "A bundle featuring the X20 and ROG Xreal R1 Edition 20 XR glasses will cost $2500 or £2300.",
-      "Pre-orders are currently open, with shipping scheduled for October 15th."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-26T14:33:02+00:00"
   }
 ]
