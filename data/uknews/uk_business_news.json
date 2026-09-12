@@ -1,5 +1,29 @@
 [
   {
+    "id": "df97eef5727308fa7d611ec7",
+    "title": "Military aircraft reportedly blamed for UK air traffic control outage",
+    "source": "The Guardian",
+    "author": "Raphael Boyd",
+    "published_at": "2026-09-11T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/892fd7e4ecd0577b1cbbeeadcb3bc5d32a9a1c15/553_360_3142_2513/master/3142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01599c74e9aaab7e2f24451614ba6bab",
+    "url": "https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVNlOWpxTllOWWFGZU9FVFo0djE4RUxOZ2RZSERqanJBUzlKeUF2TjNyQ1JsdXdYcFZrakNUZVJOVmxCRjJNaXEyWGptY2lLMC1uR3p4c3gzdVFOTUNvZFZvM2l4ZExtdnRJSmJaazQxcHRaT1BScURfcjFtdHp3NEZobnpwVGFYUk16dGRhVHp1cjhuQlA1RXNOVFFvQWRjQXM4QXJ0QmRVa1FkRjI3Tk03TmRhZw?oc=5",
+    "content": "The air traffic control outage that caused thousands of flights to be grounded across the UK earlier in the week was caused by a military aircraft entering “spurious” flight data into the system, according to a report.\nHundreds of thousands of passengers were affected after more than 2,000 flights were cancelled on Tuesday when the system used by the National Air Traffic Services (Nats) shut down for four hours.\nAccording to the Financial Times, four people briefed on the incident claimed that the shutdown was caused by a flight plan submitted by a UK military aircraft, which caused a meltdown in air traffic control systems used by Nats which remained unfixed for several hours.\nThe paper also reported that Nats operations officer Kathryn Leahy called the operations managers of numerous airports and airlines, and “tensions boiled over” after Leahy informed them their flight processing system did not have a dedicated backup due to Nats being in the midst of a “complete overhaul of its systems” and because the amount of data it keeps meant duplicating it would cost “vast amounts”.\nThe crisis has put pressure on Martin Rolfe, the chief executive of Nats, who was summoned to a meeting by transport secretary Heidi Alexander on Wednesday.\nAlexander, who said she did “not believe the issue was unavoidable”, was understood to have given Rolfe a week to report on the causes of the shutdown, while also commissioning an independent review by the Civil Aviation Authority (CAA) into the incident.\nThe outage is the most serious to affect British commercial airspace since August 2023, when a technical problem led to almost 1,600 flights being delayed. Nats came under fire after that episode, with the CAA setting out 34 recommendations to improve its systems to avoid similar incidents, all of which were said to have been fully implemented.\nRolfe ruled out a cyber-attack, which was initially suspected, saying he “believes we’ve never seen an incident happen more than once, so this will be something different that we’ve never seen in 50 years of operation”.\nNumerous airlines have already called for Rolfe to resign or be fired over the outage. Ryanair’s chief executive, Michael O’Leary, accused Rolfe of “telling lies to save his own skin” and said his position was “untenable”.\nO’Leary added: “We don’t need more investigations, we don’t need more reports and we don’t need another parliamentary committee hearing where Martin Rolfe will promise change, will promise resilience and will promise an effective backup system.”\nThe delays led to someaircraft full of passengers being stuck waiting for information for more than four hours, while flights due to arrive in the UK were diverted to different airports, with some forced to land in Germany.\nDespite the far-reaching effect of the outage, it was understood that passengers affected were unlikely to be able to claim compensation, as delays were due to “extraordinary circumstances”.\nThe Ministry of Defence said it did not believe there was any indication of an error on the part of the military, but that it would be inappropriate to comment further until the Nats investigation had concluded.",
+    "summary": "A recent UK air traffic control outage that grounded over 2,000 flights was reportedly caused by a military aircraft entering spurious flight data into the National Air Traffic Services (Nats) system. The four-hour shutdown affected hundreds of thousands of passengers and prompted transport secretary Heidi Alexander to commission an independent review and demand a report from Nats chief executive Martin Rolfe. While Nats ruled out a cyber-attack, the incident has sparked intense criticism and calls from airline executives, including Ryanair's Michael O'Leary, for Rolfe to resign.",
+    "key_points": [
+      "A UK military aircraft's flight plan allegedly triggered the Nats system meltdown by entering spurious flight data.",
+      "The four-hour outage on Tuesday resulted in the cancellation of more than 2,000 flights and affected hundreds of thousands of passengers.",
+      "Transport secretary Heidi Alexander summoned Nats chief executive Martin Rolfe and commissioned an independent Civil Aviation Authority review.",
+      "Nats operations officer Kathryn Leahy revealed the system lacked a dedicated backup due to an ongoing overhaul and high duplication costs.",
+      "Airlines like Ryanair criticized Rolfe and called for his resignation, while affected passengers are unlikely to receive compensation due to extraordinary circumstances."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-09-12T14:28:53+00:00"
+  },
+  {
     "id": "03d6f7de7a91e4427e309e9f",
     "title": "UK Interest Rates Could Rise Four Times Over the Next Year | OilPrice.com",
     "source": "Crude Oil Prices Today | OilPrice.com",
@@ -2299,28 +2323,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-08-26T14:32:58+00:00"
-  },
-  {
-    "id": "4958c4d571fa565785fa7a00",
-    "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-    "source": "BBC",
-    "author": "Osmond Chia",
-    "published_at": "2026-08-26T00:00:00",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jWVdNblVlV1VydG1mSWV5bkVtU1dXS19CQ3hsZlh6VWFRUC1Nc1V5dFpRLTRJcGNudmlvOUJONkkwbzhUbUU3SDlNWHBmNlBoc0w2SVpPaWwxSV9a?oc=5",
-    "content": "![A SpaceX Falcon Heavy rocket blasting off in front of an industrial building with a huge SpaceX logo.](https://ichef.bbci.co.uk/ace/standard/823/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg)\nSpaceX already has facilities in Texas and Florida\n- Published\nMulti-billionaire Elon Musk's rocket company SpaceX has announced that it will build its largest launch site yet in the southern US state of Louisiana.\nConstruction of the $100bn (Â£73bn) project - named Starbase, Louisiana - is due to start next year, with the 125,000-acre (50,585-hectare) site expanding on the company's operations beyond its current Texas headquarters and locations in Florida.\nIt will be used to \"support thousands of Starship flights a year with missions launching to Earth orbit, the Moon, Mars and beyond,\" SpaceX said on Tuesday.\nIn June, SpaceX shares started trading on New York's technology-focused Nasdaq in the world's biggest ever stock market debut.\nSpaceX said it aims to launch its first Starship flight from the new Louisiana base in 2029.\nThe facility will add more than 3,000 jobs to the region, the company said, external.\nThe Louisiana Economic Development agency said the average wage of workers at the base - the largest of its kind in the world - would be 192% more than the region's current average salary.\nIt will also create more than 8,100 new jobs indirectly, the agency estimated.\n\"The historic project will establish Louisiana as a global hub for next-generation aerospace, with the capacity and infrastructure needed to dramatically increase launch frequency and expand access to space,\" it added.\nThe facility in Louisiana will share its name with another SpaceX site on the southern tip of Texas.\nIn 2025, residents in an area of Cameron County, where the company has testing and development operations, approved incorporating the patch of land as a city called Starbase.\nMusk has set out ambitious goals for SpaceX, including plans to reach Mars, develop artificial intelligence (AI) models and launch data centres into space.\nIn August, SpaceX and Tesla - Musk's electric vehicle and robotics firm - announced plans to build a $16.8bn artificial intelligence (AI) chip making complex in Texas called the Terafab.\nThe facility aims to meet the companies' growing demand for computing power to support its projects including developing AI and robotics technology over the coming years.\nThe newly-listed SpaceX is under pressure to convince investors that it will be profitable even as it pursues its expansion plans.\nIts shares have tumbled by more than 30% from the highs reached shortly after it began trading but are still higher than their $135 offer price.",
-    "summary": "Elon Musk's SpaceX has announced plans to build a $100bn launch facility named Starbase, Louisiana, set to begin construction next year. The 125,000-acre site aims to support thousands of Starship flights annually and launch its first flight from the base by 2029. The project is expected to create over 3,000 direct jobs and more than 8,100 indirect jobs in the region.",
-    "key_points": [
-      "SpaceX plans to build a $100bn launch site called Starbase, Louisiana, spanning 125,000 acres.",
-      "Construction is scheduled to start next year, with the first Starship flight targeted for 2029.",
-      "The project will add more than 3,000 direct jobs with high average wages, plus over 8,100 indirect jobs.",
-      "The facility is designed to support thousands of Starship flights a year to Earth orbit, the Moon, Mars, and beyond."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-08-26T13:44:24+00:00"
   }
 ]
