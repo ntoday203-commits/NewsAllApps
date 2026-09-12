@@ -1,5 +1,29 @@
 [
   {
+    "id": "bbca5629786b0db6ed3a1e13",
+    "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
+    "source": "Nature",
+    "author": "Dolgin; Elie",
+    "published_at": "2026-09-11T00:00:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02828-3/d41586-026-02828-3_53684220.jpg",
+    "url": "https://www.nature.com/articles/d41586-026-02828-3",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbUlJNUxCV1U5eHBqX1BiVTFtbUxEMURqZFRhdWtaZjZuWUhFZ2xrSjlqQmptcXl6QVA0M1ZfMEtQVmRVMlMycjYxUVVIZm01OWRQaEo0WG42Umd0NWJB?oc=5",
+    "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nOsteoporosis causes thin, porous bones that are prone to fracture, but a promising cell therapy might offer a way to strengthen them.Credit: Dr Tony Brain/SPL\nThe ten older women had, between them, broken their bones dozens of times, often after little more than a stumble. But after receiving a single infusion of their own bone-marrow cells, treated in the laboratory to help the cells penetrate bone tissue, the women’s fractures all but stopped.\nBefore treatment, the women — the participants of small clinical trial reported1 today in Cell — experienced fractures in their spines, hips, arms and other bones every year or two, on average. After the trial, the women experienced bone breaks caused by low-impact trauma at a rate closer to once per decade.\nThe results raise the tantalizing possibility that a one-time cell therapy could rebuild brittle bones in people with osteoporosis, an ageing-related condition that affects around 200 million women worldwide, particularly after menopause.\n“It’s quite remarkable,” says Ajit Varki, a physician-scientist at the University of California, San Diego who was not involved in the study. The trial “showed an almost 100% efficacy sustained for several years — and no side effects”.\nStill, the findings come with hefty caveats. The study was small, had no control group and most of its participants were taking conventional osteoporosis drugs before and during the trial, making it difficult to tease out the effects of the cell therapy.\nWhat’s more, the researchers did not directly track the therapeutic cells in the recipients’ bodies, leaving a crucial question unanswered: did enough of the cells reach the bones to make a difference?\nStraight to the bone\nRobert Sackstein, a regenerative-medicine specialist at the Miami Veterans Affairs Medical Center in Florida and a co-author on the study, is confident that they did. Sackstein has spent decades studying how various cells with regenerative potential — including bone-forming progenitor cells known as mesenchymal stromal cells (MSCs) — can be steered through the body for maximal therapeutic effect.\nMSCs, when injected into the bloodstream, cannot usually reach bone tissue. But in 2008, Sackstein and his colleagues found that adding a sugar called fucose to these stem cell-like cells enabled them to seek out and enter bones, leading to skeletal tissue generation in mice2.\nThe added sugars usually disappear within about two days, and are thought to work by fostering interactions between the MSCs and blood-vessel walls. Those interactions slow the cells, allowing them to squeeze into the bone marrow.\nAfter seeing the approach work in mice, Sackstein and his colleagues turned their attention to humans. According to the authors, few trials had tested MSCs for osteoporosis, and no trials in any disease had deliberately modified the cells to improve their trafficking ability. It took several years to fine-tune the manufacturing process3 and generate the required preclinical data before the trial could proceed.\nBut finally, in 2015, clinical collaborators in Spain led by bone-marrow transplant specialist José Moraleda at the University of Murcia, began the trial. They treated women aged 51 to 72, who had advanced osteoporosis and a history of fractures, with MSCs extracted from their own bone marrow and enhanced with fucose.\nEnjoying our latest content?\nLog in or create an account to continue\nAccess the most recent journalism from Nature's award-winning team\nExplore the latest features & opinion covering groundbreaking research",
+    "summary": "A small clinical trial found that a single infusion of modified bone-marrow cells dramatically reduced bone fractures in ten older women with advanced osteoporosis. The therapy involves treating the patients' mesenchymal stromal cells with a sugar called fucose to help them penetrate bone tissue. While experts call the results remarkable, researchers note important caveats, including the study's small size, lack of a control group, and concurrent use of conventional drugs.",
+    "key_points": [
+      "Ten older women with severe osteoporosis received a single infusion of their own bone-marrow cells treated with fucose.",
+      "The treatment reduced the rate of low-impact bone breaks from once every one to two years down to roughly once per decade.",
+      "Adding fucose to mesenchymal stromal cells helps them interact with blood-vessel walls and enter bone marrow.",
+      "The clinical trial was small and lacked a control group, leaving questions about the direct impact of the therapy.",
+      "Participants were also taking conventional osteoporosis drugs during the trial."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-09-12T06:36:37+00:00"
+  },
+  {
     "id": "13a1ef612e542f03b68bf1c6",
     "title": "A star is exploding 45 million light-years away — here's how you can see it",
     "source": "Space",
@@ -2290,28 +2314,5 @@
     "topic": "SCIENCE",
     "app": "uknews",
     "collected_at": "2026-08-26T07:36:07+00:00"
-  },
-  {
-    "id": "12e53c031519ba714e3b9c48",
-    "title": "3D-Printed Skin Gives Robots The Sensation Of Touch",
-    "source": "Hackaday",
-    "author": "Maya Posch",
-    "published_at": "2026-08-24T00:00:00",
-    "image": "https://hackaday.com/wp-content/uploads/2026/08/humanoid_touch_skin_haofeng_chen_et_al_arXiv_2026.jpg",
-    "url": "https://hackaday.com/2026/08/24/3d-printed-skin-gives-robots-the-sensation-of-touch/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVBrU0ZuOXVXMFd4Q1J2MmFkNm13RjlveWkwbFVyWWFXdldxVHhfOHk1REY5M2ZYcTVxWFVTUmpKb2JlS002VWpwSWpaaFVrVlk2RkZidHg0cGt3VG56b3FJTU0yWmgzUTRHdkMwV0ZhdFF3RHRnU01TS2xOMk55SFdTVE1pVjRuSU9NSA?oc=5",
-    "content": "![Schematic diagram of the touch-sensitive skin. (Credit: Haofeng Chen et al., ArXiv, 2026)](https://hackaday.com/wp-content/uploads/2026/08/Principle_3Dprinting4.png?w=400)\nHypoesthesia, more commonly referred to as numbness, is one of the more distressing ailments that can affect us humans, primarily because it reminds us of just how much we rely on our sensation of touch in daily life. From experiencing the world around us, handling objects, noticing when you just bumped into that side table again and the comforting hug of a fellow human being, touch is perhaps the most important of our senses.\nIn that regard the recently published research by [Haofeng Chen] et al. on giving robots a skin that can experience touch seems rather important as it would give especially humanoid robots a more natural way to interact with their environment, using feedback from touch.\n![Poking the artificial skin. (Credit: Chen et al., arXiv, 2026)](https://hackaday.com/wp-content/uploads/2026/08/humanoid_touch_skin_poking_haofeng_chen_et_al_arXiv_2026.jpg?w=400)\nOne of the essential parts of biological skin is that it is teeming with sensors, at a density level that provides excellent resolution as required, down to sensing e.g. small surface imperfections with one’s finger tips. Replicating this with an artificial skin for robotics has always been a problem, due to the wiring and/or reliability nightmare this poses with typical approaches. Instead of focusing on many individual sensors, [Chen] et al. focused on effectively creating the equivalent of a resistive touch screen in skin format.\nThe basic principle underlying the demonstrated artificial skin is electrical impedance tomography (EIT), which uses surface electrodes to form a tomographic image based on measures electrical resistivity. Core here is the flexible TPU layer with electrodes and the conductive fabric patches attached to the top TPU cover layer. The electrodes continuously measure the resistivity, with disturbances from those patches due to touch events on the cover layer altering these values. From this EIT can be used to reconstruct the location and strength of the touch event.\nThe results from the created prototypes were promising, with only 16 electrodes sufficing to create a fairly accurate pressure map. Hardware-wise this makes it thus quite uncomplicated, with the characterization of the TPU porosity and such along with the EIT algorithm (provided in the paper) probably being the biggest hurdles for hobbyist recreations.",
-    "summary": "Researchers led by Haofeng Chen have developed a 3D-printed artificial skin that gives robots the sensation of touch. Instead of using numerous individual sensors, the technology relies on electrical impedance tomography (EIT) using a flexible TPU layer and surface electrodes. Prototypes showed that just 16 electrodes can accurately map pressure and touch events.",
-    "key_points": [
-      "Haofeng Chen and colleagues published research on giving robots a touch-sensitive artificial skin.",
-      "The design avoids wiring nightmares by functioning like a resistive touch screen rather than using dense individual sensors.",
-      "The system uses electrical impedance tomography (EIT) to measure resistivity changes and locate touch events.",
-      "Prototypes successfully created accurate pressure maps using only 16 electrodes."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "SCIENCE",
-    "app": "uknews",
-    "collected_at": "2026-08-26T06:25:15+00:00"
   }
 ]
