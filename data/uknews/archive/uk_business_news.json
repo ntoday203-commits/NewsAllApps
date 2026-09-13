@@ -1,5 +1,29 @@
 [
   {
+    "id": "75ddfd001a59ace54148b344",
+    "title": "Nvidia’s quarterly revenue doubles to nearly $100bn as CEO declares ‘golden age’",
+    "source": "The Guardian",
+    "author": "Johana Bhuiyan",
+    "published_at": "2026-08-26T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/441cc239c0a9c1cb77f9fd26330d6659a544cdb8/833_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58e676d514a2163a740d182260c131fb",
+    "url": "https://www.theguardian.com/technology/2026/aug/26/nvidia-quarterly-revenue",
+    "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0dwRVVpU2ZPZGFQNWYwdTloOFNpNWJsTXlaaU1kUVAzeXJVakhPaVVocnJKY19ZdUxzeXJGM0E0bmVvZzA2QU95Y2t1T3lMTzZZSTlxMS1LNFJVRnNEN2lZT215SkpIdG1ZMF9rQld0bVJtVVg5WGtuOHI5Z1IzcA?oc=5",
+    "content": "Nvidia announced on Wednesday that its quarterly revenue had doubled in a year to nearly $100bn. Jensen Huang, the founder and CEO, jubilantly declared that demand is accelerating as the AI industry had reached a “golden age”.\nThe chipmaker, the most valuable company in the world with a $5tn market cap, brought in $96.2bn in revenue, beating Wall Street expectations of $92bn in the second quarter. That’s 106% more than the company saw in revenue this time last year. The company expects its revenue to continue to grow to $108bn by the end of the third quarter, higher than analysts predicted.\nThe company saw $89bn in datacenter revenue in the second quarter, a closely watched metric that likewise rose 117% year over year. The chipmaker also posted in $2.22 in earnings per share, surpassing Wall Street expectations of adjusted earnings of $2.09.\n“AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,” said Huang.\nThe stock rose nearly 4% after the earnings call after initially slipping, as investors look to Nvidia to set the bar for the rest of the AI industry.\nAs the manufacturer of the best-regarded chips of the AI boom, Nvidia’s earnings reports serve as a proxy for the entire industry. While many of the companies Nvidia supplies are working to decrease their reliance on it and build their own chips, Huang said that he remained confident that these companies will be buying from Nvidia for a long time.\n“I have 100% confidence that our technology will continue to be extraordinary for them,” Huang said on the company earnings call.\n“Nvidia is a platform – an entire AI factory platform that spans the entire AI lifecycle, which you can use in any cloud,” he continued. “It’s in every cloud. So we built something very different.”\nEmarketer analyst Jacob Bourne said the company “provides a strong argument for the durability of its position”.\n“Even extraordinary growth can fail to satisfy investors as scrutiny of AI spending and its financing intensifies,” said Bourne. “Yet Nvidia continues to deepen its relevance across the AI stack, expanding beyond training into inference, models, networking, and broader AI infrastructure.”\nafter newsletter promotion\nChip stocks have generally seen a downturn over the last few months with renewed questions about whether the billions of dollars AI companies are investing into building out AI will be worth it bubbling to the surface. Critics have also questioned the circular nature of Nvidia’s financing deal with its major clients.\nNvidia has attempted to ease those concerns by working with BlackRock, Blackstone, KKR, Apollo, Brookfield and Goldman Sachs to put together a $500bn pool of capital. The company also inked a deal to build out an 8GW datacenter in Ohio.",
+    "summary": "Nvidia reported that its second-quarter revenue doubled year-over-year to $96.2bn, surpassing Wall Street expectations and driven largely by $89bn in datacenter revenue. CEO Jensen Huang declared that the AI industry has reached a golden age with accelerating demand. Following the announcement, Nvidia's stock rose nearly 4% as the company projected further revenue growth of $108bn for the third quarter.",
+    "key_points": [
+      "Second-quarter revenue reached $96.2bn, representing a 106% increase from the previous year.",
+      "Datacenter revenue rose 117% year over year to reach $89bn.",
+      "The company surpassed Wall Street expectations with earnings of $2.22 per share.",
+      "Nvidia expects third-quarter revenue to reach $108bn.",
+      "The company assembled a $500bn pool of capital with major financial institutions to ease concerns regarding AI spending."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-08-27T13:12:31+00:00"
+  },
+  {
     "id": "fd1033751a584f5d96819061",
     "title": "What’s about to change on Facebook and Instagram: six key takeaways from the end of the Meta trial",
     "source": "The Guardian",

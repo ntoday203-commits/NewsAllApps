@@ -1,5 +1,28 @@
 [
   {
+    "id": "6abdd89143936fce2ef8802b",
+    "title": "Lab supply companies have been selling antibodies using manipulated images",
+    "source": "Ars Technica",
+    "author": "John Timmer",
+    "published_at": "2026-08-25T00:00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-2560x1440.jpg",
+    "url": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3pqYzZNd29vUWtYcUhsWUgtNG1EMWtXWEZnREh3OWVJYkwzdzlvY2k1N3JqdEdmd2lzT1BfSHJYTHhER1B5ODdfNVlVRER5WGhmWi1uMHZPeEh4eEdpRG54SUExMFZFRmFfTXp0TElpYVl4dWpESTJZNjRsQVhPUzJSTHRyTjVqYUVEc204M2tQT1UyeHVic1NiSFl2a2R6bWM2dHA5cDVZQzBtaHJrak1rRldDdw?oc=5",
+    "content": "Antibodies play a central role in your body’s immune defense. But they’re also nearly ubiquitous in biological research, being essential for several widely used lab techniques. While some researchers need to go through the process of producing their own antibodies, antibodies to many key proteins are commercially available and can be ordered for overnight delivery.\nIn May, however, Reese Richardson, a post-doc at Northwestern University, discovered that some of the images used to demonstrate how these antibodies performed in lab experiments had been subject to image manipulation—the sorts of changes that would get a paper retracted if they had appeared in the academic literature. The manipulations ranged from removing background noise to copying and pasting data to fabricate results. Now, he has done a more exhaustive search and found problematic manipulations in images used to market over 17,000 commercial antibodies.\nAntibodies are useful in the lab because the immune system generates them to recognize specific proteins. While those proteins typically appear on the surface of pathogens, the immune system doesn’t know where a given protein it encounters comes from. So, if you inject an animal with your protein of interest, it will typically generate antibodies to recognize that.\nThat recognition can be incredibly useful. If you prepare cultured cells appropriately, for example, you can use these antibodies to tell you where in the cell the protein is located. Similarly, you can use them to find out which tissues in an organ or embryo make your protein. Finally, you can collect all the proteins from a cell, separate them on a gel, and then see where the protein ends up, telling you whether it’s made, if it’s chemically modified, et cetera.",
+    "summary": "Commercial antibodies are essential tools in biological research, used to locate and analyze specific proteins in lab experiments. A post-doc researcher recently discovered that several lab supply companies have been using manipulated images to market their commercial antibodies. Following an exhaustive search, problematic image manipulations—ranging from noise removal to fabricated results—were found in listings for over 17,000 commercial antibodies.",
+    "key_points": [
+      "Commercial antibodies are widely used in biological research for techniques like tracking proteins in cells and tissues.",
+      "A researcher discovered that lab supply companies were using manipulated images to demonstrate antibody performance.",
+      "Manipulations found in marketing materials ranged from removing background noise to copying and pasting data to fabricate results.",
+      "Problematic image manipulations were identified in images used to market over 17,000 commercial antibodies."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-08-27T02:20:06+00:00"
+  },
+  {
     "id": "6d088180bd452dba22899252",
     "title": "The world’s largest camera has taken its most mind-blowing images yet | BBC Science Focus Magazine",
     "source": "BBC Science Focus Magazine",

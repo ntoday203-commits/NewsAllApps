@@ -1,5 +1,28 @@
 [
   {
+    "id": "c7f93f8dc605074dcd8d46fd",
+    "title": "NASA, IBM launch new AI model for studying the moon",
+    "source": "Space",
+    "author": "Julian Dossett",
+    "published_at": "2026-09-12T00:00:00",
+    "image": "https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n-2000-80.jpg",
+    "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
+    "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVBaUVBqTU51Q0JpYnMwcjdCS2VIVFEwa0dldDdVLXpQTm5Nd2NtMkk3Z3pfMkFnUFRmQnM0bzU2TEZ4OVlYNEt5VEgybFZVaU9WT2NYN3NEM3h2ZlVQcTNJSlpVOXlUY3NtNnhMbHl4NzVSTGR4MURtQ192Rks5eXZEYldvcmRWWGoya0VNTkM?oc=5",
+    "content": "![a grey, crater-marked orb on a black background](https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n.jpg) \nWe've been studying the moon for a long time. NASA has gathered mountains of data over decades of lunar missions and studies. The data collected by the Lunar Reconnaissance Orbiter (LRO) alone, for example, exceeds that of all NASA's other planetary missions combined.\nAnalyzing all this information takes lots of time and effort from researchers. So, NASA and IBM have developed an AI model to help sift through the moon data — an advance the agency announced on Thursday (Sept. 10). The open-source model, called the NASA-IBM Lunar Foundation Model, is currently available for free at Hugging Face.\n\"NASA has spent decades building an extraordinary scientific record of the moon, but collecting data is only part of the job,\" NASA's Kevin Murphy, chief science data officer and acting chief data and AI officer, said in the announcement.\nThe new AI model can help researchers with tasks like mapping craters, finding young volcanic features, and modeling possible locations of water ice near the lunar poles, according to NASA.\nIn the announcement, Murphy said that NASA needs to make scientific data easier to explore and use. To this end, NASA has been developing and releasing science-focused AI models with IBM. Previous models include one focused on Earth observation and another for heliophysics.\nThis is part of a larger trend of AI use in planetary science. Space agencies and private space companies around the world have been looking into how AI models can help with analysis to increase scientific productivity, reduce costs and streamline workflows.\n\"The NASA-IBM Lunar Foundation Model shows what's possible when we bring AI to NASA's petabytes of scientific data,\" Murphy said in the announcement. \"That's a real opportunity we see with AI: turning large-scale data into new discoveries.\"\nThe AI model was mostly trained on data from the LRO mission. Over 17 years, NASA's lunar orbiter has compiled a nearly complete mosaic of images that detail the moon's surface in high definition.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n![Julian Dossett](https://cdn.mos.cms.futurecdn.net/CJ8jDcZBPVPzEaohB3iTL.jpg) \nJulian Dossett is a freelance writer living in Santa Fe, New Mexico. He primarily covers the rocket industry and space exploration and, in addition to science writing, contributes travel stories to New Mexico Magazine. In 2022 and 2024, his travel writing earned IRMA Awards. Previously, he worked as a staff writer at CNET. He graduated from Texas State University in San Marcos in 2011 with a B.A. in philosophy. He owns a large collection of sci-fi pulp magazines from the 1960s.",
+    "summary": "NASA and IBM have launched a new open-source AI model designed to help researchers analyze decades of lunar data. The NASA-IBM Lunar Foundation Model assists with tasks such as mapping craters, identifying young volcanic features, and modeling water ice locations near the poles. Trained primarily on data from the Lunar Reconnaissance Orbiter, the tool aims to make large-scale space data easier to explore and use.",
+    "key_points": [
+      "NASA and IBM developed the open-source NASA-IBM Lunar Foundation Model to sift through extensive moon data.",
+      "The AI tool is available for free at Hugging Face and was mostly trained on data from the Lunar Reconnaissance Orbiter.",
+      "It helps researchers map craters, find young volcanic features, and model potential water ice locations near the lunar poles.",
+      "This release is part of a broader trend of utilizing AI in planetary science to increase productivity and reduce costs."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-09-13T06:53:02+00:00"
+  },
+  {
     "id": "1bbfde79f5176c85c433cda2",
     "title": "The torch of the Statue of Liberty has been closed to the public since 1916, when German saboteurs blew up a munitions depot nearby and shrapnel tore into the statue's arm — in the 110 years since, no visitor has been allowed back up the ladder",
     "source": "Space Daily",
@@ -2289,28 +2312,5 @@
     "topic": "SCIENCE",
     "app": "uknews",
     "collected_at": "2026-08-27T13:13:17+00:00"
-  },
-  {
-    "id": "6abdd89143936fce2ef8802b",
-    "title": "Lab supply companies have been selling antibodies using manipulated images",
-    "source": "Ars Technica",
-    "author": "John Timmer",
-    "published_at": "2026-08-25T00:00:00",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-2560x1440.jpg",
-    "url": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3pqYzZNd29vUWtYcUhsWUgtNG1EMWtXWEZnREh3OWVJYkwzdzlvY2k1N3JqdEdmd2lzT1BfSHJYTHhER1B5ODdfNVlVRER5WGhmWi1uMHZPeEh4eEdpRG54SUExMFZFRmFfTXp0TElpYVl4dWpESTJZNjRsQVhPUzJSTHRyTjVqYUVEc204M2tQT1UyeHVic1NiSFl2a2R6bWM2dHA5cDVZQzBtaHJrak1rRldDdw?oc=5",
-    "content": "Antibodies play a central role in your body’s immune defense. But they’re also nearly ubiquitous in biological research, being essential for several widely used lab techniques. While some researchers need to go through the process of producing their own antibodies, antibodies to many key proteins are commercially available and can be ordered for overnight delivery.\nIn May, however, Reese Richardson, a post-doc at Northwestern University, discovered that some of the images used to demonstrate how these antibodies performed in lab experiments had been subject to image manipulation—the sorts of changes that would get a paper retracted if they had appeared in the academic literature. The manipulations ranged from removing background noise to copying and pasting data to fabricate results. Now, he has done a more exhaustive search and found problematic manipulations in images used to market over 17,000 commercial antibodies.\nAntibodies are useful in the lab because the immune system generates them to recognize specific proteins. While those proteins typically appear on the surface of pathogens, the immune system doesn’t know where a given protein it encounters comes from. So, if you inject an animal with your protein of interest, it will typically generate antibodies to recognize that.\nThat recognition can be incredibly useful. If you prepare cultured cells appropriately, for example, you can use these antibodies to tell you where in the cell the protein is located. Similarly, you can use them to find out which tissues in an organ or embryo make your protein. Finally, you can collect all the proteins from a cell, separate them on a gel, and then see where the protein ends up, telling you whether it’s made, if it’s chemically modified, et cetera.",
-    "summary": "Commercial antibodies are essential tools in biological research, used to locate and analyze specific proteins in lab experiments. A post-doc researcher recently discovered that several lab supply companies have been using manipulated images to market their commercial antibodies. Following an exhaustive search, problematic image manipulations—ranging from noise removal to fabricated results—were found in listings for over 17,000 commercial antibodies.",
-    "key_points": [
-      "Commercial antibodies are widely used in biological research for techniques like tracking proteins in cells and tissues.",
-      "A researcher discovered that lab supply companies were using manipulated images to demonstrate antibody performance.",
-      "Manipulations found in marketing materials ranged from removing background noise to copying and pasting data to fabricate results.",
-      "Problematic image manipulations were identified in images used to market over 17,000 commercial antibodies."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "SCIENCE",
-    "app": "uknews",
-    "collected_at": "2026-08-27T02:20:06+00:00"
   }
 ]
