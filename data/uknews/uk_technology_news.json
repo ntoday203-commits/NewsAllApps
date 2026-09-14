@@ -1,5 +1,28 @@
 [
   {
+    "id": "5954653f2029a5cd148e7f20",
+    "title": "Google rolls out Motion Assist bubbles to Pixel, Samsung",
+    "source": "9to5Google",
+    "author": "Abner Li",
+    "published_at": "2026-09-14T00:00:00",
+    "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Motion-Assist-cover.jpg?quality=82&strip=all&resize=1200,628",
+    "url": "https://9to5google.com/2026/09/14/android-motion-assist-pixel-samsung/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCSHlJWGJyUkotSDhjdnFhVDR2Zk9hMHplbndOd2NBRFV2OERnLVNWNzc5aV9laWEzVF8zaU8zVGpocEJja2FTdHBpRV90dTFjb1ZtNFdNTWRkSWhaWnRmM2M3czBUS3UxdFptUDA1eGlpa05pTUdzNFdR?oc=5",
+    "content": "![](https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Motion-Assist-cover.jpg?quality=82&strip=all&w=1600) \nAfter announcing earlier this month, Google has rolled out Motion Assist to Pixel and Samsung phones running Android 17.\nThe aim is to reduce motion sickness when you’re in a car, bus, or other moving vehicle with an onscreen bubbles overlay that adjusts to the device’s motion.\nTo enable, search for “motion assist” in the Settings app or open the Quick Settings editor and scroll down to “From system apps” (on Pixel). The long route is Settings app > Google > All services tab > Personal & device safety > Motion assist. Part of Google Play services, it appears alongside Advanced Protection and Theft protection.\n![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-Motion-Assist-2.jpg?ssl=1)\n![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-Motion-Assist-1.jpg?ssl=1)\nThis menu lets you have Motion Assist automatically “Start in a moving vehicle,” but Google also recommends adding a Quick Settings Tile to manually enable and disable “from any screen.” Once active, there’s also a silent system notification that lets you disable with a tap. On most phones, you get two columns of shapes on the left and right edges.\nThe Customize menu lets you adjust:\n- Color: Based on system (Dynamic Color), Red, Yellow, Green, Blue\n- Shape: Circle, Square, Pentagon, Diamond\n- Opacity: Slider\n- Randomization: “Color and shape change every few seconds”\nAs of today, Motion Assist has widely rolled out on all our Google Pixel and Samsung Galaxy (Fold 8 series) devices running Android 17. Be sure to restart your phone if it’s not yet live. We’re seeing the bubbles with version 26.33.32 of Google Play services.\n![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-Motion-Assist-3.jpg?ssl=1)\n![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-Motion-Assist-4.jpg?ssl=1)\n![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png) \n![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png) ",
+    "summary": "Google has rolled out the Motion Assist feature to Pixel and Samsung devices running Android 17. The tool uses an onscreen bubbles overlay that adjusts to vehicle motion to help reduce motion sickness. Users can enable the feature through device settings or a Quick Settings tile, and customize its color, shape, opacity, and randomization.",
+    "key_points": [
+      "Motion Assist is available on Pixel and Samsung phones running Android 17.",
+      "The feature aims to reduce motion sickness using onscreen bubbles that react to vehicle movement.",
+      "It can be found in the Settings app under Google Play services or toggled via a Quick Settings tile.",
+      "Users can customize the appearance of the bubbles, including color, shape, opacity, and randomization settings."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-14T22:48:46+00:00"
+  },
+  {
     "id": "df041224e626ac6bc2c133fa",
     "title": "Xbox's Asha Sharma Wants To Better Understand Players, So She's Helping With Customer Support",
     "source": "Pure Xbox",
@@ -2302,28 +2325,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-30T00:52:50+00:00"
-  },
-  {
-    "id": "a6e464b16e1b0ea3a6e88bcf",
-    "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking",
-    "source": "Push Square",
-    "author": "Push Square; Sammy Barker",
-    "published_at": "2026-08-29T00:00:00",
-    "image": "https://images.pushsquare.com/51d6d8a618495/large.jpg",
-    "url": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPem0yZG53NDY5c2c4ay1oM0ZZMjBWalZfSEpxcUc3RWxpQWVsN2xxaURMeFRiZlBFVGdRUEtBLXpuS0JNdmQwclozNkVXSWpHWkNLVnZsY2FZUWprTzYxV1M0OTgycGZBTjVpRGNaRXpGbkJjYTkxcmY1Yl8teW1rd3pNN0psbDZuU1Z1QkhHUUw4NUdUT3VxdnpGbHd3ZmFUcm5ibUx4cE9laGVPczlyWFN0bkxKeUEtM1kyZVU3eUJyYlhTcGVPaHdRVQ?oc=5",
-    "content": "!['This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Added to Every Major PS5 Game After Leaking 1](https://images.pushsquare.com/51d6d8a618495/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-added-to-every-major-ps5-game-after-leaking-1.900x.jpg)\nNvidia’s controversial new DLSS 5 filter, which caused a bit of a hullabaloo earlier this year, has leaked online – and instantly been implemented into pretty much every major PS5 game on the market.\nWhile previous iterations of Nvidia’s upscaling technology have broadly been praised – using reconstruction techniques to reduce computational load without impacting image quality – this version appears to use generative AI to alter artistic intent.\nThis was best observed with an example of Resident Evil Requiem’s Grace Ashcroft earlier in the year, with fans complaining the scaredy-cat heroine had been “yassified”.\nAnd now a version of the technology’s files have been pulled from the PC version of NBA 2K27, which has prompted fans to inject it into a variety of different titles – including many of Sony’s biggest franchises, via their Steam ports.\nFor example, MJ from Marvel’s Spider-Man 2 looks transformed, with bright red lips and darker coloured eyes.\nWhile she’s still recognisable, it strips away the artistic intent of the original model – regardless of whether you like Insomniac’s take on the character or not.\nI personally don’t think this Ellie example is the worst I’ve seen, although she looks years and years older than she’s supposed to and the lighting doesn’t properly match the scene:\nAnd then we have this now infamous example of Cloud from Final Fantasy 7 Rebirth, which borders on parody really:\nNvidia, for the record, says critics are wrong about DLSS 5.\nCEO Jensen Huang defended the technology, saying it “doesn't change the artistic control”.\nHe said: “This is very different than generative AI; it’s content-control generative AI. That’s why we call it neural rendering.”",
-    "summary": "Nvidia's leaked DLSS 5 filter files from NBA 2K27 have been used by fans to modify major PlayStation games and their Steam ports. Unlike previous praised versions, this iteration appears to use generative AI to alter character models and artistic intent, drawing criticism from fans. Nvidia CEO Jensen Huang defended the technology, stating it uses content-control generative AI known as neural rendering and does not alter artistic control.",
-    "key_points": [
-      "Nvidia's controversial DLSS 5 filter files leaked online from the PC version of NBA 2K27.",
-      "Fans have injected the technology into major PlayStation games and PC ports, altering character appearances.",
-      "Critics argue the filter strips away the original artistic intent of characters like MJ, Ellie, and Cloud.",
-      "Nvidia CEO Jensen Huang defended DLSS 5, asserting it uses content-control generative AI called neural rendering rather than changing artistic control."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-29T22:52:42+00:00"
   }
 ]
