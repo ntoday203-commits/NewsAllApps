@@ -1,5 +1,28 @@
 [
   {
+    "id": "ea971d451f560bff8097e237",
+    "title": "DLSS 5 Patched to Work on RTX 4000 \"Ada Lovelace\" GPUs Despite No Official Support",
+    "source": "TechPowerUp",
+    "author": "DrUsmanSaleem Discuss",
+    "published_at": "2026-08-28T00:00:00",
+    "image": "https://www.techpowerup.com/img/cFxxKlXUNA2hUdg1.jpg",
+    "url": "https://www.techpowerup.com/352086/dlss-5-patched-to-work-on-rtx-4000-ada-lovelace-gpus-despite-no-official-support",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNelhBY3JTVGhXaTQtdmxfUFlfdkEzQTR6S19sLW11YUZyNEdTbmkwTjdSTHQ5aTV3OTU1RG9qc0UtbHJMR0lNNmlTc0tHLTE2ZU5zTnEzZV9IX2p3b3hRMTROb0ZUdVFJemZiaEFEN2Rmd2p3V2piNGRlTWtFX012TmEtZEp2amtENmR5a0ZONTNubW1qX3VuQTdsY0pkUnY2Z1dKNWE3ZjNyMVRCbW9aMExVYU5oUdIBuwFBVV95cUxPbENma0hXUG9VaDJtZjlpa1BqY296U0N4X0xQSTMwMEdfSkd4SW45dGtsdGhJRThnUVEtSWFjT1kwWnpQT0Y3OE5MRklHaVEzbWtCQTQyM1o4TEcwdFFDc29wRHh6Vm9CeHVsSUlWVS1wckx3SV96Q3NZVjFaSGgxVDVXVlQ4bEVaelpRNXZKZ29fUmg2LUpCUVJ6OUdxRnBuM2JuVzlEaXpyR3A2WDdsQ2pMaXBDZmJyUHRJ?oc=5",
+    "content": "Friday, August 28th 2026\n\t\n\t\t\n![NVIDIA](https://tpucdn.com/images/news/nvidia-v1788010518.png) \nThe modding community has been hard at work ever since the untimely release of DLSS-NR, a precursor to DLSS 5. Now, modders have gotten NVIDIA's leaked DLSS 5 tool working on RTX 4000 series cards, even though the tool was only built for RTX 5000 Blackwell hardware. The DLL leaked earlier this week via an early-access build of NBA 2K27, and people on the RenoDX Discord quickly got it running in other games using ReShade and RenoDX.\nAs we noted in our DLSS-NR breakdown, the AI model runs on FP8, which Ada Lovelace GPUs support just fine, but the compiled binaries inside the file only targeted Blackwell's sm_120 architecture, with nothing built for Ampere or Ada. A modder going by \"Uncle Burrito\" has apparently fixed that by hunting down the incompatible binaries and swapping in ones built for Ada. Tom's Hardware confirmed the patch works on an RTX 4080, and said other developers in the same Discord are working on their own versions of the fix.\n![](https://tpucdn.com/img/cFxxKlXUNA2hUdg1_thm.jpg) It's still early and rough around the edges, and there's no word yet on whether NVIDIA plans to officially support older cards at launch. However, given how quickly modders cracked this open, it looks like NVIDIA may have little choice but to consider it. Older cards like Ampere could be a tougher case though, since they lack native FP8 support altogether.\n\t\t\n\t\tSources:\n\t\t\t\tUncle Burrito on YouTube, \t\t\t\tTom's Hardware\t\t\t\n\t\n\t\n\t\n\t\t\n\t\n\t\t\nAs we noted in our DLSS-NR breakdown, the AI model runs on FP8, which Ada Lovelace GPUs support just fine, but the compiled binaries inside the file only targeted Blackwell's sm_120 architecture, with nothing built for Ampere or Ada. A modder going by \"Uncle Burrito\" has apparently fixed that by hunting down the incompatible binaries and swapping in ones built for Ada. Tom's Hardware confirmed the patch works on an RTX 4080, and said other developers in the same Discord are working on their own versions of the fix.\n![](https://tpucdn.com/img/cFxxKlXUNA2hUdg1_thm.jpg) ",
+    "summary": "Modders have successfully patched NVIDIA's leaked DLSS 5 tool to function on RTX 4000 \"Ada Lovelace\" graphics cards, despite the software officially targeting only RTX 5000 Blackwell hardware. The leak originated from an early-access build of NBA 2K27, prompting modders to swap incompatible binaries for Ada-compatible ones. While confirmed to work on an RTX 4080, it remains uncertain if NVIDIA will officially extend support to older hardware generations.",
+    "key_points": [
+      "A leaked DLSS 5 DLL file, originally built exclusively for Blackwell architecture, was cracked by the modding community.",
+      "A modder named \"Uncle Burrito\" fixed the architecture incompatibility by swapping binaries to support Ada Lovelace GPUs.",
+      "Tom's Hardware confirmed the resulting patch successfully operates on an RTX 4080.",
+      "Older Ampere cards may struggle to receive official support because they lack native FP8 hardware capabilities."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-08-29T14:44:29+00:00"
+  },
+  {
     "id": "4e621715f6da81b76528165a",
     "title": "How to watch Apple’s iPhone 18 Pro and iPhone Ultra launch live",
     "source": "Trusted Reviews",
