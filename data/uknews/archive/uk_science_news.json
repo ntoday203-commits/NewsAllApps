@@ -1,5 +1,28 @@
 [
   {
+    "id": "9d5c27ebac0bd5b492c9a9f4",
+    "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+    "source": "Ars Technica",
+    "author": "Eric Berger",
+    "published_at": "2026-08-26T00:00:00",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/interlune.jpg",
+    "url": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXhabzN2Q3QtckpuOGw3cGhxV3lBYUExTjlfb19yVlhXYzRtR1lVRHRQMGRnWEktSjdnN0RreUFDRmk4WkpYR0VEdUw2eFc5VUU0c0JfRzlnRFA0RkxDdnh6c1EySkVEZm1WTGtKSE5IU2k4WlVxMDRjSk5VWHVhLVExel9RMEVmUDZwcF8yaE5tVF9iZ0d3R2Z2THFWcDdObGpDX3R4Qnd6MS12SzdV?oc=5",
+    "content": "As part of its nuclear fusion processes, the Sun produces a particularly interesting isotope of helium, known as helium-3. Some of this helium-3 escapes the Sun’s gravitational pull as part of the solar wind, a stream of charged particles that emanates out across the Solar System.\nOver billions of years, this wind has bombarded every body in the vicinity of the Sun, including Earth’s Moon. Lacking a magnetic field or atmosphere, the Moon’s surface has no barrier to prevent the constant flow of this wind.\nThis means that helium-3 has been striking the lunar soil, or regolith, for a long time. These helium ions penetrate only a little way into the individual grains of this soil, but periodically meteorites have struck the lunar surface to churn the soil, mixing some of this helium-3 a little below the surface.\nThe concentrations of helium-3 are not super high, perhaps only 10 to 20 parts per billion in some titanium rich soils, which retain the helium ions better. But they are far higher on the Moon than on Earth, which is largely shielded from the solar wind.\nCan the helium-3 actually be mined?\nThe presence of helium-3 on the Moon has long been an object of fascination for some scientists and engineers on Earth, most notably geologist and Apollo 17 astronaut Harrison “Jack” Schmitt. Long-term, they believe helium-3 could provide energy through a fusion reaction. But in the near term there are more practical uses, such as cooling materials to ultra-low temperatures, medical research, and neutron detection. This makes helium-3 one of the only known materials on the Moon that could plausibly be mined there and returned to Earth for a profit.\nFor this reason, a handful of companies, including a Seattle-based firm called Interlune, have been interested in potentially mining the helium-3 on the Moon. But before any company can send a full-scale extractor to the Moon to attempt to sift through regolith and collect helium-3, someone should probably attempt to determine whether this is physically practical.",
+    "summary": "The Sun produces helium-3, which travels via solar wind and accumulates in the Moon's soil because the Moon lacks an atmosphere or magnetic field. Although concentrations are low, helium-3 is valuable for potential fusion energy, cooling materials, medical research, and neutron detection. This has led companies like Seattle-based Interlune to explore the physical practicality of mining lunar helium-3.",
+    "key_points": [
+      "Helium-3 from solar wind has accumulated in the Moon's soil over billions of years.",
+      "The Moon has much higher concentrations of helium-3 than Earth due to its lack of a magnetic field and atmosphere.",
+      "Helium-3 has potential near-term uses in ultra-low temperature cooling, medical research, and neutron detection, as well as long-term fusion energy potential.",
+      "A Seattle-based company named Interlune is investigating whether mining lunar helium-3 is physically practical."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "SCIENCE",
+    "app": "uknews",
+    "collected_at": "2026-08-29T22:53:06+00:00"
+  },
+  {
     "id": "3f7f1608b361a05c28c2c8c5",
     "title": "What it is like on a 10-hour shift as a paramedic during the summer",
     "source": "BBC",
