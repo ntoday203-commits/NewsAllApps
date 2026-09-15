@@ -1,5 +1,29 @@
 [
   {
+    "id": "5b2854f4d265257aa3764ffe",
+    "title": "Hundreds of contractors are reportedly reading real ChatGPT conversations",
+    "source": "The Next Web",
+    "author": "Ana Maria Constantin",
+    "published_at": "2026-09-14T00:00:00",
+    "image": "https://media.thenextweb.com/2026/07/openai-kalshi-chatgpt-world-cup-prediction-markets.jpg",
+    "url": "https://thenextweb.com/news/chatgpt-human-reviewers-gdpr",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVFFSLUNqX01yTXRfZ29KRUlCS3MtRU5WT0FuanFtWC1fZG9vZTBlSHZXazNRN2hja0t2cHZNRzlDYTl6NzdKdkdmNFVfeF9hTFNNZm9tYUFUUXZiVW96b3liMUtjSmM?oc=5",
+    "content": "![Photo of a laptop showing ChatGPT app Photo of a laptop showing ChatGPT app](https://media.thenextweb.com/2026/07/openai-kalshi-chatgpt-world-cup-prediction-markets.avif) \nChatGPT app\nOpenAI is paying hundreds of contractors to read real ChatGPT conversations and rate the chatbot’s replies under the internal codename Project Lily, and did not answer when asked where it had told users. The Court of Justice held last September that a controller’s duty to inform applies at collection and does not depend on whether the recipient can identify anyone.\nOpenAI is paying hundreds of contractors to read real ChatGPT conversations and rate the chatbot’s replies, under the internal codename Project Lily, 404 Media reported.\nThe reviewers do not see usernames. They can see a user memories summary above the prompt, which sometimes shows what the person has used the chatbot for before and where in the world they may live.\nOpenAI says a Privacy Filter model strips personal information first. Its own page for that model says it can make mistakes, miss uncommon identifiers and under-redact when context is limited.\n404 Media asked the company to point to where it tells users that humans may read their chats. OpenAI did not answer, and after publication pointed to a help page.\nAnthropic confirmed it uses human review too, for users who switch the setting on, and says it removes account identifiers first. Google’s Gemini carries a line saying humans review some saved chats.\nEurope settled the part that matters here last September.\nThe Court of Justice held in EDPS v SRB that a controller’s duty to inform people applies before any transfer, and is judged from the controller’s own point of view rather than the recipient’s.\nSo whether a contractor in North America could work out who wrote a prompt is not the test. The obligation sat with OpenAI at the moment it collected the conversation.\nItaly’s regulator has already fined the company EUR 15M, nine of it for processing without an adequate legal basis, and ordered six months of public information advertising on Italian television and radio.\nThe default matters as well. Improve the model for everyone is switched on for free, Plus and Pro accounts, and off for Enterprise, Business and Edu, and switching it off applies to new conversations rather than old ones.\nOpenAI has spent the year selling privacy to the other half of its market, previewing zero data retention for enterprise customers in August.\nConsumers get the setting that feeds the model.\n“I don’t think they would imagine some contractor somewhere is analyzing the conversations,” one reviewer said. The same company has been asking those users to connect their bank accounts.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+    "summary": "OpenAI is employing hundreds of contractors to read and rate real ChatGPT conversations under the internal codename Project Lily. While OpenAI utilizes a Privacy Filter to strip personal information, the filter's documentation notes it can make mistakes and under-redact data. The company did not answer when asked where it informs users that humans may review their chats, though legal obligations regarding data collection and transparency remain a significant issue.",
+    "key_points": [
+      "OpenAI pays hundreds of contractors to review and rate real ChatGPT conversations under the codename Project Lily.",
+      "Reviewers can see user memory summaries that occasionally reveal past usage and geographical locations.",
+      "OpenAI's Privacy Filter model, meant to strip personal information, is acknowledged to sometimes miss uncommon identifiers and under-redact data.",
+      "OpenAI did not directly answer questions regarding where it informs users that human contractors read their chats.",
+      "Italy's regulator previously fined OpenAI EUR 15M for processing data without an adequate legal basis."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-15T23:14:26+00:00"
+  },
+  {
     "id": "875fbf633597c5f459a1f7cb",
     "title": "Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up",
     "source": "MacRumors",
@@ -2301,29 +2325,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-08-30T23:59:33+00:00"
-  },
-  {
-    "id": "a0d5a6bb52751cf995e5a1ea",
-    "title": "12 TB Valve Archive Leaks Online, Fans Dig Through Early Portal 2 and Half-Life Clues",
-    "source": "TechPowerUp",
-    "author": "DrUsmanSaleem Discuss",
-    "published_at": "2026-08-30T00:00:00",
-    "image": "https://www.techpowerup.com/img/k11Sz7a16mD4EZB8.jpg",
-    "url": "https://www.techpowerup.com/352151/12-tb-valve-archive-leaks-online-fans-dig-through-early-portal-2-and-half-life-clues",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2JMSHVQYnJYX19qc2R4Z29BNmRhZ09BMWZGM1FEQWt4RkhjdC04bTM1Yk5OVDFqeFVBSjNRY2dUVzVJSDFIb2dEMTB3NUZkTG1zb3JVdjRIdS00WTNtdjk2QXd6TUlZMVU1MTkwRXpYcVBvT1I5ZkdNaWZsRGdCMFdlcVEwbDVUcVBlSEVmUi1Tc2MydHNOQm1TcTVQYjJqYmdaQ3dQX2NYZEZmSmxLdTZ1UUp2MFhPNTRn0gHAAUFVX3lxTE9LN0NpdHhtUVEtOURiazdQTjBicnpjTW0zcEIxME42MGRrRTRYWmpibUdyU0JLMzFoVTNqMXZhcmU4cFpqdncxR2t4b0NfY0pRb3lqNFlDdGdlU21CUUdOMlhiYjR0czY1Qk9PbTdOZ184MVlKQi1XQTduemFpbnhidll6RFJIbWlXQXNTVERlMkstV29nY2tiNG03cmx5U1VFRmhZSjh4OWFmcU4yOG83UEg0SEdfNFd5X0oxTXJJag?oc=5",
-    "content": "Sunday, August 30th 2026\n\t\n\t\t\n![Steam](https://tpucdn.com/images/news/steam-v1788110601.png) \nA gigantic 12-terabyte archive from Valve's old Steam2 content servers has leaked online, containing internal development builds spanning from 2003 to 2013. The trove includes a July 2009 build of Portal 2 with unused sequences and beta menus, along with assets from F-Stop, the canceled Portal prequel. There's also a playable 2008 build of Left 4 Dead and early Counter-Strike: Global Offensive content. \nThe most talked-about find is a \"Weaponizer\" model appearing in the Portal 2 files, long rumored to be a concept weapon from the canceled Half-Life 2: Episode Three. The model has surfaced before, but never inside an actual game build, so its presence here is of some significance. However, it may simply have been repurposed as an unrelated placeholder asset.\n![](https://tpucdn.com/img/k11Sz7a16mD4EZB8_thm.jpg) \n![](https://tpucdn.com/img/2fAWE66pIlAf7fR1_thm.jpg) \n![](https://tpucdn.com/img/4Lv146iCgiGXZxft_thm.jpg) Contrary to how it may appear at first, the leak wasn't the result of a hack. It comes from an old, publicly accessible Steam2 endpoint that Valve apparently never took offline after migrating to SteamPipe in 2013. Valve hasn't commented on this leak, and given the size of the archive, it will likely take the community days or weeks to fully sort through everything inside it.\n\t\t\n\t\tSource:\n\t\t\t\tGabe Follower on X\t\t\t\n\t\n\t\n\t\n\t\t\n\t\n\t\t\nThe most talked-about find is a \"Weaponizer\" model appearing in the Portal 2 files, long rumored to be a concept weapon from the canceled Half-Life 2: Episode Three. The model has surfaced before, but never inside an actual game build, so its presence here is of some significance. However, it may simply have been repurposed as an unrelated placeholder asset.\n![](https://tpucdn.com/img/k11Sz7a16mD4EZB8_thm.jpg) \n![](https://tpucdn.com/img/2fAWE66pIlAf7fR1_thm.jpg) \n![](https://tpucdn.com/img/4Lv146iCgiGXZxft_thm.jpg) ",
-    "summary": "A 12-terabyte archive of Valve's internal development builds from 2003 to 2013 leaked online from an unclosed Steam2 endpoint. Fans are currently combing through the massive trove, which features early builds and assets for games like Portal 2, Left 4 Dead, and Counter-Strike: Global Offensive. Valve has not yet commented on the incident.",
-    "key_points": [
-      "A 12-terabyte archive from Valve's old Steam2 content servers leaked online.",
-      "The leak stems from an old, publicly accessible endpoint left active after migrating to SteamPipe in 2013.",
-      "The archive includes a 2009 Portal 2 build, assets from the canceled prequel F-Stop, a 2008 Left 4 Dead build, and CS:GO content.",
-      "Fans discovered a \"Weaponizer\" model in the Portal 2 files linked to the canceled Half-Life 2: Episode Three.",
-      "Valve has not issued any comments regarding the leak."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-08-30T21:43:56+00:00"
   }
 ]
