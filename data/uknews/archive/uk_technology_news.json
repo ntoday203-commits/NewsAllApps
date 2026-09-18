@@ -1,5 +1,29 @@
 [
   {
+    "id": "b805db38a0bcbccfcb7ba31b",
+    "title": "Google announces September Android drop, here are all the new features",
+    "source": "GSMArena.com",
+    "author": "Vlad",
+    "published_at": "2026-09-02T00:00:00",
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/09/google-september-android-drop/-952x498w6/gsmarena_000.jpg",
+    "url": "https://www.gsmarena.com/google_announces_september_android_drop_here_are_all_the_new_features-news-74441.php",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMndDZXZwRXBwaWN3cnJpSjF3Yks1ODBPQl9oZkZhY2NxV2tUZm5HUlRWMl80X3VERE44cDhrWnB1UTRhM3AtSXc5eFZfR3ljdmY3a1R4dGpqSXowTlpUTEJrQTRGdjBkX3NJYXhGblFxN2lWeUVLZUVSRWg5cndfTlRNY2doNVNIbS1vU3owcWZkMXBJTTBfeWNHT2lwN29HbC1uWURzRDFscWJsZUHSAaoBQVVfeXFMTVZDcTZHVERic1J2VWEtOUZJVWY1N0lncGV4cGhOSjhMX1ZjcWh2Mm5wV2I5MG9XV3o3SzFSdENtS0VITTBvRGtHS1hQc0YzdlZJZ1JBbEMzc2xUXzBVdTBvT2dkY0d5dDhNU0N0MldUNVcxY2F4UTltUnYxSWZPX0ZUU1ZYdjJGS1pFVkFUblhfa3lzcFI5SWwxZWVjakRrcldYZlBteDVHMVE?oc=5",
+    "content": "Today Google has announced its September Android drop, which incorporates five new features coming to Android devices left and right.\nSo let's dive right in. You will \"soon\" be able to ask Gemini to remember where you put important items and it will save their location in Google's Find Hub so you can easily find them later. This is intended for things you don't put a tracker tag on, like your passport or a spare key. Just tell Gemini where the item is - or maybe add an optional photo. When you need to find it, either ask Gemini for its location or check the remembered items tab in Find Hub. This will be available on Android 16 and later in countries where Gemini and Find Hub are available.\nMotion Assist helps reduce motion sickness by using a bubble overlay on the screen, which moves with the vehicle you're in. Google says it's \"designed to bridge the gap between what your eyes see and the movement of your ride\". You can set this to turn on automatically, add it to Quick Settings, and customize the shape, color, and opacity of the bubbles. This is only coming to devices running Android 17.\nGuided vision can help read fine print on a food label, order from a menu in a low-lit restaurant, or identify household objects, and all you need to do is share your camera in Gemini Live. If the camera isn't lined up, voice feedback will guide you to reframe it, pan across a space, or center an object so you get the answers you want. You can add Guided vision to your Accessibility shortcuts or enable it directly from the TalkBack menu or the Gemini app's settings. This is coming soon to devices running Android 9 and later in countries where Gemini is available.\nYou can now share and update Google Keep grocery lists or notes right inside your chat in Google Messages, and all of the participants can view, edit, and add ideas to your note or list. You just need to hit the \"+\" icon in Google Messages. The rollout of this feature has already started in Google Messages.\nFinally, and speaking of Google Messages, you can customize each chat with a different background and color theme. You can pick a wallpaper or a photo and the bubble colors will automatically match, but you can also change them if you want to. This is available now in Google Messages.",
+    "summary": "Google has announced its September Android feature drop, introducing five new capabilities for Android devices. The updates include Gemini integration with Find Hub for remembering item locations, a Motion Assist tool for reducing motion sickness, and Guided vision for accessibility assistance using Gemini Live. Additionally, users can now share Google Keep lists and customize individual chat backgrounds and color themes directly within Google Messages.",
+    "key_points": [
+      "Gemini will soon allow users to save and find item locations using Google's Find Hub.",
+      "Motion Assist uses a customizable screen bubble overlay to help reduce motion sickness on vehicles.",
+      "Guided vision uses Gemini Live and camera sharing with voice feedback to assist users with reading and identifying objects.",
+      "Google Keep notes and grocery lists can now be shared and edited directly inside Google Messages chats.",
+      "Google Messages now allows users to customize individual chats with unique wallpapers, photos, and matching color themes."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-02T21:24:22+00:00"
+  },
+  {
     "id": "e924dd7f6cc987b9c1daf4b0",
     "title": "Xbox Down For You? Microsoft Acknowledges 'Major Outage' as Sign-In Issues Hit PC and Console [UPDATED]",
     "source": "ign.com",
