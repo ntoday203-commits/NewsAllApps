@@ -1,5 +1,28 @@
 [
   {
+    "id": "d16111dc8adfb9592490ec53",
+    "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+    "source": "The Verge",
+    "author": "Tom Warren",
+    "published_at": "2026-09-03T00:00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
+    "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+    "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkt6STB3aDh4YV9iQUtnVVVLRjBBWm9lSnJRbXAxaDVreFBMSnJkTWloT1BzaXpoTGt0X2JpX1JUM3ozLVRUT0E3RFkxVWxtUDQ3S09hbGV4b29vdk1Pb1NLVmw1NDF6R25xaFN3dF9CQlp2cnlocGdsQVVYeXAxWjU5TV9SMGc?oc=5",
+    "content": "All the rumors leading up to Nvidia’s announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won’t be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in October.\nNvidia’s new RTX Spark laptops launch in October with two different configs\nNvidia’s N1X laptop will ship in two different configurations for laptops and mini PCs.\n![Screenshot_20260531_212701](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=1.6680227827502%2C0%2C96.6639544345%2C100&w=2400)\n![Screenshot_20260531_212701](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=1.6680227827502%2C0%2C96.6639544345%2C100&w=2400)\nYou’ll be able to buy an RTX Spark N1X laptop with a configuration that I would call the mini PC chip. The top of the line N1X chip comes with a 6144-core Blackwell RTX GPU, paired with a 20-core Grace CPU and between 24GB and 128GB of unified memory. This particular chip will ship in both high-end laptops and miniature PCs like Microsoft’s Surface RTX Spark Dev Box.\n![N1X configurations available in October.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rtxsparknx1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe more cut down N1X, or what I’d call the laptop chip, has a 5120-core Blackwell RTX GPU, combined with an 18-core Grace CPU and between 24GB and 32GB of unified memory. I’d expect most RTX Spark N1x laptops are going to use this chip, with devices launching from Asus, Dell, HP, Lenovo, Microsoft, or MSI in October.\nWe’re still waiting for Nvidia to share more on what the N1X is capable of for laptop gaming, but the company is vaguely promising 100fps 1440p gaming with ray-tracing and DLSS enabled for now. RTX Spark laptops are only a month away, so we’re also waiting to hear about exact availability and pricing from PC makers. With a RAMageddon crisis still looming large, I’m expecting to see N1X laptops priced at the very premium end of the market.",
+    "summary": "Nvidia's Arm-based RTX Spark laptops featuring the N1X chip are scheduled to launch in October in two different configurations. The top-tier N1X configuration includes a 6144-core Blackwell RTX GPU and a 20-core Grace CPU, while the cut-down version features a 5120-core Blackwell RTX GPU and an 18-core Grace CPU. Devices utilizing these chips will be released by manufacturers such as Asus, Dell, HP, Lenovo, Microsoft, and MSI.",
+    "key_points": [
+      "Nvidia's N1X chip will arrive in RTX Spark laptops and mini PCs in October.",
+      "The top-tier N1X configuration features a 6144-core Blackwell RTX GPU, a 20-core Grace CPU, and 24GB to 128GB of unified memory.",
+      "The cut-down N1X configuration includes a 5120-core Blackwell RTX GPU, an 18-core Grace CPU, and 24GB to 32GB of unified memory.",
+      "Laptops featuring the N1X will be launched by brands including Asus, Dell, HP, Lenovo, Microsoft, and MSI."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-03T18:57:00+00:00"
+  },
+  {
     "id": "25342fc9edd631595b900bb3",
     "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
     "source": "The Verge",

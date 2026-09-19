@@ -1,5 +1,28 @@
 [
   {
+    "id": "cdeed930dbc68a8092f1d8ea",
+    "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
+    "source": "The Guardian",
+    "author": "Mark Sweney",
+    "published_at": "2026-09-18T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/aff9803da86a14af4834f9719faa63ae12304e49/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1103532510785e69f3853eaf51d18701",
+    "url": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
+    "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEFITTE1M3dsYVhJcjVTRmpubm5oVkV3U0xnWlFnZ0RxbjBydmNDZVNzdVQ3eWF4TWxCNDlVZkF2RVpYTDhOakg1enQ3MURGUS1Pd2p3VlZWZUUyaDZ6NDFXQllNczdnWU5EWkh5dUg5Q09rZm90UzVrb0xkR1hQRVhaNk9pMkY4aVBFdEFYWC1Dam9RV3dhZXJ3?oc=5",
+    "content": "Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.\nThe Office for National Statistics (ONS) said the volume of goods sold rose 0.5% month on month in August, defying analyst expectations of a 0.2% fall.\nIt marks a significant bounce back in consumer spending after a 0.5% month-on-month fall in July.\nThe summer heatwaves fuelled increased sales of items including fans, air-conditioning units, sports merchandise and clothing in the three months to August.\nThe unexpected sales boost is the latest positive update on the state of the economy for the government, after a surprise 0.4% increase in gross domestic product in July that was reported by the ONS last week.\n“August’s warm weather delayed the usual shift towards autumn purchases, but retailers successfully kept consumers spending,” said Sandra Prince, the head of corporate consumer at Lloyds. “The late bank holiday weekend and back-to-school shopping are also likely to have supported demand, with online sales among the areas seeing the biggest boost.”\nAcross the three-month summer period sales rose 2.4% year on year, again significantly above forecasts of a 1.9% rise.\nAmong the strongest performers were department stores, which recorded a sales rise of 1.8% month on month in August – a bounce back after a fall in July, which the ONS attributed to stock availability problems.\nNon-store retailing, primarily online shopping, rose by 1.7% month on month, a major bounce back after sales fell 3.7% the previous month due to heavy promotional activity driving June sales.\nOverall, non-store retailers enjoyed a strong summer with a 5.4% sales rise across the three-month period.\nRetailers selling alcohol and beverages performed well across all three months to August 2026, the ONS reported, which they attributed to promotions, the hot weather and the men’s football World Cup.\nafter newsletter promotion\nFuel sales dropped again, down by 1.3% in August and 2.5% across the three-month period as motorists cut back on non-essential journeys after big increases in the price of petrol and diesel since the start of the Iran war in February.\nUK petrol prices have hit the highest level in four years as the conflict in the Middle East intensifies.\nOn Thursday the Bank of England monetary policy committee voted to hold the base rate at 3.75%. However, it indicated that the latest rise in energy prices because of the conflict was likely to result in a rates increase to keep inflation in check. Inflation rose to 3.1% in August, from 2.9% in July.\n“There are some challenging headwinds for consumers to navigate as we head into autumn,” said Andy Carlisle, the consumer goods and retail lead at Accenture.\n“Higher energy bills, food, fuel and transport prices continue to weigh on purse strings. We’re beginning to see consumers preparing for these pressures, prioritising everyday needs while showing greater caution around discretionary and bigger-ticket purchases.”",
+    "summary": "Retail sales in Great Britain unexpectedly rose by 0.5% in August, recovering from a 0.5% decline in July as summer heatwaves and online shopping boosted demand. This positive economic indicator comes ahead of the upcoming budget presented by chancellor John Healey. However, challenges remain as inflation rose to 3.1% in August and high fuel and energy prices continue to weigh on consumers.",
+    "key_points": [
+      "Retail sales volumes grew 0.5% month on month in August, beating analyst forecasts of a 0.2% fall.",
+      "Summer heatwaves, online shopping, and back-to-school demand helped drive sales, particularly in department stores and non-store retailing.",
+      "Fuel sales dropped 1.3% in August as motorists cut back due to surging petrol and diesel prices linked to the conflict in the Middle East.",
+      "Inflation increased to 3.1% in August, and the Bank of England indicated that rising energy prices could lead to higher interest rates."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "BUSINESS",
+    "app": "uknews",
+    "collected_at": "2026-09-19T11:40:40+00:00"
+  },
+  {
     "id": "c447a2373a6fb8663bfe29e2",
     "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
     "source": "Al Jazeera",
@@ -2299,28 +2322,5 @@
     "topic": "BUSINESS",
     "app": "uknews",
     "collected_at": "2026-09-03T21:30:03+00:00"
-  },
-  {
-    "id": "d2ad0e33da5b29be13cf25d2",
-    "title": "UK Borrowing Costs Surge as Oil Shock Rattles Global Markets | OilPrice.com",
-    "source": "Crude Oil Prices Today | OilPrice.com",
-    "author": "City A M",
-    "published_at": "2026-09-03T00:00:00",
-    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-03_oj5bzirup4.jpg",
-    "url": "https://oilprice.com/Energy/Energy-General/UK-Borrowing-Costs-Surge-as-Oil-Shock-Rattles-Global-Markets.html",
-    "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWlzZExYdU1sSUZxNDRZczdfNVdVUkh3UlBIbzN3ejFEcGZwbzk3SnhwbVZoSWJURXhmdjZUa1JycFdNVGJJMV9uUTUxMi02V2FCTHdNRm9mY3hRZjBDSGlvVVBROWt0aWE2V3ZmLUVHZHlVV2JSVmxONThtRjROUHNWdzJmanM1YzZKU1RkZ1hWeU9NSmU2WjdPMkR4bUtIR0sxWDI2UThiNldi0gGyAUFVX3lxTE1idGtDTkVweEFiOGxpeFpoRmlIRVo0NDh0djBUQlotS3h3LXJfRGhNMlJzMl9fd1l5alJfR0d5UlVvLTRjaVU0dVFNelNTMW8waW9KSFhDTE53Njl2ajJyaUYxNHIzMHhyTnFHX0VYWUNwTmY1YkhucUFhNG5lX1NmVFNVWTdUaHZNSE13MjZjaTZCcEs2Yl9LTU0yY1BRSTZ2TDNPTUdVU0xXYVY0RDRNeGc?oc=5",
-    "content": "The global rise in borrowing costs is a “particular concern,” the International Monetary Fund has said, as UK bond yields reach a level last seen in the financial crisis.\nThe yield on the 10-year UK gilt climbed four basis points on Wednesday morning to near 5.27 per cent, which followed the previous day’s rally that saw yields spike as much as 15 basis points. Longer-term gilt yields were up five basis points to almost 5.89 per cent, nearing highs reached on Tuesday.\nSimilar moves are taking place across the globe, with India’s 10-year bond yield topping seven per cent and Australia’s equivalent surging to a 15-year high at over 5.2 per cent.\nKristalina Georgieva, managing director of the International Monetary Fund (IMF), sounded the alarm on the recent developments at the G20 meeting with top finance ministers and central bank governors in the US.\n“The sovereign debt landscape for emerging and low-income countries has gradually improved in recent years, thanks to domestic policy efforts and international cooperation,” she said.\n“But progress has been uneven, and persistent risks and uncertainty in the global economy, including spillovers from the significant increase in yields in advanced economies, call for policy discipline and underscore the importance of building buffers.”\nGeorgieva added: “The increase in global interest rates is of particular concern.”\nUK in ‘acute’ position position as borrowing costs spike\nThe sell-off has stemmed from soaring energy prices after oil and gas supply was disrupted following the Iran war. Brent crude – the international benchmark for oil prices – climbed above $95 per barrel on Wednesday to its highest level in nearly six weeks.\nIn the UK, the bond sell-off has turned pressure on Chancellor John Healey, who is set to deliver his first Budget at the end of October.\nEconomists at Bloomberg have forecast Healey will see £12bn knocked off the £23.6bn in headroom left by former Chancellor Rachel Reeves in the 2025 Budget.\n“Governments around the world are feeling the pressure from bond markets, but the situation is particularly acute for the UK, where Andy Burnham’s grand promises about reforming the economy are about to meet the cold reality of high debt levels and rocketing borrowing costs,” Chris Beauchamp, chief market analyst at IG, said.\n“UK taxpayers face the likelihood of paying more for his grand ambitions, while also having to worry about a Bank of England rate hike that becomes more likely with each $1 on the price of oil.”\nBy CityAM\nMore Top Reads From Oilprice.com",
-    "summary": "UK borrowing costs have surged to levels not seen since the financial crisis amid a global spike in bond yields driven by soaring energy prices. The International Monetary Fund has warned that rising global interest rates are a particular concern for the economy. This bond sell-off puts increased pressure on Chancellor John Healey ahead of his upcoming Budget, threatening available fiscal headroom.",
-    "key_points": [
-      "The 10-year UK gilt yield climbed to near 5.27 per cent, with longer-term yields nearing 5.89 per cent.",
-      "Global bond yields are rising, including in India and Australia, as IMF Managing Director Kristalina Georgieva highlights the risks of increasing global interest rates.",
-      "The market sell-off stems from disrupted oil and gas supply following the Iran war, pushing Brent crude above $95 per barrel.",
-      "Chancellor John Healey faces a tightening budget, with Bloomberg economists forecasting a £12bn reduction in fiscal headroom."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "BUSINESS",
-    "app": "uknews",
-    "collected_at": "2026-09-03T18:56:57+00:00"
   }
 ]
