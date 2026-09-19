@@ -1,5 +1,28 @@
 [
   {
+    "id": "4509f6965681e808d32a0ee6",
+    "title": "California warns of measles exposure in six counties from unvaccinated train passenger",
+    "source": "The Guardian",
+    "author": "Marina Dunbar",
+    "published_at": "2026-09-19T00:00:00",
+    "image": "https://i.guim.co.uk/img/media/a2f7de9e7f7ac60c9edfc2d97f7a3f5d2deea6c2/155_0_5006_4004/master/5006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eaa2ad9e9f1986423a71678484fe40b7",
+    "url": "https://www.theguardian.com/us-news/2026/sep/19/california-officials-measles-infected-bus-and-train-passenger",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTR4LUU3MWNkd0c3bUd3X1p6aXh1c2UyR3ZRbWlIMVhYT2VtOENraTBWWWdmeE9BMUN0R1NvdTktbTN4TWpwZEdKa0x5dHlfNE82bHdKM1lmd3pNUlU5Qk1pdHFvUzAtRHc1WWs5SWRwTzFia1lqZ1lSbjlKLUlTc1lpQ2tObFpTeDYwSEpZZkpzMmhZWUhTc3R4eUx6cFV1alRTR1hSWW5zd2pjT0E?oc=5",
+    "content": "California public health officials are warning of a possible measles exposure spanning multiple counties after an infected and unvaccinated passenger traveled through the state via Amtrak trains and thruway buses.\nThe warning comes as the US faces its largest measles resurgence in more than three decades, fueled largely by growing vaccine hesitancy.\nThe California department of public health said the traveler passed through at least six counties – Alameda, Butte, Kern, Los Angeles, Sacramento and San Joaquin – while making multiple transfers.\nOfficials said the passenger entered California on an Amtrak train that arrived in Los Angeles on 10 September. From there, the traveler continued to Bakersfield before heading through Stockton, Oroville, Sacramento and Emeryville, eventually leaving California for Denver.\nHealth officials said passengers who were onboard the same trains or buses, as well as people who were inside the stations along the route on the dates involved, have been exposed to measles.\nThe state said it is working with federal partners and local health departments to identify and notify people who may have been exposed.\n“This case, along with previous measles outbreaks in California this year, serve as reminders of the importance of vaccination against measles,” assistant state public health officer Rita Nguyen said in a statement. “The measles-mumps-rubella (MMR) vaccine is safe and provides long-lasting protection against measles. Vaccination protects both our own families and those who are too young to be fully vaccinated.”\nPennsylvania is currently dealing with the country’s worst active measles outbreak. The Pennsylvania health department announced on Wednesday that 731 cases have been confirmed across 38 counties so far this year. At least four people in the state have died from measles-related illness.\nPennsylvania is now seeking emergency assistance from the US Centers for Disease Control and Prevention (CDC) as the outbreak continues to spread. State officials have warned, however, that the request could be withdrawn unless the CDC publicly recognizes the four measles-associated deaths, something the US health secretary, Robert F Kennedy Jr, previously instructed the CDC not to do.\nAnd as the death toll from the outbreak continues to rise, Kennedy headlined the Washington DC conference of the anti-vaccine organization Children’s Health Defense earlier this week, an group he led for nearly a decade.\nHe only addressed the measles outbreak in Pennsylvania once during his speech, instead peddling unfounded fears about vaccines at a time when health experts are urgently encouraging people to vaccinate against measles.\nafter newsletter promotion\n“In our country we care about rare illnesses and deaths. We care about every child who dies from measles. They get headlines,” he said. “I’d ask you to care about children who are dying or suffering or being injured by vaccine injuries.”\nThe California warning also follows another recent mass-exposure incident involving Amtrak.\nEarlier this week, it was reported that a person infected with measles traveled onboard an Amtrak train from Sedalia, Missouri, to Chicago, Illinois, resulting in more than 250 people being exposed to the virus in Jackson county alone.\nThis month, it was also revealed that the Trump administration changed how measles deaths are counted during the outbreak. The CDC is now relying on data from the National Center for Health Statistics, which is used to track mortality trends over time. It is unclear why this change was made.",
+    "summary": "California health officials issued a measles exposure warning across six counties after an unvaccinated passenger traveled through the state on Amtrak trains and buses. The incident coincides with a nationwide measles resurgence, including a severe outbreak in Pennsylvania involving hundreds of cases and multiple deaths. Health officials continue to emphasize the importance of the MMR vaccine for protection against the virus.",
+    "key_points": [
+      "An infected, unvaccinated Amtrak passenger traveled through six California counties, exposing other passengers and station visitors.",
+      "Pennsylvania is experiencing the country's worst active measles outbreak with 731 confirmed cases and at least four deaths.",
+      "Pennsylvania is seeking CDC emergency assistance, though conditioned on the agency recognizing measles-associated deaths.",
+      "Health officials emphasize that the MMR vaccine is safe and provides long-lasting protection against measles."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "HEALTH",
+    "app": "uknews",
+    "collected_at": "2026-09-19T23:42:54+00:00"
+  },
+  {
     "id": "6426b1d75c455ffb5b05e2c6",
     "title": "Millions of Britons taking antidepressants have been ‘sold a myth’, warns leading expert",
     "source": "GB News",
@@ -2299,29 +2322,5 @@
     "topic": "HEALTH",
     "app": "uknews",
     "collected_at": "2026-09-04T12:52:42+00:00"
-  },
-  {
-    "id": "19ed40437dfe530f4479a925",
-    "title": "Meningitis symptoms to watch out for as two Suffolk teenagers catch infection",
-    "source": "Ipswich Star",
-    "author": "Emily Goodwin",
-    "published_at": "2026-09-03T00:00:00",
-    "image": "https://www.ipswichstar.co.uk/resources/images/21174610.jpg?type=og-image&xType=0&yType=146",
-    "url": "https://www.ipswichstar.co.uk/news/26519812.meningitis-symptoms-watch-suffolk-outbreak/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObGpnaXd4ckw0X0JTa0l1LVFsX0tGcFBxdDBtYXlOMmtlMkNCc05MSEJvMFB2amdKaXZxY3NLUUdhV1JoenNSTXZjRE80aG90bUtWR1dvWnNHTG5BVVM1LUJ2b21rRWctZFVsUmJnZjJDQ2ItbmRBTjZPSzhWdDVIRkFfcGJKLVVFSUs0b185NTQ?oc=5",
-    "content": "With two Suffolk teenagers testing positive for Meningitis B, searches for symptoms to watch out for have skyrocketed.\nNearly 50 teens across the region who were in contact with the pair have been offered emergency antibiotics as a precaution, as the UK Health Security Agency (UKHSA) launches an investigation.\nThe UKHSA has confirmed that the two teens with meningitis are both from Framlingham and are currently receiving treatment in hospital.\nMeningitis B is a potentially life-threatening bacterial infection that can cause inflammation of the lining around the brain and spinal cord, and can rapidly lead to blood poisoning.\nEarly symptoms include vomiting, fever, aches, muscle pain, cold hands and feet and headaches, making it tough to spot as it can look similar to common illnesses like colds or flu.\nBut someone with meningitis or septicaemia will usually become seriously ill in just a matter of hours, which is why it’s important to check on someone with these symptoms regularly to monitor the situation.\nMeningitis B is a different strain from Meningitis A, which is more common across Africa. This is why it is important to understand the difference in the symptoms before calling a healthcare professional.\nEarly recognition of meningitis symptoms can greatly improve the outcome of the disease, and so anyone concerned about any of these symptoms, at any time, should contact their GP, call NHS 111 or 999 in an emergency.",
-    "summary": "Two teenagers from Framlingham in Suffolk have tested positive for Meningitis B and are receiving hospital treatment. In response, the UK Health Security Agency has launched an investigation and offered emergency antibiotics to nearly 50 close contacts. The bacterial infection can rapidly cause severe illness, making early recognition of its flu-like symptoms crucial.",
-    "key_points": [
-      "Two teenagers from Suffolk have tested positive for Meningitis B and are hospitalized.",
-      "The UKHSA is investigating and has provided emergency antibiotics to nearly 50 contacts.",
-      "Meningitis B causes inflammation around the brain and spinal cord and can lead to blood poisoning.",
-      "Early symptoms include fever, vomiting, aches, and headaches, which can resemble a cold or flu.",
-      "Anyone concerned about symptoms should contact their GP, call NHS 111, or dial 999 in an emergency."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "HEALTH",
-    "app": "uknews",
-    "collected_at": "2026-09-04T06:37:53+00:00"
   }
 ]
