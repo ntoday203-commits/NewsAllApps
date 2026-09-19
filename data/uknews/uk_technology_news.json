@@ -1,5 +1,28 @@
 [
   {
+    "id": "8017e75c54606bf9f80529e3",
+    "title": "Review: Control Resonant: Remedy's Tech Makes the Leap to a Wider Urban Sandbox",
+    "source": "Digital Foundry",
+    "author": "William Judd",
+    "published_at": "2026-09-18T00:00:00",
+    "image": "https://images.digitalfoundry.net/b7788ccf2b45a/large.jpg",
+    "url": "https://www.digitalfoundry.net/reviews/control-resonant-remedys-tech-makes-the-leap-to-a-wider-urban-sandbox",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFhJeXRaUldoQzhKNTVXbkdaMWJWOVZpT0ZLbDZ0SVM5SWE4OVhKR1BBSTJQVlRreUZwNk41cE9adkhQMHpYUWpFVDVkdTcxTUlhbTJ4dFBPVG5uRVVOQUQ4VklWY0ZMOUZud2J0akJsUGpGd1ZjUWdzVzFKSW9oOU41QW9STGRaMjVTN215ak9YSWNxT0FLQ1MzYTRCcDh4T05qMWVHMFRGM0tT?oc=5",
+    "content": "Remedy Entertainment returns with Control Resonant, marking a distinct departure from the studio's traditional linear shooter format in favour of a semi-open-world melee action title. Operating on Remedy's proprietary Northlight game engine - previously responsible for visual showcases such as Alan Wake 2 - the game pushes technical ambitions in new directions across larger playable environments.\nHowever, adapting an engine designed primarily for tightly controlled single-player experiences to a broader urban sandbox introduces some trade-offs.\nControl Resonant features rich diffuse global illumination that gives its environments a convincing, lived-in quality with minimal artifacting. The game appears to use a precalculated global illumination solution supplemented with screen-space ambient occlusion. Volumetric lighting and atmospheric particulate fog also return to convincingly render a moody New York setting. The game's action sequences also contain a lot of physics-driven mayhem, like the original Control. Here, the player can break stone structures into fractured chunks, while propelling various props through the environment.\nBut Control Resonant does have some visual issues, which seem to stem from the game's expanded scale. The game's cascaded shadow maps often look incoherent and artifact-ridden from distant views. Screen-space reflections prove a fine solution for specular lighting, but the reflection detail isn't preserved when on-screen details are occluded. The game's camera follows the player at considerable distance to frame brawls, but it can collide awkwardly with walls and other geometry. Image quality isn't great either on non-Pro consoles, exhibiting substantial breakup and a poor resolve on fine details.\nOn the base PlayStation 5, performance mode runs at an internal resolution of roughly 864p upscaled to around 1440p using FSR, delivering a generally smooth 60fps target. Framerate drops are largely confined to minor traversal stutters and heavy transparency effects during a specific boss encounter. Quality mode increases the internal resolution to approximately 1260p, providing a sharper, near-4K presentation at a stable 30fps with modestly improved shadow coherency and reflection clarity. Hardware ray tracing is absent in both modes.\nSony's PS5 Pro provides a noticeable step up in overall visual quality and stability. In performance mode, the console leverages PSSR to reconstruct an 864p internal image to a 4K display target, significantly mitigating the shimmering and aliasing artefacts seen on the base hardware. Frame-rates are also improved, maintaining smoother - though not perfect - performance in demanding encounters.\nThe PlayStation 5 Pro truly sets itself apart through the inclusion of hardware-accelerated ray tracing within its quality and balanced modes. Quality mode operates at roughly 1224p at 30fps, integrating ray-traced reflections across glossy city surfaces and ray-traced shadows that resolve contact detail with variable penumbras. Meanwhile, a dedicated balanced mode introduces the same ray tracing feature set at a 1080p internal resolution targeting 40fps, making it an appealing option for displays with variable refresh rate (VRR) support.\nOn Microsoft hardware, Xbox Series X achieves visual and performance parity with the PlayStation 5, utilising identical 864p and 1260p resolution splits across its performance and quality modes. Performance remains solid overall, with a similar performance level to PS5. Xbox Series S operates a single visual mode matching the settings and 864p resolution of the Series X performance mode, and it generally hits a steady 30fps target.\nUltimately, Control Resonant demonstrates both the flexibility and the limits of Remedy's Northlight engine as it transitions into open-world territory. While base consoles struggle with image clarity and draw distance limitations, the overall graphical presentation remains engaging. For players seeking the optimal console experience, the PlayStation 5 Pro stands out as the premier platform, successfully using advanced upscaling and ray tracing to better realise the game's high-end visual features.",
+    "summary": "Remedy Entertainment's Control Resonant transitions the studio's formula into a semi-open-world melee action game using the Northlight engine. While the game delivers impressive global illumination and physics-driven combat, its expanded scale introduces visual compromises on base consoles. The PlayStation 5 Pro offers the optimal console experience through advanced upscaling and hardware-accelerated ray tracing.",
+    "key_points": [
+      "Control Resonant shifts Remedy's traditional linear shooter format into a broader urban sandbox action title.",
+      "Base consoles like the standard PlayStation 5 and Xbox Series X exhibit image clarity issues and shadow artifacts due to the game's expanded scale.",
+      "The Xbox Series S runs a single visual mode matching the Series X performance settings at a steady 30fps.",
+      "The PlayStation 5 Pro provides superior visual quality and stability through PSSR upscaling and hardware-accelerated ray tracing."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-19T01:51:09+00:00"
+  },
+  {
     "id": "8f996b31cb3bc7679bd2a2d5",
     "title": "Astartes II, the Most Anticipated Warhammer 40,000 Animation Ever, Has a New Trailer and Confirmation of Key Details",
     "source": "IGN",
@@ -2298,28 +2321,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-09-03T15:20:02+00:00"
-  },
-  {
-    "id": "ea0a54c23116c801a6c54d0a",
-    "title": "Xiaomi 18 Fold with XRING O3 chip showcased at IFA 2026, we go eyes on",
-    "source": "GSMArena.com",
-    "author": "Michail",
-    "published_at": "2026-09-03T00:00:00",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-18-fold-eyes-on-ifa/-952x498w6/gsmarena_00.jpg",
-    "url": "https://www.gsmarena.com/xiaomi_18_fold_with_xring_o3_chip_showcased_at_ifa_2026-news-74457.php",
-    "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTlwbW1XTUp5WjZXcGxNekZiQzA2UjhuWXJGWm5nU0dBbVJEYzZ6WndVcEZnU1M5RFg2Uy1nUEhQYUJDUWJVOExvWklzcWRVSUNmUXNhQ2FyOUhYajZIckxsNk1XajBVSmxmM0x1TVdleERmQldFUmZaRzNTZm9JUzVtZ0N3ZnFJM3Y5RS1vNWpUb1lHQ09PdlRsWdIBlwFBVV95cUxQdFJxdkR1VGFHWWlUZm5DVy1vMTlJSEtFZWF1ZzZjb2dEZm9nZXlOWjFNWmlnWGRZUGg5enBDbUx6XzRJb3lUOHZ4VkxqNWtROVVhTzlhdEd3VnRpM1ZYUzZqblhvaDRNMDZkMXhBaVVoUWZrVUwyTnI4eG0zOUNnZndYU3lXaXR0dnZhZTYxZkt2bzB5UjZn?oc=5",
-    "content": "Xiaomi is set to launch its 18 Fold next week, and we got to check it out at IFA 2026 ahead of its unveiling. Spoiler alert: the device was placed behind glass, so we could not actually get our hands on it, but we did get to marvel at its design, and the first thing that struck us was that bright red color.\nIt certainly pops and is a lot more vibrant in person than some of the earlier shots we saw online.\nMoving on to the actual design, the 18 Fold adopts the short and wide “passport” look, which made headlines with the Samsung Galaxy Z Fold8, and we certainly dig this form factor.\nUnlike the Z Fold8, the Xiaomi 18 Fold features more rounded corners, which seems like a great ergonomic approach by Xiaomi. We expect that it won’t dig into your palms when you use it for longer periods of time.\nAs a result of the rounded corners, the 5.38-inch cover screen gets a slightly weird look, with the left side featuring a more squared-off look while the corners on the right side are rounded.\nThe display bezels look slim enough, and we could not manage to make out the crease on the main 7.58-inch panel under most angles. Again, we did not get to touch the unit, so we’ll have to make our judgments once we actually get to hold one in hand. The main display features a punch-hole cutout in the top right corner for the selfie cam.\nSpeaking of cameras, you get a second front-facing shooter on the cover screen and three cameras on the back housed in a visor. We’re expecting to find a main, telephoto and ultrawide formation.\nXiaomi has already confirmed that the 18 Fold will be equipped with its in-house Xring O3 chipset, which shows promising performance. And that’s all we have to share at this moment in time.\nFor more details, we’ll check in after the official unveiling next week.",
-    "summary": "Xiaomi showcased its upcoming 18 Fold smartphone behind glass at IFA 2026 ahead of next week's official launch. The foldable device features a vibrant bright red color, a short and wide \"passport\" form factor, and ergonomic rounded corners. It is equipped with the in-house Xring O3 chipset and includes a 5.38-inch cover screen alongside a 7.58-inch main display.",
-    "key_points": [
-      "The Xiaomi 18 Fold was previewed behind glass at IFA 2026 before its launch next week.",
-      "It features a vibrant red color, a short and wide form factor, and rounded corners for better ergonomics.",
-      "The device includes a 5.38-inch cover display with an asymmetrical corner design and a 7.58-inch main panel.",
-      "Xiaomi has confirmed the device will be powered by its in-house Xring O3 chipset."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-09-03T11:48:22+00:00"
   }
 ]
