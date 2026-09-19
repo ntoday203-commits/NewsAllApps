@@ -1,5 +1,28 @@
 [
   {
+    "id": "657097e12abc3779771db121",
+    "title": "iPhone 18 Pro: Using the New Variable Aperture Lens",
+    "source": "MacRumors",
+    "author": "Tim Hardwick",
+    "published_at": "2026-09-18T00:00:00",
+    "image": "https://images.macrumors.com/t/gSALHPVsSpcBaJQz65_TvTObp74=/1600x/article-new/2026/09/glacier-blue-iphone-18-pro.jpg",
+    "url": "https://www.macrumors.com/how-to/iphone-18-pro-variable-aperture-how-to-use/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFFOd09CZEdrN1VZWGduUmRnZDlYT1A4UnA1S2t2TWpYOExZRk16Nk5HNXB1REFFUnBuXzN4U2lUdmhzTk5rZnphYUxWaVRnVE5PNW54WHRrWDZPMlQyS1VqeDYzdloxSFpQRXdDQjAzbXo4bTJvVGhnYU1vMFc1VmZR?oc=5",
+    "content": "Like the iPhone 17 Pro models, the new iPhone 18 Pro and iPhone 18 Pro Max have three rear cameras – a 48MP Fusion Main lens, an 8x48MP Telephoto lens, and a 48MP Ultra Wide lens. They also share the same focal lengths and resolutions as their predecessors. The big upgrade this year though is the new variable aperture on the Main camera. Let's dive in.\n![Apple iPhone 18 Pro 2up 16x9 1](https://images.macrumors.com/t/IGFWDLa9PJ79ihtmZ0OuIdbI3ew=/400x0/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg?lossy)\nAperture is what controls how much light enters the lens and hits the sensor. If too little light hits that sensor, images tend to be blurry and/or grainy. To compensate, the shutter has to stay open longer, or it has to turn on Night Mode. The problem with this approach is that the longer the shutter stays open or Night Mode is engaged, the more likely that the imagery will be blurry. Even still photos can lack sharpness and definition.\nThe solution is to use a variable aperture lens that is physically able to let more or less light in depending on the shot, which in turn allows for variations in shutter speed. The iPhone 18 Pro models can do this automatically, or you can take over the process manually for more stylistic control.\nTo achieve this, the iPhone 18 Pro and iPhone 18 Pro Max trade a fixed ƒ/1.78 aperture for a four-stop variable aperture ranging from ƒ/1.48 to ƒ/4.0, delivering around 50 percent better low-light performance and giving photographers optical control over depth of field that the iPhone has never offered before.\n![variable aperture iphone 18 pro](https://images.macrumors.com/t/e1DduxQhHkNYPzqPAuIqq9-IZPY=/400x0/article-new/2026/09/variable-aperture-iphone-18-pro.jpg?lossy)\nAs mentioned, you can leave the iPhone 18 Pro to do its thing with the new variable aperture, or you can take control of it manually. Here's how it's done:\n- In the Camera app, tap the button with six dots at the bottom-right of the interface.\n- Select Lens Aperture from the control pane.\n- Tap one of the four circles to set the aperture: from left to right they range ƒ/1.48, ƒ1.8, ƒ2.8, and finally, ƒ/4.0.\n- If you change your mind, tap the Auto button on the left to let the iPhone automatically control the aperture.\n![variable aperture](https://images.macrumors.com/t/DKTg5TTctG3KxradJOTvUaCAabA=/400x0/article-new/2026/09/iphone-18-pro-lens-aperture.jpeg?lossy)\nTry experimenting with different aperture settings to see how they affect your images. The ƒ/1.48, for example, produces a more shallow depth of field, while the ƒ/4.0 will have more of the image in focus.\nJust remember that with a variable aperture, the lower the f-number, the wider the aperture and the more light reaches the sensor. That allows the camera to use a faster shutter speed in the same lighting conditions, while also producing a shallower depth of field. By contrast, the higher the f-number, the smaller the aperture, letting in less light but increasing the amount of the scene that can remain in focus. The latter can be useful for landscapes and group shots, for example.",
+    "summary": "The iPhone 18 Pro and iPhone 18 Pro Max introduce a major camera upgrade with a new four-stop variable aperture on the Main camera, replacing the previous fixed aperture. This feature allows the camera to physically adjust the amount of light reaching the sensor, improving low-light performance and offering optical control over the depth of field. Users can let the phone control the aperture automatically or adjust it manually through the Camera app.",
+    "key_points": [
+      "The iPhone 18 Pro models feature a new four-stop variable aperture ranging from ƒ/1.48 to ƒ/4.0 on the Main camera.",
+      "The variable aperture delivers approximately 50 percent better low-light performance compared to previous models.",
+      "Users can choose between automatic aperture control or manual adjustment via the Camera app.",
+      "Lower f-numbers let in more light and create a shallower depth of field, while higher f-numbers keep more of the scene in focus."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-19T06:47:13+00:00"
+  },
+  {
     "id": "8017e75c54606bf9f80529e3",
     "title": "Review: Control Resonant: Remedy's Tech Makes the Leap to a Wider Urban Sandbox",
     "source": "Digital Foundry",
@@ -2297,29 +2320,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-09-03T18:57:00+00:00"
-  },
-  {
-    "id": "25342fc9edd631595b900bb3",
-    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-    "source": "The Verge",
-    "author": "Andrew Liszewski",
-    "published_at": "2026-09-03T00:00:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-    "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVG9HUHFlM3E5RERPR3l5SFpkRk1rWnNGbDM0X2pydVBnM2lNS28zOHdvZ3EzUlc2SXRrN2d0UDhneEdOb1J6Z1VuWkNmRmVJdE1ZYWx3SEgzUUx2LTdCX28xNUpaSkxjZHlZQ1JQb19HdU5iYUE3dVRjVHZENzh6OUduNmFYSEJEM0FJR2hQbUlnYXU5dFVtV0M4dGM3UmRTT3c?oc=5",
-    "content": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been “engineered to last up to 3x longer than other power banks” with the addition of a “gel-like layer” alongside the liquid electrolyte typically found in lithium-ion batteries.\nBelkin introduces its first longer-lasting semi-solid-state power banks\nThe company says its new power banks will last up to three times longer before they need to be replaced.\n![belkin1](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin1.jpg?quality=90&strip=all&crop=0%2C0.0099980003999178%2C100%2C99.9800039992&w=2400)\n![belkin1](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin1.jpg?quality=90&strip=all&crop=0%2C0.0099980003999178%2C100%2C99.9800039992&w=2400)\nOther advantages of what Belkin is calling its BoostSolid Cell technology include a reduced risk of overheating that could cause swelling or fires and consistent power delivery across a wider temperature range. They’re more expensive than power banks with comparable specs, but a longer functional lifespan should outweigh the premium pricing.\n![A Belkin power bank attached to the back of a smartphone and plugged into a pair of wireless headphones.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe UltraCharge Pro Slim Magnetic Power Bank 5K Qi2 15W with BoostSolid Cell is the smaller and cheaper option of Belkin’s two new power banks at $69.99. The company claims it’s 40 percent slimmer than other 5,000mAh power banks and is designed to magnetically hang on the back of compatible mobile devices and wirelessly deliver up to 15W of power. A USB-C charging port can also be used to power other devices at up to 22.5W, but charging two devices simultaneously drops the output to just 5W wirelessly and 12W with a USB-C cable.\n![A Belkin power bank on a cooler connected to multiple devices.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe larger UltraCharge Pro Power Bank 10K 60W with BoostSolid Cell and Display offers twice the capacity with a 10,000mAh battery for an extra $20. The $89.99 power bank is also slimmer than competing options with similar capacities thanks to the increased energy density of its semi-solid-state battery tech. Power output maxes out at up to 60W when charging a single device over USB-C, but that drops when up to three devices are connected and charging using a pair of USB-C ports and a single USB-A port. And because putting screens on batteries is now en vogue, this one has a display showing charge level, power output, and the internal temperature.",
-    "summary": "Belkin has launched its first power banks featuring semi-solid-state battery technology, marketed under the name BoostSolid Cell. These new accessories are engineered to last up to three times longer than standard power banks while offering a reduced risk of overheating and consistent power delivery across a wider temperature range. The lineup includes the 5K Qi2 15W model priced at $69.99 and the larger 10K 60W model with a display priced at $89.99.",
-    "key_points": [
-      "Belkin's new power banks use semi-solid-state battery technology featuring a gel-like layer alongside liquid electrolyte.",
-      "The accessories are claimed to last up to three times longer than other power banks.",
-      "BoostSolid Cell technology reduces the risk of overheating and swelling while maintaining performance across a wider temperature range.",
-      "The UltraCharge Pro Slim Magnetic Power Bank 5K delivers up to 15W wirelessly and costs $69.99.",
-      "The UltraCharge Pro Power Bank 10K features a display and 60W max output, priced at $89.99."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-09-03T15:20:02+00:00"
   }
 ]
