@@ -1,5 +1,28 @@
 [
   {
+    "id": "95b4d41ab9911495cd9ebf7a",
+    "title": "Laser Your Way Into Debug Mode On The RP2350",
+    "source": "Hackaday",
+    "author": "Tyler August",
+    "published_at": "2026-09-19T00:00:00",
+    "image": "https://hackaday.com/wp-content/uploads/2026/09/backside_decap_RP2350.jpg",
+    "url": "https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaEVOSkxDUUlFUl9xMTRhV0JJeUx2Slc0aXFwU2EwcGd1ZkVWNzMwZHBodVNBTzBOY3RjV3BxclFhN0ZqeElxcXl5ejNOdDlfVDFwa3hCOGJ1eElnbGpQVHlMWm13UkoyMUpVblhlbUxxQ3l3NHk0bV9mUmd6bjJQaU1wRQ?oc=5",
+    "content": "The RP2350 is actually a pretty secure chip, all things considered. It has secure boot, ARMv8’s TrustZone to split secure and non-secure execution, and you can permanently disable debug — the Pi Foundation even included glitch detection, meaning the traditional ‘zap the chip until it obeys’ technique is blocked. That’s why the [Ledger Donjon] security team went full Bond Villain and strapped everyone’s favourite fruit-flavoured microcontroller to a table with a slowly-approaching laser beam.\n![](https://hackaday.com/wp-content/uploads/2026/09/rp2350-laser-exploit-bench.jpg?w=188)\nOkay — movie clichés aside, the laser was in fact very carefully focused on target before they turned it on. That target was the register that enables the 2350’s debug features. Said register was located by decapsulating the chip and examining the die with photon-emission electron microscopy; the actual attack was carried out on a chip that had been decapped on the back side, with IR shining through the silicon wafer. There was probably more than a little trial-and-error to figure out exactly where on the die adjacent to the register to zap with the laser to flip those bits. But flip they did, restoring the debugger’s access to the secure execution zone. Then, after resetting the chip, [Ledger]’s team read the 128-bit secret the Pi Foundation hid in memory as part of the 2350 hacking challenge.\nIt’s long been accepted that once the black hats — or white hats, for that matter — have their hands on your hardware, they’re going to find a way in. The effort it takes to break into a simple microcontroller here is actually kind of impressive. We’ve talked about laser fault injection before; ironically, we’ve also featured Pi Pico-powered glitching attacks — the kind that this chip’s glitch detection thwarts.",
+    "summary": "The Ledger Donjon security team successfully bypassed the security features of the RP2350 microcontroller using a focused laser fault injection attack. By decapsulating the chip and targeting the specific register that enables debug features with infrared light, they were able to restore debugger access to the secure execution zone. This allowed them to reset the chip and successfully read a 128-bit secret hidden in memory as part of the Pi Foundation's hacking challenge.",
+    "key_points": [
+      "The RP2350 microcontroller features robust security, including secure boot, TrustZone, permanent debug disable options, and glitch detection.",
+      "The Ledger Donjon team used photon-emission electron microscopy on a decapsulated chip to locate the register enabling debug features.",
+      "A carefully focused infrared laser was used to flip bits near the target register through the silicon wafer.",
+      "The successful laser fault injection attack restored debugger access, enabling the team to read a 128-bit secret hidden in memory."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-20T12:41:55+00:00"
+  },
+  {
     "id": "3241ab286c0b696206263bcb",
     "title": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art",
     "source": "Nintendo Life",
@@ -2295,29 +2318,5 @@
     "topic": "TECHNOLOGY",
     "app": "uknews",
     "collected_at": "2026-09-05T13:41:09+00:00"
-  },
-  {
-    "id": "2aad5e42f5b0b44f2135c04d",
-    "title": "‘I am proud’: The high street family business still going strong after 80 years",
-    "source": "kentonline.co.uk",
-    "author": "Joe Harbert",
-    "published_at": "2026-09-05T00:00:00",
-    "image": "https://www.kentonline.co.uk/_media/img/87G9T1URYJ52KOCWYJVJ.jpg",
-    "url": "https://www.kentonline.co.uk/ashford/news/i-am-proud-the-high-street-family-business-still-going-st-344712/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWF9LT1RtZ1RxR1o0VzVmdGExU1hRSUN0NHhfdjVsM0dCS092bDZEeGJTZTBCUmp6bGNtWGtKWlNXdjBJRmhSRW1iQ3Y4X3Vqdk9nT2prS3VURkFYMHZUNGhGZDV0UUJ3UjVSLU5CX04yUVhkcnd1Qk5LS21RN1VmUWlnczhWelFYNVhtam1DdDlRWkFvMmh1bWx2T3BmTUNEMUtHSUFpRnBSTEk?oc=5",
-    "content": "UK regional news website of the year\nSurrounded by turntables, amplifiers and speakers, Geoff Mathews is still behind the counter of the family shop he first joined as a young man.\nNow 74, he works alongside his sons Sam, 45, and Daniel, 48 – the third generation of a business that has survived huge changes in technology, shopping habits and the high street itself.\nBut Soundcraft Hi-Fi’s story began 80 years ago and more than 10 miles away, when Geoff’s father Victor opened a very different kind of shop in Hythe.\nThe family business dates back to 1946, when Victor, who had served as a photographer during the Second World War, launched Photocraft in Hythe High Street.\nSelling cameras, lenses, telescopes and binoculars, it moved to Ashford in 1960, with Geoff joining his father behind the counter 12 years later.\n“Back then, customers would visit us on a Friday to buy a camera, bring the film back to us to be developed on the Monday, and then come in on the Wednesday to collect it,” he told KentOnline.\n“But the photography business was becoming more and more driven by price, and there were companies out there like Dixons who were hard to compete with.”\nAs tastes and technology changed, Photocraft branched into audio equipment and became Photocraft Hi-Fi, selling photography and sound equipment side-by-side.\n“We made the transition to audio at a time when rock music was becoming prolific in the 1980s, with The Who, Pink Floyd, and Led Zeppelin,” Geoff said.\n“That was the driving force when people wanted to record, recreate, and listen to the same songs.\n“We always had an interest in radio and receiving radio from international stations, and customers also enjoyed turntables at a time when there were several record shops in Ashford.”\nWith the camera trade becoming increasingly competitive, the family eventually left photography behind altogether and, in the early 1990s, the business became Soundcraft Hi-Fi.\nToday, it remains in Ashford’s Lower High Street, specialising in high-end audio equipment and turning over about £1 million a year.\n“When I started the high street was very different, but when you fast forward people still want to buy the newest equipment.”\nGeoff has added a home cinema to the shop so customers can experience equipment before buying it, while Arcam and Naim streaming products are its bestsellers, with about three turntables sold each week.\n“Creating that immersive sound experience is what we try to do here,” he added.\n“So we're selling and servicing high-end world class products and still telling the same story, but with more quality.\n“We sell assembled turntables, but part of our business is to custom-build them so I can take a Linn turntable someone bought in 1979 and bring it up to the same specification you would buy today.”\nBut surviving for eight decades has meant adapting to more than changing musical tastes and technology.\nGeoff says Brexit, the growth of online shopping and changes to Ashford town centre have all made trading more difficult, revealing Soundcraft could soon leave its long-standing central location.\nAsked about the biggest challenges facing the business today, he said: “Coming out of the EU is probably the worst thing that ever happened to us as it slowed up the supply chain.\n“It fundamentally changed our market because it meant that the delivery times were extended and distribution has become more centralised to Europe.\n“Our whole high street is also harder to trade in now with all the road closures, the creation of the Designer Outlet, and the destruction of Park Mall.\n“We want to continue being a destination store, so we’re more likely than not moving out of the town centre soon.\n“The competition is also much more intense because of Amazon and eBay, so we don’t have people queuing outside the door.\n\"But we adapt as best as we can and have a good website - about one-third of our sales are online now.\n“Of course, our business is very high on referrals and we spend more time going out to customers’ homes.”\nAmong those who have remained loyal to the shop through its changing guises is historian Steve Salter, from Kennington, who has been visiting since the early 1980s.\n“I always come in to see what the latest equipment and audio is,” he said.\n“It’s a success story because it’s developed with the times and is one of Kent’s leading audio specialists.\n“Over the years, I’ve bought amplifiers, CD players, speakers, and even things when they were a photography business.”\nEight decades after Victor Mathews opened Photocraft in Hythe, the cameras and rolls of film have been replaced by turntables, speakers and streaming systems – but the family behind the counter remains the same.\n“I am proud,” Geoff said. “I never expected my two boys to both be here alongside me today.”",
-    "summary": "Soundcraft Hi-Fi is a family-run business in Ashford that has survived for 80 years by adapting from photography to high-end audio equipment. Currently run by Geoff Mathews and his two sons, the shop has evolved through changing technologies, music trends, and shopping habits. Despite challenges such as Brexit, online competition, and local town centre changes, the business continues to thrive through custom builds, home visits, and online sales.",
-    "key_points": [
-      "The business was originally founded as a photography shop called Photocraft in 1946 by Victor Mathews.",
-      "It transitioned into selling audio equipment in the 1980s and eventually became Soundcraft Hi-Fi in the early 1990s.",
-      "The shop is now run by Geoff Mathews and his sons, Sam and Daniel, representing three generations.",
-      "Current challenges include Brexit supply chain issues, online competition from Amazon and eBay, and local town centre changes.",
-      "About one-third of sales are now online, and the business also focuses on custom-building equipment and home visits."
-    ],
-    "language": "en",
-    "country": "GB",
-    "topic": "TECHNOLOGY",
-    "app": "uknews",
-    "collected_at": "2026-09-05T10:59:05+00:00"
   }
 ]
