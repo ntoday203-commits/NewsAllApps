@@ -1,5 +1,29 @@
 [
   {
+    "id": "d2ea2c5cfc1a4f1e043cf422",
+    "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+    "source": "The Verge",
+    "author": "Andrew Liszewski",
+    "published_at": "2026-09-04T00:00:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse1.jpg?quality=90&strip=all&crop=0,10.766205118665,100,78.46758976267",
+    "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+    "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOS1yb014RUNZTEpxYmRhOG0xOWRfNFFDWGRjYTlkN1FKYm5jVEZydGRUa2lTWjk5amMyWGJ6OFJ3NzFLX0JSMDk3RERwdEExLXEtY1BsNU82R2RPZ2hIY2wzdFVqS1JuYnYzdGZ0YkxsWXloTjFyRTl4N0VUM1FJZGJSeVQ4T0xzZWppNVliS3oyOVZnSUJRcVp3?oc=5",
+    "content": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware.\nLexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick\nYou can slim down your portable storage if you don’t mind dealing with a proprietary USB-C cable.\n![lexarmuse1](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse1.jpg?quality=90&strip=all&crop=0%2C0.042301184433164%2C100%2C99.915397631134&w=2400)\n![lexarmuse1](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse1.jpg?quality=90&strip=all&crop=0%2C0.042301184433164%2C100%2C99.915397631134&w=2400)\nWhen the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in the middle it measures just 3.8mm, but that tapers to only 1mm at the edges thanks to high-density NAND stacking and a “custom ultra-thin PCB architecture” inside. But performance remains solid with read speeds up to 1,050MB/s and write speeds maxing out at 1,000MB/s. That’s fast enough to record 4K Apple ProRes video at up to 120fps when connected to a compatible iPhone.\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse4.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\nThe downside is that without a standard USB-C port, you’ll need to rely on — and make sure not to lose — Lexar’s proprietary SnapLink cable that magnetically attaches to a pogo-pin connector on the side of the drive. The company doesn’t specify the strength of the magnets, but this approach also means there’s an increased risk of the cable being accidentally knocked off during a file transfer. And if you are using the Muse to record videos through your phone, you’ll need to slip it into an included magnetic sleeve in order to mount it to the back of your device, adding quite a bit of thickness in the process.",
+    "summary": "Lexar has announced the Muse, an ultra-slim portable SSD measuring less than 4mm thick that is set to launch later this year in 512GB and 1TB capacities. The drive achieves its thin profile by using high-density NAND stacking and a custom PCB architecture while maintaining read speeds up to 1,050MB/s and write speeds up to 1,000MB/s. However, to achieve this slim design, Lexar sacrificed a standard USB-C port in favor of a proprietary magnetic SnapLink cable.",
+    "key_points": [
+      "The Lexar Muse portable SSD measures 3.8mm at its thickest point and tapers to 1mm at the edges.",
+      "It will be available in 512GB and 1TB capacities when it launches later this year.",
+      "The drive delivers read speeds up to 1,050MB/s and write speeds up to 1,000MB/s.",
+      "It lacks a standard USB-C port and requires a proprietary magnetic SnapLink cable for connection.",
+      "Mounting the drive to a phone for video recording requires an included magnetic sleeve, which adds thickness."
+    ],
+    "language": "en",
+    "country": "GB",
+    "topic": "TECHNOLOGY",
+    "app": "uknews",
+    "collected_at": "2026-09-04T18:39:55+00:00"
+  },
+  {
     "id": "535bb6ecf1657d270506ecb5",
     "title": "LEGO PlayStation officially revealed with hidden dioramas",
     "source": "Brick Fanatics",
